@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"cb2efff28d3b2706","type":"file","file":"Notes/Fins journal/data/Первое приключение!.md","x":-860,"y":-260,"width":400,"height":400},
+		{"id":"79d915df0824fd22","type":"file","file":"Notes/Fins journal/data/Поместье Мортиуса Де Града.md","x":140,"y":-260,"width":400,"height":400},
+		{"id":"42d6892a60bd11b8","type":"file","file":"Notes/Fins journal/data/Статуи.md","x":-360,"y":-260,"width":400,"height":400},
+		{"id":"c450f80f98462c41","type":"file","file":"Notes/Fins journal/data/Письмо Мортиусу Де Града.md","x":680,"y":280,"width":400,"height":400,"color":"2"},
+		{"id":"c936b603e478fefe","type":"file","file":"Notes/Fins journal/data/Восстановление Луциана.md","x":1320,"y":280,"width":400,"height":400},
+		{"id":"0b89ea689e81c5a1","type":"file","file":"Notes/Fins journal/data/Слепой Художник.md","x":680,"y":-260,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"43fe166c7794cf5a","fromNode":"cb2efff28d3b2706","fromSide":"right","toNode":"42d6892a60bd11b8","toSide":"left"},
+		{"id":"f199123ee3f665d9","fromNode":"42d6892a60bd11b8","fromSide":"right","toNode":"79d915df0824fd22","toSide":"left"},
+		{"id":"86e9499eb2e2d6cd","fromNode":"79d915df0824fd22","fromSide":"right","toNode":"c450f80f98462c41","toSide":"left"},
+		{"id":"b91ff394773679e3","fromNode":"79d915df0824fd22","fromSide":"right","toNode":"0b89ea689e81c5a1","toSide":"left"},
+		{"id":"f4ff968ddd8a8d12","fromNode":"0b89ea689e81c5a1","fromSide":"right","toNode":"c936b603e478fefe","toSide":"left"}
+	]
+}
