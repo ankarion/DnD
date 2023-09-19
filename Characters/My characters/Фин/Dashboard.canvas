@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a4890851d23984f6","type":"text","text":"```dataview\nTable without id file.link as Знакомые\nfrom \"Characters\"\n```\n\n\n","x":20,"y":-720,"width":420,"height":200},
+		{"id":"0541772be0aa5a21","type":"text","text":"# Логи ^logs\n```dataview\ntable without id file.link as приключения, rewards as награды\nfrom \"Notes/Fins journal\"\nSORT file.cday DESC\n```","x":20,"y":-520,"width":420,"height":480},
+		{"id":"f53c6730c85b74d7","type":"text","text":"![[Фин#Навыки skills]]\n","x":-598,"y":-840,"width":618,"height":800},
+		{"id":"f8572d810268beed","type":"file","file":"_sys/media/Pasted image 20230919223651.png","x":60,"y":-1120,"width":340,"height":398},
+		{"id":"53d2403d4f4d0e4b","type":"text","text":"![[Фин#Внешность looks]]\n","x":-598,"y":-1120,"width":618,"height":280},
+		{"id":"5962dcc56a90f8a2","x":-289,"y":-1204,"width":623,"height":84,"type":"text","text":" Name | Class | Lvl | Race | height | Gender | Align | Background | \n| ---- | ----- | --- | ---- | ------ | ------ | ----- | ---------- |\n|  Фин    | воин      | 3    | человек     | 170       | м       |   зд    | фермер           |"}
+	],
+	"edges":[]
+}
