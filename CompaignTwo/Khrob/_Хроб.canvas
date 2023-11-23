@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"0901fde42e780048","type":"text","text":"# [[Хроб'ок Сын Бати]]","x":140,"y":-450,"width":520,"height":50},
-		{"id":"10bf16cdc8ab474a","type":"text","text":"```dataview\ntable without id\nsum(number(filter(flat(rows.rewards), (t)=>contains(t, \"оп\")))) as exp,\nsum(number(filter(flat(rows.rewards), (t)=>contains(t, \"зм\")))) as gold\nfrom \"CompaignTwo/Khrob\"\nwhere rewards\ngroup by true\n```\n# More info:\n```dataview\ntable without id\nfile.name as source,\ndate,\nsum(number(filter(rewards, (t)=>contains(t, \"оп\")))) as exp,\nsum(number(filter(rewards, (t)=>contains(t, \"зм\")))) as gold\nfrom \"CompaignTwo/Khrob\"\nwhere rewards\nsort file.date asc\n```\n","x":140,"y":-380,"width":520,"height":470}
+		{"id":"10bf16cdc8ab474a","type":"text","text":"```dataview\ntable without id\nsum(number(filter(flat(rows.rewards), (t)=>contains(t, \"оп\")))) as exp,\nsum(number(filter(flat(rows.rewards), (t)=>contains(t, \"зм\")))) as gold\nfrom \"CompaignTwo/Khrob\"\nwhere rewards\ngroup by true\n```\n# More info:\n```dataview\ntable without id\nfile.name as source,\ndate,\nsum(number(filter(rewards, (t)=>contains(t, \"оп\")))) as exp,\nsum(number(filter(rewards, (t)=>contains(t, \"зм\")))) as gold\nfrom \"CompaignTwo/Khrob\"\nwhere rewards\nsort date desc\n```\n\n","x":140,"y":-380,"width":520,"height":470}
 	],
 	"edges":[]
 }
