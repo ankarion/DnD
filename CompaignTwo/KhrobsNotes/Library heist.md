@@ -1,8 +1,9 @@
 ---
 date: 2023-12-07
-character: "[[Хроб'ок сын Бати]]"
+character: "[[Хроб'ок Сын Бати]]"
 type: JournalEntry
-rewards: 
+rewards:
+  - +80оп
 tags:
   - JournalEntry
 banner: "![[город-библиотека.png]]"
