@@ -1,12 +1,12 @@
 {
 	"nodes":[
-		{"id":"0901fde42e780048","type":"text","text":"# Авелль Бэргар","x":140,"y":-450,"width":520,"height":50},
-		{"id":"10bf16cdc8ab474a","type":"text","text":"```dataview\ntable without id\nsum(number(filter(flat(rows.rewards), (t)=>contains(t, \"оп\")))) as exp,\nsum(number(filter(flat(rows.rewards), (t)=>contains(t, \"зм\")))) as gold\nfrom \"CompaignTwo/AvellNotes\"\nwhere rewards\ngroup by true\n```\n# More info:\n```dataview\ntable without id\nfile.link as source,\ndate,\nsum(number(filter(rewards, (t)=>contains(t, \"оп\")))) as exp,\nsum(number(filter(rewards, (t)=>contains(t, \"зм\")))) as gold\nfrom \"CompaignTwo/AvellNotes\"\nwhere rewards\nsort date desc\n```","x":140,"y":-380,"width":520,"height":620},
-		{"id":"67f65fb118bfcce4","type":"text","text":"![[levelingRules|❔]]","x":-140,"y":-450,"width":280,"height":690},
-		{"id":"abe76b1f5df52175","type":"file","file":"_sys/media/AvellAvatar(2).png","x":1080,"y":-450,"width":399,"height":400},
-		{"id":"565530293eb44729","type":"text","text":"Рисунок человека в хорошем настроении сумасшедшего ученого алхимика со светлыми растрепанными короткими волосами, щетиной, россыпью веснушек, кучей старых некротических шрамов и голубыми глазами. На шее тотем медведя","x":681,"y":-50,"width":799,"height":108},
-		{"id":"d94048230b4ce81d","type":"file","file":"_sys/media/AvellAvatar(1).png","x":680,"y":-450,"width":400,"height":396},
-		{"id":"2501047e752a5dbc","type":"file","file":"_sys/media/AvellAvatar(4).png","x":1480,"y":-449,"width":400,"height":399}
+		{"type":"text","text":"# Авелль Бэргар","id":"0901fde42e780048","x":140,"y":-450,"width":520,"height":50},
+		{"type":"text","text":"```dataview\ntable without id\nsum(number(filter(flat(rows.rewards), (t)=>contains(t, \"оп\")))) as exp,\nsum(number(filter(flat(rows.rewards), (t)=>contains(t, \"зм\")))) as gold\nfrom \"CompaignTwo/AvellNotes\"\nwhere rewards\ngroup by true\n```\n# More info:\n```dataview\ntable without id\nfile.link as source,\ndate,\nsum(number(filter(rewards, (t)=>contains(t, \"оп\")))) as exp,\nsum(number(filter(rewards, (t)=>contains(t, \"зм\")))) as gold\nfrom \"CompaignTwo/AvellNotes\"\nwhere rewards\nsort date desc\n```","id":"10bf16cdc8ab474a","x":140,"y":-380,"width":520,"height":620},
+		{"type":"text","text":"![[levelingRules|❔]]","id":"67f65fb118bfcce4","x":-140,"y":-450,"width":280,"height":690},
+		{"type":"file","file":"_sys/media/AvellAvatar(2).png","id":"abe76b1f5df52175","x":1080,"y":-450,"width":399,"height":400},
+		{"type":"text","text":"Рисунок человека в хорошем настроении сумасшедшего ученого алхимика со светлыми растрепанными короткими волосами, щетиной, россыпью веснушек, кучей старых некротических шрамов и голубыми глазами. На шее тотем медведя","id":"565530293eb44729","x":681,"y":-50,"width":799,"height":108},
+		{"type":"file","file":"_sys/media/AvellAvatar(1).png","id":"d94048230b4ce81d","x":680,"y":-450,"width":400,"height":396},
+		{"type":"file","file":"_sys/media/AvellAvatar(4).png","id":"2501047e752a5dbc","x":1480,"y":-449,"width":400,"height":399}
 	],
 	"edges":[]
 }
