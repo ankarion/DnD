@@ -5,7 +5,7 @@
 		{"type":"text","text":"![[levelingRules|❔]]","id":"67f65fb118bfcce4","x":-140,"y":-450,"width":280,"height":750},
 		{"type":"file","file":"_sys/media/AvellAvatar(1).png","id":"d94048230b4ce81d","x":680,"y":-450,"width":400,"height":396},
 		{"type":"text","text":"Человек с вайбом сумасшедшего ученого алхимика со светлыми растрепанными короткими волосами, щетиной, россыпью веснушек, кучей старых некротических шрамов и голубыми глазами. На шее тотем медведя","id":"565530293eb44729","x":1080,"y":-450,"width":320,"height":396},
-		{"id":"3192f00e54f836f3","x":680,"y":-54,"width":399,"height":354,"type":"text","text":"```dataview\ntable without id\nrewards as inventory,\nfile.link as source\nfrom \"CompaignTwo/AvellNotes\"\nflatten rewards\nwhere \n\t!contains(rewards, \"зм\") and\n\t!contains(rewards, \"оп\")\n```\n"}
+		{"type":"text","text":"```dataview\ntable without id\nrewards as inventory,\nfile.link as source\nfrom \"CompaignTwo/AvellNotes\"\nflatten rewards\nwhere \n\t!contains(rewards, \"зм\") and\n\t!contains(rewards, \"оп\")\n```\n","id":"3192f00e54f836f3","x":680,"y":-54,"width":399,"height":354}
 	],
 	"edges":[]
 }
