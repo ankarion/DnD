@@ -1,7 +1,4 @@
 ---
-banner: "![[город-библиотека.png]]"
----
----
 date: 2023-12-07
 character: "[[Хроб'ок Сын Бати]]"
 type: JournalEntry
