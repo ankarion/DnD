@@ -1,6 +1,6 @@
 ```leaflet
 id: "{{title}}:{{date}}"
-image:[[map.jpg]]
+image:[[ErvindellMapOfficial.jpg]]
 height: 500px
 defaultZoom: 8
 ```

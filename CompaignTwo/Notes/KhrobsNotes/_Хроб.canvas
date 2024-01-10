@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"3d85eb8a5df554d0","type":"file","file":"_sys/rules/leveling.md","x":-60,"y":-500,"width":200,"height":800},
+		{"type":"text","text":"```dataview\ntable without id\nrewards as inventory,\nfile.link as source\nfrom \"CompaignTwo/Notes/KhrobsNotes\"\nwhere rewards\nflatten rewards\nwhere \n\t!contains(rewards, \"зм\") and\n\t!contains(rewards, \"оп\") and\n\t!contains(rewards, \"сухпай\")\n```\n","id":"9882a36528e51147","x":140,"y":-100,"width":520,"height":400},
+		{"type":"text","text":"Просто набор противоречий. 2х метровая широкоплечая огромная фигура, но при этом закутанная в мантию скрывающую носителя. На голове шляпа волшебника, но когда ходит - звенит тяжелым доспехом. А на плече при этом сидит сова. Из оружия только один посох\n\n---\nвысокий и мускулистый, с ярко выраженными орочьими чертами лица. Его кожа имеет светло-серый оттенок, а его волосы - темные и коротко подстриженные. На его лице выделяются ясные серые глаза, которые смотрят на мир с любопытством и добротой. Его одежда представляет собой немного нелепую смесь свеженькой брони пластинчатой и шляпы волшебника.","id":"c620d0c0a29334b6","x":662,"y":-160,"width":360,"height":460},
+		{"type":"text","text":"```dataview\ntable without id\nsum(number(filter(flat(rows.rewards), (t)=>contains(t, \"оп\")))) as exp,\nsum(number(filter(flat(rows.rewards), (t)=>contains(t, \"зм\")))) as gold,\nsum(number(filter(flat(rows.rewards), (t)=>contains(t, \"сухпай\")))) as food\nfrom \"CompaignTwo/Notes/KhrobsNotes\"\nwhere rewards\ngroup by true\n```","id":"10bf16cdc8ab474a","x":141,"y":-500,"width":520,"height":100},
+		{"type":"file","file":"_sys/media/KhrobOk.png","id":"5932678b42ebeb0c","x":661,"y":-500,"width":361,"height":340},
+		{"id":"556258a75c35030f","type":"text","text":"```dataview\ntable without id\nfile.link as source,\ndate,\nsum(number(filter(rewards, (t)=>contains(t, \"оп\")))) as exp,\nsum(number(filter(rewards, (t)=>contains(t, \"зм\")))) as gold\nfrom \"CompaignTwo/Notes/KhrobsNotes\"\nwhere rewards\nsort date desc\n```\n","x":141,"y":-400,"width":520,"height":300},
+		{"type":"text","text":"# [[Хроб'ок Сын Бати]]","id":"0901fde42e780048","x":400,"y":-550,"width":360,"height":50}
+	],
+	"edges":[]
+}
