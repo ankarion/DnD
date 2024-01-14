@@ -8,4 +8,4 @@ from "CompaignTwo"
 where rewards and this.file.folder=file.folder
 group by true
 ```
-[[leveling|manual]]
+[[leveling.js|manual]]
