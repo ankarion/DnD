@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"e74f0d244f5fa1e9","type":"text","text":"# Step 0\nУзнать о библиотеке","x":-682,"y":-220,"width":285,"height":140,"color":"4"},
+		{"id":"acc0f766b848e77d","type":"text","text":"Найти умных чуваков","x":-300,"y":-249,"width":280,"height":60},
+		{"id":"7ac8999431f5e9ca","type":"text","text":"Сделать чуваков умными","x":-300,"y":-110,"width":280,"height":50},
+		{"id":"45c4645399d30b6c","type":"text","text":"Притвориться умным чуваком","x":-300,"y":-189,"width":280,"height":79},
+		{"id":"d139f401a5670351","type":"text","text":"Как найти умников?\n- они в шапке\n- они говорят не понятно","x":61,"y":-340,"width":239,"height":151},
+		{"id":"962eab0a1cb414ac","type":"text","text":"PROFIT","x":371,"y":-178,"width":250,"height":60,"color":"4"},
+		{"id":"f84b37ae9c9c054e","type":"text","text":"Не реально","x":56,"y":-110,"width":250,"height":50,"color":"1"},
+		{"id":"02530b2f6876c07b","type":"text","text":"# Step 1\n1. Определиться с целью ✅\n2. Собрать информацию ✅\n3. Провести слежку ✅\n4. Провести подготовительную работу 🧰\n5. Провести операцию\n6. Не попасться","x":-682,"y":-20,"width":285,"height":440,"color":"3"},
+		{"id":"38bd622a3d6aae12","type":"text","text":"# Hrobs library heist","x":-716,"y":-365,"width":353,"height":50},
+		{"id":"8e019ad4c03812b0","x":-937,"y":-315,"width":255,"height":255,"type":"file","file":"_sys/media/biblioplex_sketch.png"}
+	],
+	"edges":[
+		{"id":"1429d40e8627c385","fromNode":"38bd622a3d6aae12","fromSide":"bottom","toNode":"e74f0d244f5fa1e9","toSide":"top"},
+		{"id":"6f0beff3630345e8","fromNode":"e74f0d244f5fa1e9","fromSide":"right","toNode":"acc0f766b848e77d","toSide":"left"},
+		{"id":"82df4d86020aedd2","fromNode":"e74f0d244f5fa1e9","fromSide":"right","toNode":"7ac8999431f5e9ca","toSide":"left"},
+		{"id":"1350695e065502f5","fromNode":"e74f0d244f5fa1e9","fromSide":"right","toNode":"45c4645399d30b6c","toSide":"left"},
+		{"id":"7f8f3255560da46a","fromNode":"acc0f766b848e77d","fromSide":"right","toNode":"d139f401a5670351","toSide":"left"},
+		{"id":"bf8696b2b4d9eb58","fromNode":"45c4645399d30b6c","fromSide":"right","toNode":"962eab0a1cb414ac","toSide":"left"},
+		{"id":"225f2b0a45df9196","fromNode":"d139f401a5670351","fromSide":"right","toNode":"962eab0a1cb414ac","toSide":"left"},
+		{"id":"9fc5688fee68a079","fromNode":"7ac8999431f5e9ca","fromSide":"right","toNode":"f84b37ae9c9c054e","toSide":"left"},
+		{"id":"e80c182de21d4b2f","fromNode":"e74f0d244f5fa1e9","fromSide":"bottom","toNode":"02530b2f6876c07b","toSide":"top"}
+	]
+}
