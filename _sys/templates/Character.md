@@ -4,24 +4,15 @@ tags:
   - character
 ---
 
-
-```dataview
-table without id
-sum(number(filter(flat(flat(rows.rewards)), (t)=>contains(t, "оп")))) as оп,
-sum(number(filter(flat(flat(rows.rewards)), (t)=>contains(t, "зм")))) as зм,
-sum(number(filter(flat(flat(rows.rewards)), (t)=>contains(t, "сухпай")))) as сухпай
-from "CompaignTwo"
-where rewards and this.file.folder=file.folder
-group by true
-```
 ```dataviewjs
-function calculateLvL(exp){
-        let requiredExpRules = [200,400,700,1000,1300,1800,2300,2800,3500,4200,4900,5600,6500,7400,8300,9200,10300,11400,12500,13600];
-        let lvl=1;
-        for (let requiredExp of requiredExpRules){
-                if (exp<requiredExp) {return lvl;}
-                else lvl+=1;
-        }
+let lvlUpRules = [200, 400, 700, 1000, 1300, 1800, 2300, 2800, 3500, 4200, 4900, 5600, 6500, 7400, 8300, 9200, 10300, 11400, 12500, 13600];
+
+function calculateLvL(lvlUpRules,exp){
+	let lvl=1;
+	for (let requiredExp of lvlUpRules){
+		if (exp<requiredExp) {return lvl;}
+		else lvl+=1;
+	}
 }
 
 function flatten(list){
@@ -44,14 +35,24 @@ let exp = rewards.filter((t)=>t.split("оп").length>1);
 exp = exp.map((t)=>parseInt(t.split("оп")[0]));
 exp = exp.reduce((acc, val) => acc + val, 0);
 
-let lvl = calculateLvL(exp);
+let lvl = calculateLvL(lvlUpRules,exp);
 
 let gp = rewards.filter((t)=>t.split("зм").length>1);
 gp = gp.map((t)=>parseInt(t.split("зм")[0]));
 gp = gp.reduce((acc, val) => acc + val, 0);
 
-dv.paragraph("**Уровень:** "+lvl+"("+exp+")")
-dv.paragraph("**Доход:** "+gp+"зм")
+let food = rewards.filter((t)=>t.split("сухпай").length>1);
+food = food.map((t)=>parseInt(t.split("сухпай")[0]));
+food = food.reduce((acc, val) => acc + val, 0);
+
+dv.span(
+        "**Уровень:** "+lvl+"("+exp+"/"+lvlUpRules[lvl-1]+") "
+        + "![progress](https://progress-bar.dev/"
+        + parseInt((exp / lvlUpRules[lvl-1]) * 100)
+        + "/)"
+    )
+dv.paragraph("**Доход🪙:** "+gp+" зм")
+dv.paragraph("**Еда🍖:** "+food+" сухпай")
 ```
 
 > [!info]- Репутация
