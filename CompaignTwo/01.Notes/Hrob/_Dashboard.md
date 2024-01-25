@@ -1,8 +1,3 @@
----
-type: character
-tags:
-  - character
----
 
 ![[Хроб.png|500]]
 
@@ -53,7 +48,7 @@ dv.span(
         + parseInt((exp / lvlUpRules[lvl-1]) * 100)
         + "/)"
     )
-dv.paragraph("**Доход🪙:** "+gp+" зм")
+dv.paragraph("**Золото🪙:** "+gp+" зм")
 dv.paragraph("**Еда🍖:** "+food+" сухпай")
 ```
 
@@ -61,7 +56,7 @@ dv.paragraph("**Еда🍖:** "+food+" сухпай")
 > 
 > | Fraction | Репутация | ✉️ |
 > | ---- | ---- | ---- |
-> | Археологи | `$= dv.pages().where(page => page.fraction=="археологи"&& (page.file.folder==dv.current().file.folder)).length` | ✅ |
+> | Археологи | `$= dv.pages().where(page => page.fraction && page.fraction=="археологи"&& (page.file.folder==dv.current().file.folder)).length` | ✅ |
 > | Маги | `$= dv.pages().where(page => page.fraction=="маги"&& (page.file.folder==dv.current().file.folder)).length` |  |
 > | Наемники | `$= dv.pages().where(page => page.fraction=="наемники"&& (page.file.folder==dv.current().file.folder)).length` |  |
 > | Судостроители | `$= dv.pages().where(page => page.fraction=="судостроители"&& (page.file.folder==dv.current().file.folder)).length` |  |
@@ -96,7 +91,6 @@ dv.paragraph("**Еда🍖:** "+food+" сухпай")
 > }
 > dv.table(['Term', 'Definition', 'Source'], rows)
 > ```
-
 
 > [!about] 🪞 Внешность
 > 2х метровая широкоплечая огромная фигура, но при этом закутанная в мантию скрывающую носителя. На голове шляпа волшебника, но когда ходит - звенит тяжелым доспехом. А на плече при этом сидит сова. Из оружия только один посох.
