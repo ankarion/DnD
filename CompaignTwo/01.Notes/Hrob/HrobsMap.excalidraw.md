@@ -20,6 +20,10 @@ tags: [excalidraw]
 
 Лес ^n4YQIBeT
 
+Дварфы ^ZLTErfQP
+
+Эльфы ^cUkgsa0L
+
 
 # Embedded files
 c581b252876d936d62350e6c629a749cf561941e: [[ErvindellMapOfficial.jpg]]
@@ -36,8 +40,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 	"elements": [
 		{
 			"type": "image",
-			"version": 1465,
-			"versionNonce": 1800230538,
+			"version": 1467,
+			"versionNonce": 1912177045,
 			"isDeleted": false,
 			"id": "rAmciv9u",
 			"fillStyle": "hachure",
@@ -57,7 +61,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -69,8 +73,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "image",
-			"version": 1159,
-			"versionNonce": 1002483478,
+			"version": 1161,
+			"versionNonce": 1703464507,
 			"isDeleted": false,
 			"id": "HMOSjliD",
 			"fillStyle": "hachure",
@@ -90,7 +94,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -102,8 +106,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 439,
-			"versionNonce": 1630926154,
+			"version": 441,
+			"versionNonce": 786335477,
 			"isDeleted": false,
 			"id": "hPXCLSjTBR82bvKdSILtF",
 			"fillStyle": "solid",
@@ -123,7 +127,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2010,8 +2014,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 285,
-			"versionNonce": 1833327702,
+			"version": 287,
+			"versionNonce": 426331867,
 			"isDeleted": false,
 			"id": "6iFb0qvTcXLmHnWip7Dx3",
 			"fillStyle": "solid",
@@ -2031,7 +2035,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3148,8 +3152,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 701,
-			"versionNonce": 907852810,
+			"version": 703,
+			"versionNonce": 129753173,
 			"isDeleted": false,
 			"id": "TZmTBKqEF60jvcK8nwI7f",
 			"fillStyle": "solid",
@@ -3169,7 +3173,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6371,8 +6375,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 102,
-			"versionNonce": 1411670422,
+			"version": 104,
+			"versionNonce": 1253096315,
 			"isDeleted": false,
 			"id": "UocIf3r_0n-A0TP7KEgTQ",
 			"fillStyle": "solid",
@@ -6392,7 +6396,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6599,8 +6603,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 98,
-			"versionNonce": 939305674,
+			"version": 100,
+			"versionNonce": 40308149,
 			"isDeleted": false,
 			"id": "GE9VwI5PMzhiH3kaF2-bd",
 			"fillStyle": "solid",
@@ -6620,7 +6624,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6807,8 +6811,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 112,
-			"versionNonce": 1401929430,
+			"version": 114,
+			"versionNonce": 94475291,
 			"isDeleted": false,
 			"id": "79XBheUEfmQ21hsp7nMGr",
 			"fillStyle": "solid",
@@ -6828,7 +6832,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7085,8 +7089,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 161,
-			"versionNonce": 1030799754,
+			"version": 163,
+			"versionNonce": 1308987157,
 			"isDeleted": false,
 			"id": "pldjsJb6rhIx77jIhVH1T",
 			"fillStyle": "solid",
@@ -7106,7 +7110,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7608,8 +7612,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 140,
-			"versionNonce": 538801174,
+			"version": 142,
+			"versionNonce": 707680443,
 			"isDeleted": false,
 			"id": "3u3UQeN8-IZwk3Z2ubm35",
 			"fillStyle": "solid",
@@ -7629,7 +7633,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8016,8 +8020,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 113,
-			"versionNonce": 297009226,
+			"version": 115,
+			"versionNonce": 420275317,
 			"isDeleted": false,
 			"id": "GkEgvbVoJ71_To46I_JMe",
 			"fillStyle": "solid",
@@ -8037,7 +8041,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8299,8 +8303,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 113,
-			"versionNonce": 331514198,
+			"version": 115,
+			"versionNonce": 1979287899,
 			"isDeleted": false,
 			"id": "QuauPxJdW5ryKs1lszRKr",
 			"fillStyle": "solid",
@@ -8320,7 +8324,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8582,8 +8586,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 129,
-			"versionNonce": 1621190410,
+			"version": 131,
+			"versionNonce": 658673109,
 			"isDeleted": false,
 			"id": "Xjphw0kmALey_oOGM93iF",
 			"fillStyle": "solid",
@@ -8603,7 +8607,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8945,8 +8949,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 212,
-			"versionNonce": 30664342,
+			"version": 214,
+			"versionNonce": 1314235899,
 			"isDeleted": false,
 			"id": "HnVCQjD1vRNvPlOTURctc",
 			"fillStyle": "solid",
@@ -8966,7 +8970,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9723,8 +9727,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 118,
-			"versionNonce": 582219210,
+			"version": 120,
+			"versionNonce": 666635061,
 			"isDeleted": false,
 			"id": "kupejS1H26hUx7fNWebdp",
 			"fillStyle": "solid",
@@ -9744,7 +9748,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10031,8 +10035,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 424,
-			"versionNonce": 184984534,
+			"version": 426,
+			"versionNonce": 1246047899,
 			"isDeleted": false,
 			"id": "7ciLFhAz18ZuiZnE5BK28",
 			"fillStyle": "solid",
@@ -10052,7 +10056,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11869,8 +11873,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 65,
-			"versionNonce": 151432330,
+			"version": 67,
+			"versionNonce": 1256119445,
 			"isDeleted": false,
 			"id": "44JjmRhmOpxOXLiG6LE0h",
 			"fillStyle": "solid",
@@ -11890,7 +11894,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11912,8 +11916,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "text",
-			"version": 1622,
-			"versionNonce": 1620799419,
+			"version": 1627,
+			"versionNonce": 747722282,
 			"isDeleted": false,
 			"id": "iKDxVZ2I",
 			"fillStyle": "solid",
@@ -11922,8 +11926,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0.8084718595364011,
-			"x": -44.77913205987687,
-			"y": 74.10370930841106,
+			"x": -46.57400493222385,
+			"y": 78.29934390406174,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 71.15223693847656,
@@ -11933,7 +11937,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706471821004,
+			"updated": 1707206466639,
 			"link": null,
 			"locked": false,
 			"fontSize": 6.858824951862842,
@@ -11949,8 +11953,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "text",
-			"version": 441,
-			"versionNonce": 484490613,
+			"version": 446,
+			"versionNonce": 544602486,
 			"isDeleted": false,
 			"id": "sgrWDKWw",
 			"fillStyle": "solid",
@@ -11970,7 +11974,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706471821004,
+			"updated": 1707206466639,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -11986,8 +11990,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 55,
-			"versionNonce": 1820599894,
+			"version": 57,
+			"versionNonce": 2102952923,
 			"isDeleted": false,
 			"id": "1U3TjOlQ8edmlRshD3Ehw",
 			"fillStyle": "solid",
@@ -12007,7 +12011,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12034,8 +12038,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 679,
-			"versionNonce": 704156170,
+			"version": 681,
+			"versionNonce": 88505173,
 			"isDeleted": false,
 			"id": "_Fo-NfKM9iGkzDkiV5gtG",
 			"fillStyle": "solid",
@@ -12055,7 +12059,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15202,8 +15206,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 66,
-			"versionNonce": 2098785174,
+			"version": 68,
+			"versionNonce": 888230011,
 			"isDeleted": false,
 			"id": "ab_EySdMIcXaKJPjxLKvv",
 			"fillStyle": "solid",
@@ -15223,7 +15227,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15305,8 +15309,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 76,
-			"versionNonce": 770556106,
+			"version": 78,
+			"versionNonce": 1239828661,
 			"isDeleted": false,
 			"id": "mhXQfNXiCoUKAmzxaLhEs",
 			"fillStyle": "solid",
@@ -15326,7 +15330,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15458,8 +15462,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 78,
-			"versionNonce": 1097009366,
+			"version": 80,
+			"versionNonce": 1694992667,
 			"isDeleted": false,
 			"id": "UsFEc48AEPM-JF83jGM1U",
 			"fillStyle": "solid",
@@ -15479,7 +15483,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15621,8 +15625,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 80,
-			"versionNonce": 1087313802,
+			"version": 82,
+			"versionNonce": 2011523605,
 			"isDeleted": false,
 			"id": "5powcrcOjT5hr3iKa21n8",
 			"fillStyle": "solid",
@@ -15642,7 +15646,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15794,8 +15798,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 80,
-			"versionNonce": 1224179222,
+			"version": 82,
+			"versionNonce": 1930276283,
 			"isDeleted": false,
 			"id": "JsOI3tE78GXDTjs8mN_Pc",
 			"fillStyle": "solid",
@@ -15815,7 +15819,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15967,8 +15971,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 83,
-			"versionNonce": 47683146,
+			"version": 85,
+			"versionNonce": 1345937269,
 			"isDeleted": false,
 			"id": "RnxZx25u0SDEqw6ohrhTy",
 			"fillStyle": "solid",
@@ -15988,7 +15992,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16155,8 +16159,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 83,
-			"versionNonce": 1758153558,
+			"version": 85,
+			"versionNonce": 1915108955,
 			"isDeleted": false,
 			"id": "UTul_CMNnTuw93g810Al8",
 			"fillStyle": "solid",
@@ -16176,7 +16180,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16343,8 +16347,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 83,
-			"versionNonce": 1424112906,
+			"version": 85,
+			"versionNonce": 1495771349,
 			"isDeleted": false,
 			"id": "BynKFZWHLScbNJQgP30U1",
 			"fillStyle": "solid",
@@ -16364,7 +16368,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16531,8 +16535,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 81,
-			"versionNonce": 255029398,
+			"version": 83,
+			"versionNonce": 1831058171,
 			"isDeleted": false,
 			"id": "002F1gawTZIO3enTDJ_JE",
 			"fillStyle": "solid",
@@ -16552,7 +16556,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16709,8 +16713,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 76,
-			"versionNonce": 1147800522,
+			"version": 78,
+			"versionNonce": 876987957,
 			"isDeleted": false,
 			"id": "F95etnA1oIZpBEn3NXgUt",
 			"fillStyle": "solid",
@@ -16730,7 +16734,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16862,8 +16866,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 400879062,
+			"version": 75,
+			"versionNonce": 1888002971,
 			"isDeleted": false,
 			"id": "qCOT5su7ES92NjTmFhbmx",
 			"fillStyle": "solid",
@@ -16883,7 +16887,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17000,8 +17004,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 75,
-			"versionNonce": 2005533322,
+			"version": 77,
+			"versionNonce": 880359317,
 			"isDeleted": false,
 			"id": "c4mejJm_IGyAuMYNDELHl",
 			"fillStyle": "solid",
@@ -17021,7 +17025,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17148,8 +17152,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 536134422,
+			"version": 75,
+			"versionNonce": 1418164283,
 			"isDeleted": false,
 			"id": "O6A_x8TOaHD096iiIjelT",
 			"fillStyle": "solid",
@@ -17169,7 +17173,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17286,8 +17290,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 75,
-			"versionNonce": 419242314,
+			"version": 77,
+			"versionNonce": 871857397,
 			"isDeleted": false,
 			"id": "8wmXVOIuxxWfKbk_Ze9Sq",
 			"fillStyle": "solid",
@@ -17307,7 +17311,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17434,8 +17438,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 76,
-			"versionNonce": 1507323990,
+			"version": 78,
+			"versionNonce": 1191360731,
 			"isDeleted": false,
 			"id": "N3HLx-EMpo3vRUDj5-SNw",
 			"fillStyle": "solid",
@@ -17455,7 +17459,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17587,8 +17591,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 76,
-			"versionNonce": 1142843402,
+			"version": 78,
+			"versionNonce": 709236309,
 			"isDeleted": false,
 			"id": "-bdtlH-Y53C8jHdSZu-KD",
 			"fillStyle": "solid",
@@ -17608,7 +17612,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17740,8 +17744,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 77,
-			"versionNonce": 1633908118,
+			"version": 79,
+			"versionNonce": 361555323,
 			"isDeleted": false,
 			"id": "aSyRPVZmSW6P21QR5ZqK-",
 			"fillStyle": "solid",
@@ -17761,7 +17765,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17898,8 +17902,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 78,
-			"versionNonce": 1894307530,
+			"version": 80,
+			"versionNonce": 37389237,
 			"isDeleted": false,
 			"id": "KSKbXHhr0wWHjgq2NMPIg",
 			"fillStyle": "solid",
@@ -17919,7 +17923,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18061,8 +18065,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 83,
-			"versionNonce": 265048790,
+			"version": 85,
+			"versionNonce": 929594907,
 			"isDeleted": false,
 			"id": "v1oWdnrYAIaD4hOv3Mi-N",
 			"fillStyle": "solid",
@@ -18082,7 +18086,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18249,8 +18253,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 82,
-			"versionNonce": 1610050954,
+			"version": 84,
+			"versionNonce": 804930837,
 			"isDeleted": false,
 			"id": "5v38Iqpx51QtDVv8wwNYF",
 			"fillStyle": "solid",
@@ -18270,7 +18274,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18432,8 +18436,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 89,
-			"versionNonce": 1336379414,
+			"version": 91,
+			"versionNonce": 394789563,
 			"isDeleted": false,
 			"id": "_ZaXsFKn2nmmp_ry6Nb1u",
 			"fillStyle": "solid",
@@ -18453,7 +18457,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18650,8 +18654,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 89,
-			"versionNonce": 109390922,
+			"version": 91,
+			"versionNonce": 117103221,
 			"isDeleted": false,
 			"id": "QCCVgZIGLpQIQqG39GJzP",
 			"fillStyle": "solid",
@@ -18671,7 +18675,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18868,8 +18872,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 87,
-			"versionNonce": 1894389078,
+			"version": 89,
+			"versionNonce": 512619355,
 			"isDeleted": false,
 			"id": "7maTej_aWdPPsR615qDPG",
 			"fillStyle": "solid",
@@ -18889,7 +18893,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19076,8 +19080,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 78,
-			"versionNonce": 2053968650,
+			"version": 80,
+			"versionNonce": 1342292949,
 			"isDeleted": false,
 			"id": "nmnoBzIoyC9fVlUq049RJ",
 			"fillStyle": "solid",
@@ -19097,7 +19101,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934341,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19239,8 +19243,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 404,
-			"versionNonce": 2095643286,
+			"version": 406,
+			"versionNonce": 2093797371,
 			"isDeleted": false,
 			"id": "LVOFSZaUub6XYzzX2Pcoi",
 			"fillStyle": "solid",
@@ -19260,7 +19264,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21032,8 +21036,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 123,
-			"versionNonce": 1579819466,
+			"version": 125,
+			"versionNonce": 522486069,
 			"isDeleted": false,
 			"id": "Fl33q5SHWGIk_SF2iEKF3",
 			"fillStyle": "solid",
@@ -21053,7 +21057,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21420,8 +21424,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 156,
-			"versionNonce": 173619158,
+			"version": 158,
+			"versionNonce": 877074587,
 			"isDeleted": false,
 			"id": "kLxqFxXXigy77I8ZhZQCz",
 			"fillStyle": "solid",
@@ -21441,7 +21445,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21973,8 +21977,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 127,
-			"versionNonce": 1289181322,
+			"version": 129,
+			"versionNonce": 1774752405,
 			"isDeleted": false,
 			"id": "8nUsUnxvCR1nKTQNwnZYz",
 			"fillStyle": "solid",
@@ -21994,7 +21998,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22381,8 +22385,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 145,
-			"versionNonce": 290442518,
+			"version": 147,
+			"versionNonce": 1655655739,
 			"isDeleted": false,
 			"id": "PBA7vZhl0PvctFL8J5OzF",
 			"fillStyle": "solid",
@@ -22402,7 +22406,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22879,8 +22883,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 96,
-			"versionNonce": 1177532234,
+			"version": 98,
+			"versionNonce": 1554216949,
 			"isDeleted": false,
 			"id": "WP1cXg8TQ0aXcnrfacgNf",
 			"fillStyle": "solid",
@@ -22900,7 +22904,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23132,8 +23136,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 105,
-			"versionNonce": 1061272150,
+			"version": 107,
+			"versionNonce": 1265102299,
 			"isDeleted": false,
 			"id": "58-HkJQ23oLOc0mhTOLLO",
 			"fillStyle": "solid",
@@ -23153,7 +23157,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23430,8 +23434,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 158,
-			"versionNonce": 445529610,
+			"version": 160,
+			"versionNonce": 1908060501,
 			"isDeleted": false,
 			"id": "95Lshyv6qQx0jeSLfolvH",
 			"fillStyle": "solid",
@@ -23451,7 +23455,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23993,8 +23997,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 93,
-			"versionNonce": 1258553238,
+			"version": 95,
+			"versionNonce": 562264699,
 			"isDeleted": false,
 			"id": "KqQ8njyoi6KcGS2zLpt12",
 			"fillStyle": "solid",
@@ -24014,7 +24018,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24241,8 +24245,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 80,
-			"versionNonce": 1458433226,
+			"version": 82,
+			"versionNonce": 1180942005,
 			"isDeleted": false,
 			"id": "WJaBtlgLUgEQeD3VDtl87",
 			"fillStyle": "solid",
@@ -24262,7 +24266,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24424,8 +24428,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 82,
-			"versionNonce": 1221303510,
+			"version": 84,
+			"versionNonce": 298087195,
 			"isDeleted": false,
 			"id": "u1H8scHMJpPwab7DN71MH",
 			"fillStyle": "solid",
@@ -24445,7 +24449,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24617,8 +24621,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 88,
-			"versionNonce": 820626314,
+			"version": 90,
+			"versionNonce": 826548245,
 			"isDeleted": false,
 			"id": "r_wj8YN3NxwyzzTMvwxy_",
 			"fillStyle": "solid",
@@ -24638,7 +24642,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020931,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24840,8 +24844,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 83,
-			"versionNonce": 2116915734,
+			"version": 85,
+			"versionNonce": 211638203,
 			"isDeleted": false,
 			"id": "9MBKnwbToqerusc8FQtvN",
 			"fillStyle": "solid",
@@ -24861,7 +24865,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25038,8 +25042,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 80,
-			"versionNonce": 1924973130,
+			"version": 82,
+			"versionNonce": 407983477,
 			"isDeleted": false,
 			"id": "COjA8NgHl8ElIeSP7M5jL",
 			"fillStyle": "solid",
@@ -25059,7 +25063,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25221,8 +25225,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 81,
-			"versionNonce": 907992918,
+			"version": 83,
+			"versionNonce": 1345366107,
 			"isDeleted": false,
 			"id": "7VQPfa0jReBi1WCGx5kjD",
 			"fillStyle": "solid",
@@ -25242,7 +25246,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25409,8 +25413,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 80,
-			"versionNonce": 1732372746,
+			"version": 82,
+			"versionNonce": 114351829,
 			"isDeleted": false,
 			"id": "DWeQ6Ho5inWE-91qtcv-W",
 			"fillStyle": "solid",
@@ -25430,7 +25434,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25592,8 +25596,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 78,
-			"versionNonce": 351569046,
+			"version": 80,
+			"versionNonce": 844162299,
 			"isDeleted": false,
 			"id": "SWQz25dPfeWhs3bh0zYXK",
 			"fillStyle": "solid",
@@ -25613,7 +25617,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25765,8 +25769,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 78,
-			"versionNonce": 1173632970,
+			"version": 80,
+			"versionNonce": 56114229,
 			"isDeleted": false,
 			"id": "nUYHnNvqk8ztWrJHKqUZJ",
 			"fillStyle": "solid",
@@ -25786,7 +25790,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25938,8 +25942,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 76,
-			"versionNonce": 1818460630,
+			"version": 78,
+			"versionNonce": 713067931,
 			"isDeleted": false,
 			"id": "Syjb4ED8VEC_aiaQo9T76",
 			"fillStyle": "solid",
@@ -25959,7 +25963,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26101,8 +26105,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 82,
-			"versionNonce": 518958730,
+			"version": 84,
+			"versionNonce": 634187157,
 			"isDeleted": false,
 			"id": "poDS2SgrYulcZvwCzfLVy",
 			"fillStyle": "solid",
@@ -26122,7 +26126,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26294,8 +26298,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 79,
-			"versionNonce": 260101910,
+			"version": 81,
+			"versionNonce": 468853307,
 			"isDeleted": false,
 			"id": "X7TWyPr9zBkf68RS1WcQb",
 			"fillStyle": "solid",
@@ -26315,7 +26319,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26472,8 +26476,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 127,
-			"versionNonce": 1189891402,
+			"version": 129,
+			"versionNonce": 1835299573,
 			"isDeleted": false,
 			"id": "UcRUxMa5BH1dSPGrBlpMx",
 			"fillStyle": "solid",
@@ -26493,7 +26497,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26905,8 +26909,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 126,
-			"versionNonce": 650216534,
+			"version": 128,
+			"versionNonce": 1602757339,
 			"isDeleted": false,
 			"id": "QWgrlMrZXUDkQSmOIdhY2",
 			"fillStyle": "solid",
@@ -26926,7 +26930,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27333,8 +27337,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 101,
-			"versionNonce": 1128797194,
+			"version": 103,
+			"versionNonce": 1453608021,
 			"isDeleted": false,
 			"id": "KZuJdELnOTtKwe-BYmU0o",
 			"fillStyle": "solid",
@@ -27354,7 +27358,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27636,8 +27640,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 88,
-			"versionNonce": 66750870,
+			"version": 90,
+			"versionNonce": 232066939,
 			"isDeleted": false,
 			"id": "Km_VYPjVkoJY_yddR2bZz",
 			"fillStyle": "solid",
@@ -27657,7 +27661,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27874,8 +27878,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 84,
-			"versionNonce": 905773770,
+			"version": 86,
+			"versionNonce": 828504501,
 			"isDeleted": false,
 			"id": "f2gHR9Pujv2Z2olYueGCo",
 			"fillStyle": "solid",
@@ -27895,7 +27899,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28092,8 +28096,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 76,
-			"versionNonce": 1986062038,
+			"version": 78,
+			"versionNonce": 152791067,
 			"isDeleted": false,
 			"id": "7FbATII6G_mrpu1yVVpFR",
 			"fillStyle": "solid",
@@ -28113,7 +28117,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28270,8 +28274,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 77,
-			"versionNonce": 1235622282,
+			"version": 79,
+			"versionNonce": 918747925,
 			"isDeleted": false,
 			"id": "w4ciSp3OGs8pYJi6dOyOA",
 			"fillStyle": "solid",
@@ -28291,7 +28295,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28453,8 +28457,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 89,
-			"versionNonce": 512334870,
+			"version": 91,
+			"versionNonce": 1196272827,
 			"isDeleted": false,
 			"id": "e_KI9dpYvFagjWj12YHnF",
 			"fillStyle": "solid",
@@ -28474,7 +28478,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28696,8 +28700,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 124,
-			"versionNonce": 494819402,
+			"version": 126,
+			"versionNonce": 1597821045,
 			"isDeleted": false,
 			"id": "CfNLa-iIY0GITP3pN8qty",
 			"fillStyle": "solid",
@@ -28717,7 +28721,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29114,8 +29118,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 70,
-			"versionNonce": 1114220886,
+			"version": 72,
+			"versionNonce": 1544445275,
 			"isDeleted": false,
 			"id": "ECAuSmD5XO5eso6esFUIl",
 			"fillStyle": "solid",
@@ -29135,7 +29139,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29277,8 +29281,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 78,
-			"versionNonce": 828423946,
+			"version": 80,
+			"versionNonce": 2023029205,
 			"isDeleted": false,
 			"id": "CNn92NaEQSafvJB7e96K5",
 			"fillStyle": "solid",
@@ -29298,7 +29302,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29480,8 +29484,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 77,
-			"versionNonce": 559287958,
+			"version": 79,
+			"versionNonce": 1118829051,
 			"isDeleted": false,
 			"id": "5sIE1POmjXHxXoXYUT3ml",
 			"fillStyle": "solid",
@@ -29501,7 +29505,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29678,8 +29682,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 79,
-			"versionNonce": 1372081610,
+			"version": 81,
+			"versionNonce": 2078340917,
 			"isDeleted": false,
 			"id": "sJFW2pXJsbmc03Gj3YHZM",
 			"fillStyle": "solid",
@@ -29699,7 +29703,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29886,8 +29890,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 66,
-			"versionNonce": 1208208342,
+			"version": 68,
+			"versionNonce": 1748304539,
 			"isDeleted": false,
 			"id": "IIHP1HruVo4GF8WSS_A7f",
 			"fillStyle": "solid",
@@ -29907,7 +29911,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30029,8 +30033,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 65,
-			"versionNonce": 63964298,
+			"version": 67,
+			"versionNonce": 596002965,
 			"isDeleted": false,
 			"id": "PJYJ4nvCsKhgiVS-f7L_z",
 			"fillStyle": "solid",
@@ -30050,7 +30054,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30167,8 +30171,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 66,
-			"versionNonce": 1686626582,
+			"version": 68,
+			"versionNonce": 1968174907,
 			"isDeleted": false,
 			"id": "3VTk3P-gY9EKUgUFUYIZJ",
 			"fillStyle": "solid",
@@ -30188,7 +30192,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30310,8 +30314,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 60,
-			"versionNonce": 1899160394,
+			"version": 62,
+			"versionNonce": 1094348277,
 			"isDeleted": false,
 			"id": "SNJE4agQeo_NE-9YGlPV4",
 			"fillStyle": "solid",
@@ -30331,7 +30335,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30423,8 +30427,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 72,
-			"versionNonce": 441929302,
+			"version": 74,
+			"versionNonce": 1482905563,
 			"isDeleted": false,
 			"id": "H-cYInwYVvT-nQYrur4EA",
 			"fillStyle": "solid",
@@ -30444,7 +30448,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30596,8 +30600,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 78,
-			"versionNonce": 1414261258,
+			"version": 80,
+			"versionNonce": 1409476437,
 			"isDeleted": false,
 			"id": "pqHft5pfQdHRiDoiMJ82a",
 			"fillStyle": "solid",
@@ -30617,7 +30621,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30799,8 +30803,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 77,
-			"versionNonce": 1447498646,
+			"version": 79,
+			"versionNonce": 260154491,
 			"isDeleted": false,
 			"id": "DPWsrZMfMSz0llfFCjugg",
 			"fillStyle": "solid",
@@ -30820,7 +30824,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30997,8 +31001,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 75,
-			"versionNonce": 1679169738,
+			"version": 77,
+			"versionNonce": 1580545205,
 			"isDeleted": false,
 			"id": "maFRxmKfCmPssnzYdSiqA",
 			"fillStyle": "solid",
@@ -31018,7 +31022,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31185,8 +31189,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 65,
-			"versionNonce": 579612886,
+			"version": 67,
+			"versionNonce": 846028059,
 			"isDeleted": false,
 			"id": "nY_zs3IHOTlDC1PzP2Q-v",
 			"fillStyle": "solid",
@@ -31206,7 +31210,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31323,8 +31327,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 64,
-			"versionNonce": 1076653962,
+			"version": 66,
+			"versionNonce": 2071385621,
 			"isDeleted": false,
 			"id": "MgBo7t4IeXEWERM0BHopf",
 			"fillStyle": "solid",
@@ -31344,7 +31348,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31456,8 +31460,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 62,
-			"versionNonce": 2059118102,
+			"version": 64,
+			"versionNonce": 1016660411,
 			"isDeleted": false,
 			"id": "Ck9OUDgxx1c85Fj6dBijw",
 			"fillStyle": "solid",
@@ -31477,7 +31481,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31579,8 +31583,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 67,
-			"versionNonce": 1556737610,
+			"version": 69,
+			"versionNonce": 918375285,
 			"isDeleted": false,
 			"id": "2N24zAtRXr1V7ojSTBuVj",
 			"fillStyle": "solid",
@@ -31600,7 +31604,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31727,8 +31731,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 64,
-			"versionNonce": 533361494,
+			"version": 66,
+			"versionNonce": 388436571,
 			"isDeleted": false,
 			"id": "50O3RZWMQXK2thDgq_f_r",
 			"fillStyle": "solid",
@@ -31748,7 +31752,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31860,8 +31864,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 70,
-			"versionNonce": 1858704650,
+			"version": 72,
+			"versionNonce": 541988053,
 			"isDeleted": false,
 			"id": "p9Y7WG4udbfR1EPP7d4NQ",
 			"fillStyle": "solid",
@@ -31881,7 +31885,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32023,8 +32027,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 68,
-			"versionNonce": 1812830358,
+			"version": 70,
+			"versionNonce": 1659506427,
 			"isDeleted": false,
 			"id": "TV2bZ0ScoFTFH7bwCuXzZ",
 			"fillStyle": "solid",
@@ -32044,7 +32048,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32176,8 +32180,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 66,
-			"versionNonce": 1470522314,
+			"version": 68,
+			"versionNonce": 599700021,
 			"isDeleted": false,
 			"id": "7AI5gdNCUeBTZwVSqGMAz",
 			"fillStyle": "solid",
@@ -32197,7 +32201,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32319,8 +32323,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 66,
-			"versionNonce": 658118102,
+			"version": 68,
+			"versionNonce": 40138651,
 			"isDeleted": false,
 			"id": "ML5VC4OS8g3fqzY2NsP_I",
 			"fillStyle": "solid",
@@ -32340,7 +32344,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32462,8 +32466,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 64,
-			"versionNonce": 293296778,
+			"version": 66,
+			"versionNonce": 502571925,
 			"isDeleted": false,
 			"id": "Vqo3wxF3s7a3EliWCwHGm",
 			"fillStyle": "solid",
@@ -32483,7 +32487,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32595,8 +32599,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 61,
-			"versionNonce": 1516563222,
+			"version": 63,
+			"versionNonce": 1674103867,
 			"isDeleted": false,
 			"id": "PYLzufDUMobt4apWTTF9g",
 			"fillStyle": "solid",
@@ -32616,7 +32620,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32713,8 +32717,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 297,
-			"versionNonce": 453212490,
+			"version": 299,
+			"versionNonce": 858089717,
 			"isDeleted": false,
 			"id": "yxkVhrhxXJxp2XnQ2TJOH",
 			"fillStyle": "solid",
@@ -32734,7 +32738,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34036,8 +34040,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 240,
-			"versionNonce": 604182614,
+			"version": 242,
+			"versionNonce": 184126683,
 			"isDeleted": false,
 			"id": "kROLU38SBROQLlas6o72V",
 			"fillStyle": "solid",
@@ -34057,7 +34061,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35074,8 +35078,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 89,
-			"versionNonce": 1671020554,
+			"version": 91,
+			"versionNonce": 1691779669,
 			"isDeleted": false,
 			"id": "fyK0EYDy8LLxGsD8-o8Xr",
 			"fillStyle": "solid",
@@ -35095,7 +35099,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35357,8 +35361,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 410,
-			"versionNonce": 199859606,
+			"version": 412,
+			"versionNonce": 1535719803,
 			"isDeleted": false,
 			"id": "wH6w-GYw5S_I9PlodncMf",
 			"fillStyle": "solid",
@@ -35378,7 +35382,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37245,8 +37249,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 322,
-			"versionNonce": 926494410,
+			"version": 324,
+			"versionNonce": 1742565301,
 			"isDeleted": false,
 			"id": "cc4LxVHxYpNEXlwCsFFzN",
 			"fillStyle": "solid",
@@ -37266,7 +37270,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38693,8 +38697,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 288,
-			"versionNonce": 1464695510,
+			"version": 290,
+			"versionNonce": 582636059,
 			"isDeleted": false,
 			"id": "EeCIe6reWKyLnzbdrcHmB",
 			"fillStyle": "solid",
@@ -38714,7 +38718,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -39971,8 +39975,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 339,
-			"versionNonce": 712820106,
+			"version": 341,
+			"versionNonce": 979349781,
 			"isDeleted": false,
 			"id": "fALyygBkMy5QE656cnhPC",
 			"fillStyle": "solid",
@@ -39992,7 +39996,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41504,8 +41508,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 106,
-			"versionNonce": 1556328470,
+			"version": 108,
+			"versionNonce": 1635735227,
 			"isDeleted": false,
 			"id": "Zz2VVhEK2sQ0hfrVSh6ex",
 			"fillStyle": "solid",
@@ -41525,7 +41529,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41872,8 +41876,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 236,
-			"versionNonce": 111117386,
+			"version": 238,
+			"versionNonce": 2043856501,
 			"isDeleted": false,
 			"id": "WyIjYpKoJ13RL_GN760IN",
 			"fillStyle": "solid",
@@ -41893,7 +41897,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42890,8 +42894,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 141,
-			"versionNonce": 1480670550,
+			"version": 143,
+			"versionNonce": 1450887003,
 			"isDeleted": false,
 			"id": "KnqahaXilouWYGVjy4KUL",
 			"fillStyle": "solid",
@@ -42911,7 +42915,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43433,8 +43437,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "text",
-			"version": 197,
-			"versionNonce": 749453403,
+			"version": 202,
+			"versionNonce": 1159266538,
 			"isDeleted": false,
 			"id": "e4BhOFcT",
 			"fillStyle": "solid",
@@ -43454,7 +43458,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706471821005,
+			"updated": 1707206466640,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -43470,8 +43474,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "image",
-			"version": 809,
-			"versionNonce": 1058742934,
+			"version": 811,
+			"versionNonce": 1207903227,
 			"isDeleted": false,
 			"id": "SJcAfmUc",
 			"fillStyle": "hachure",
@@ -43491,7 +43495,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -43503,8 +43507,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 1446,
-			"versionNonce": 764312010,
+			"version": 1448,
+			"versionNonce": 368143669,
 			"isDeleted": false,
 			"id": "qUy0yc2jq71RI_YzrcI3G",
 			"fillStyle": "solid",
@@ -43524,7 +43528,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -50611,8 +50615,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 199,
-			"versionNonce": 335962070,
+			"version": 201,
+			"versionNonce": 235859099,
 			"isDeleted": false,
 			"id": "17VkwIWW0Y3Yp16iZFgDN",
 			"fillStyle": "solid",
@@ -50632,7 +50636,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51484,8 +51488,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 168,
-			"versionNonce": 1576054922,
+			"version": 170,
+			"versionNonce": 1343749781,
 			"isDeleted": false,
 			"id": "75dJHPCqWcQYLVqzx20Rn",
 			"fillStyle": "solid",
@@ -51505,7 +51509,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -52202,8 +52206,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 315,
-			"versionNonce": 991425814,
+			"version": 317,
+			"versionNonce": 1549574459,
 			"isDeleted": false,
 			"id": "CyRrDLmkWxVnpGQBOdAD2",
 			"fillStyle": "solid",
@@ -52223,7 +52227,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -53655,8 +53659,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 230,
-			"versionNonce": 442371914,
+			"version": 232,
+			"versionNonce": 505766901,
 			"isDeleted": false,
 			"id": "q8ZJ3n069SrMBrQ9p7J0P",
 			"fillStyle": "solid",
@@ -53676,7 +53680,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -54683,8 +54687,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 162,
-			"versionNonce": 1304748630,
+			"version": 164,
+			"versionNonce": 1279967707,
 			"isDeleted": false,
 			"id": "hT62AuIZtDlsGDDAmzfu6",
 			"fillStyle": "solid",
@@ -54704,7 +54708,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -55371,8 +55375,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 157,
-			"versionNonce": 120690186,
+			"version": 159,
+			"versionNonce": 69147989,
 			"isDeleted": false,
 			"id": "DlRvJa-lcVuHeacQTClYQ",
 			"fillStyle": "solid",
@@ -55392,7 +55396,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -56039,8 +56043,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 114,
-			"versionNonce": 1860315030,
+			"version": 116,
+			"versionNonce": 652988027,
 			"isDeleted": false,
 			"id": "eUNdpa_vXzx6JGyv3AI2v",
 			"fillStyle": "solid",
@@ -56060,7 +56064,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -56492,8 +56496,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 101,
-			"versionNonce": 90588362,
+			"version": 103,
+			"versionNonce": 1767549621,
 			"isDeleted": false,
 			"id": "q4UmAz2N9qM4BhHaMLOz4",
 			"fillStyle": "solid",
@@ -56513,7 +56517,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -56880,8 +56884,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 81,
-			"versionNonce": 514114774,
+			"version": 83,
+			"versionNonce": 1862420251,
 			"isDeleted": false,
 			"id": "ohMwRaBFyFJ4DtPGbC-6C",
 			"fillStyle": "solid",
@@ -56901,7 +56905,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -57168,8 +57172,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 123,
-			"versionNonce": 513219466,
+			"version": 125,
+			"versionNonce": 779979797,
 			"isDeleted": false,
 			"id": "syUfGBR8qjv3zn_yjAKsz",
 			"fillStyle": "solid",
@@ -57189,7 +57193,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -57666,8 +57670,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 132,
-			"versionNonce": 245479958,
+			"version": 134,
+			"versionNonce": 721464251,
 			"isDeleted": false,
 			"id": "hCiySkYjDDk-xd9W1zv4y",
 			"fillStyle": "solid",
@@ -57687,7 +57691,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -58209,8 +58213,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 95,
-			"versionNonce": 1895766602,
+			"version": 97,
+			"versionNonce": 58540405,
 			"isDeleted": false,
 			"id": "WBiYsDAnqzZhOGffil0QX",
 			"fillStyle": "solid",
@@ -58230,7 +58234,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -58567,8 +58571,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 116,
-			"versionNonce": 1976436566,
+			"version": 118,
+			"versionNonce": 1862892635,
 			"isDeleted": false,
 			"id": "ZeS_444yKF413oaQBvZaP",
 			"fillStyle": "solid",
@@ -58588,7 +58592,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -59030,8 +59034,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 129,
-			"versionNonce": 460931338,
+			"version": 131,
+			"versionNonce": 2107591381,
 			"isDeleted": false,
 			"id": "YBPBpLOLEBZvPPsK9491-",
 			"fillStyle": "solid",
@@ -59051,7 +59055,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -59578,8 +59582,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 143,
-			"versionNonce": 1686023318,
+			"version": 145,
+			"versionNonce": 653211899,
 			"isDeleted": false,
 			"id": "wa8uhacFKfIqDnEWRRanJ",
 			"fillStyle": "solid",
@@ -59599,7 +59603,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -60196,8 +60200,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 75,
-			"versionNonce": 696291274,
+			"version": 77,
+			"versionNonce": 1836656693,
 			"isDeleted": false,
 			"id": "gqxxhFFeYDZAJDTntFc8A",
 			"fillStyle": "solid",
@@ -60217,7 +60221,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -60474,8 +60478,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "text",
-			"version": 1044,
-			"versionNonce": 355682005,
+			"version": 1049,
+			"versionNonce": 1973639862,
 			"isDeleted": false,
 			"id": "G3icyigQ",
 			"fillStyle": "solid",
@@ -60484,8 +60488,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 6.022703158881081,
-			"x": 21.67460152426422,
-			"y": 87.1498049050567,
+			"x": 21.276509619060633,
+			"y": 84.11052986261265,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 115.3525390625,
@@ -60495,7 +60499,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706471821005,
+			"updated": 1707206466640,
 			"link": null,
 			"locked": false,
 			"fontSize": 10.758923192006673,
@@ -60511,8 +60515,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "text",
-			"version": 676,
-			"versionNonce": 2141781243,
+			"version": 681,
+			"versionNonce": 752702378,
 			"isDeleted": false,
 			"id": "FHqIvIo9",
 			"fillStyle": "solid",
@@ -60521,8 +60525,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0.07484966821872074,
-			"x": 70.22677346318437,
-			"y": 130.71082169063527,
+			"x": 70.19742404735958,
+			"y": 131.49467852797974,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 139.00352478027344,
@@ -60532,7 +60536,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706471821005,
+			"updated": 1707206466640,
 			"link": null,
 			"locked": false,
 			"fontSize": 11.41959472920523,
@@ -60548,8 +60552,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "text",
-			"version": 174,
-			"versionNonce": 1764598837,
+			"version": 179,
+			"versionNonce": 420647926,
 			"isDeleted": false,
 			"id": "n4YQIBeT",
 			"fillStyle": "solid",
@@ -60558,8 +60562,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0.7014065452210376,
-			"x": 206.8511082878002,
-			"y": -30.852067019832084,
+			"x": 206.57015831146617,
+			"y": -30.08407835356506,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 31.6796875,
@@ -60569,7 +60573,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706471821005,
+			"updated": 1707206466640,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -60585,8 +60589,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 870,
-			"versionNonce": 1161995594,
+			"version": 872,
+			"versionNonce": 1564106485,
 			"isDeleted": false,
 			"id": "Ce6JcusQNvmsO3ms6cuxJ",
 			"fillStyle": "solid",
@@ -60606,7 +60610,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934342,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -64893,8 +64897,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 553,
-			"versionNonce": 563915862,
+			"version": 555,
+			"versionNonce": 1901524699,
 			"isDeleted": false,
 			"id": "peMTEuxgF0nFewyEqYtAg",
 			"fillStyle": "solid",
@@ -64914,7 +64918,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390934343,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -67621,8 +67625,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 777,
-			"versionNonce": 1319697302,
+			"version": 779,
+			"versionNonce": 752662613,
 			"isDeleted": false,
 			"id": "oUkOM9Bod42ZCe-i2fY_Z",
 			"fillStyle": "solid",
@@ -67642,7 +67646,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390945947,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -70757,8 +70761,8 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		},
 		{
 			"type": "freedraw",
-			"version": 720,
-			"versionNonce": 866877334,
+			"version": 722,
+			"versionNonce": 648635259,
 			"isDeleted": false,
 			"id": "gw7VFbK7hDhWNZzRCJRIM",
 			"fillStyle": "solid",
@@ -70778,7 +70782,7 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706390979585,
+			"updated": 1706849020932,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -73662,6 +73666,6168 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 			"lastCommittedPoint": null,
 			"simulatePressure": true,
 			"pressures": []
+		},
+		{
+			"type": "text",
+			"version": 78,
+			"versionNonce": 638144106,
+			"isDeleted": false,
+			"id": "ZLTErfQP",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -92.83465919993245,
+			"y": -212.6621467148804,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 68.095703125,
+			"height": 25,
+			"seed": 1728663381,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1707206466640,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Дварфы",
+			"rawText": "Дварфы",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Дварфы",
+			"lineHeight": 1.25,
+			"baseline": 21
+		},
+		{
+			"type": "text",
+			"version": 396,
+			"versionNonce": 348693814,
+			"isDeleted": false,
+			"id": "cUkgsa0L",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -387.9495856020126,
+			"y": -168.20651839488613,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 58.4375,
+			"height": 25,
+			"seed": 445594619,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1707206466640,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Эльфы",
+			"rawText": "Эльфы",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Эльфы",
+			"lineHeight": 1.25,
+			"baseline": 21
+		},
+		{
+			"type": "freedraw",
+			"version": 1515,
+			"versionNonce": 2119315157,
+			"isDeleted": false,
+			"id": "aurJ1kT72PwW_SlSM21WB",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -206.55072901444154,
+			"y": -112.56233289743133,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 158.72625805937562,
+			"height": 71.35658326917064,
+			"seed": 1287079611,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1706849054829,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.2809314301935899,
+					0
+				],
+				[
+					-0.2809314301935899,
+					-0.2809314301935757
+				],
+				[
+					-0.5618628603871798,
+					-0.2809314301935757
+				],
+				[
+					-0.5618628603871798,
+					-0.5618628603871656
+				],
+				[
+					-0.8427942905807413,
+					-0.5618628603871656
+				],
+				[
+					-1.1237257207743312,
+					-0.8427942905807555
+				],
+				[
+					-1.404657150967921,
+					-0.8427942905807555
+				],
+				[
+					-1.404657150967921,
+					-1.1237257207743312
+				],
+				[
+					-1.685588581161511,
+					-1.1237257207743312
+				],
+				[
+					-1.966520011355101,
+					-1.404657150967921
+				],
+				[
+					-2.247451441548691,
+					-1.404657150967921
+				],
+				[
+					-2.247451441548691,
+					-1.685588581161511
+				],
+				[
+					-2.5283828717422523,
+					-1.685588581161511
+				],
+				[
+					-2.809314301935842,
+					-1.685588581161511
+				],
+				[
+					-2.809314301935842,
+					-1.9665200113550867
+				],
+				[
+					-3.090245732129432,
+					-1.9665200113550867
+				],
+				[
+					-3.371177162323022,
+					-1.9665200113550867
+				],
+				[
+					-3.371177162323022,
+					-2.2474514415486766
+				],
+				[
+					-3.652108592516612,
+					-2.2474514415486766
+				],
+				[
+					-3.933040022710202,
+					-2.2474514415486766
+				],
+				[
+					-3.933040022710202,
+					-2.5283828717422665
+				],
+				[
+					-4.213971452903763,
+					-2.5283828717422665
+				],
+				[
+					-4.494902883097353,
+					-2.5283828717422665
+				],
+				[
+					-4.494902883097353,
+					-2.2474514415486766
+				],
+				[
+					-4.775834313290943,
+					-2.2474514415486766
+				],
+				[
+					-4.775834313290943,
+					-1.9665200113550867
+				],
+				[
+					-5.056765743484533,
+					-1.9665200113550867
+				],
+				[
+					-5.337697173678123,
+					-1.685588581161511
+				],
+				[
+					-5.618628603871713,
+					-1.685588581161511
+				],
+				[
+					-5.618628603871713,
+					-1.404657150967921
+				],
+				[
+					-5.899560034065274,
+					-1.1237257207743312
+				],
+				[
+					-6.180491464258864,
+					-0.8427942905807555
+				],
+				[
+					-6.461422894452454,
+					-0.8427942905807555
+				],
+				[
+					-6.461422894452454,
+					-0.5618628603871656
+				],
+				[
+					-6.742354324646044,
+					-0.5618628603871656
+				],
+				[
+					-6.742354324646044,
+					-0.2809314301935757
+				],
+				[
+					-7.023285754839634,
+					-0.2809314301935757
+				],
+				[
+					-7.023285754839634,
+					0
+				],
+				[
+					-7.304217185033224,
+					0.2809314301935899
+				],
+				[
+					-7.585148615226785,
+					0.5618628603871798
+				],
+				[
+					-7.866080045420375,
+					0.8427942905807697
+				],
+				[
+					-8.147011475613965,
+					1.1237257207743596
+				],
+				[
+					-8.147011475613965,
+					1.404657150967921
+				],
+				[
+					-8.427942905807555,
+					1.404657150967921
+				],
+				[
+					-8.427942905807555,
+					1.685588581161511
+				],
+				[
+					-8.708874336001145,
+					1.966520011355101
+				],
+				[
+					-8.989805766194735,
+					1.966520011355101
+				],
+				[
+					-9.270737196388296,
+					2.247451441548691
+				],
+				[
+					-9.270737196388296,
+					2.5283828717422807
+				],
+				[
+					-9.551668626581886,
+					2.5283828717422807
+				],
+				[
+					-9.551668626581886,
+					2.8093143019358706
+				],
+				[
+					-9.832600056775476,
+					3.090245732129432
+				],
+				[
+					-10.113531486969066,
+					3.371177162323022
+				],
+				[
+					-10.394462917162656,
+					3.371177162323022
+				],
+				[
+					-10.394462917162656,
+					3.652108592516612
+				],
+				[
+					-10.394462917162656,
+					3.933040022710202
+				],
+				[
+					-10.675394347356246,
+					3.933040022710202
+				],
+				[
+					-10.675394347356246,
+					4.213971452903792
+				],
+				[
+					-10.675394347356246,
+					4.494902883097382
+				],
+				[
+					-10.956325777549807,
+					4.775834313290943
+				],
+				[
+					-10.956325777549807,
+					5.056765743484533
+				],
+				[
+					-10.956325777549807,
+					5.337697173678123
+				],
+				[
+					-11.237257207743397,
+					5.618628603871713
+				],
+				[
+					-11.237257207743397,
+					5.899560034065303
+				],
+				[
+					-11.518188637936987,
+					5.899560034065303
+				],
+				[
+					-11.518188637936987,
+					6.180491464258893
+				],
+				[
+					-11.799120068130577,
+					6.461422894452454
+				],
+				[
+					-11.799120068130577,
+					6.742354324646044
+				],
+				[
+					-12.080051498324167,
+					6.742354324646044
+				],
+				[
+					-12.080051498324167,
+					7.023285754839634
+				],
+				[
+					-12.360982928517757,
+					7.304217185033224
+				],
+				[
+					-12.641914358711318,
+					7.304217185033224
+				],
+				[
+					-12.641914358711318,
+					7.585148615226814
+				],
+				[
+					-12.922845788904908,
+					7.866080045420404
+				],
+				[
+					-12.922845788904908,
+					8.147011475613965
+				],
+				[
+					-13.203777219098498,
+					8.147011475613965
+				],
+				[
+					-13.203777219098498,
+					8.427942905807555
+				],
+				[
+					-13.484708649292088,
+					8.427942905807555
+				],
+				[
+					-13.765640079485678,
+					8.708874336001145
+				],
+				[
+					-14.046571509679268,
+					8.989805766194735
+				],
+				[
+					-14.32750293987283,
+					8.989805766194735
+				],
+				[
+					-14.32750293987283,
+					9.270737196388325
+				],
+				[
+					-14.60843437006642,
+					9.270737196388325
+				],
+				[
+					-14.889365800260009,
+					9.551668626581915
+				],
+				[
+					-15.170297230453599,
+					9.551668626581915
+				],
+				[
+					-15.451228660647189,
+					9.551668626581915
+				],
+				[
+					-15.732160090840779,
+					9.551668626581915
+				],
+				[
+					-16.01309152103434,
+					9.832600056775476
+				],
+				[
+					-16.29402295122793,
+					9.832600056775476
+				],
+				[
+					-16.57495438142152,
+					9.832600056775476
+				],
+				[
+					-16.85588581161511,
+					9.832600056775476
+				],
+				[
+					-17.1368172418087,
+					9.832600056775476
+				],
+				[
+					-17.41774867200229,
+					9.832600056775476
+				],
+				[
+					-17.69868010219585,
+					9.832600056775476
+				],
+				[
+					-17.97961153238944,
+					9.832600056775476
+				],
+				[
+					-18.26054296258303,
+					9.832600056775476
+				],
+				[
+					-18.54147439277662,
+					9.832600056775476
+				],
+				[
+					-18.82240582297021,
+					9.832600056775476
+				],
+				[
+					-19.1033372531638,
+					9.832600056775476
+				],
+				[
+					-19.38426868335739,
+					9.832600056775476
+				],
+				[
+					-19.665200113550952,
+					9.832600056775476
+				],
+				[
+					-19.946131543744542,
+					9.832600056775476
+				],
+				[
+					-19.946131543744542,
+					9.551668626581915
+				],
+				[
+					-19.946131543744542,
+					9.270737196388325
+				],
+				[
+					-20.227062973938132,
+					8.989805766194735
+				],
+				[
+					-20.227062973938132,
+					8.708874336001145
+				],
+				[
+					-20.507994404131722,
+					8.427942905807555
+				],
+				[
+					-20.788925834325312,
+					7.866080045420404
+				],
+				[
+					-20.788925834325312,
+					7.585148615226814
+				],
+				[
+					-21.0698572645189,
+					7.304217185033224
+				],
+				[
+					-21.0698572645189,
+					7.023285754839634
+				],
+				[
+					-21.0698572645189,
+					6.742354324646044
+				],
+				[
+					-21.350788694712463,
+					6.461422894452454
+				],
+				[
+					-21.350788694712463,
+					5.899560034065303
+				],
+				[
+					-21.631720124906053,
+					5.337697173678123
+				],
+				[
+					-21.631720124906053,
+					5.056765743484533
+				],
+				[
+					-21.912651555099643,
+					4.775834313290943
+				],
+				[
+					-21.912651555099643,
+					4.494902883097382
+				],
+				[
+					-21.912651555099643,
+					4.213971452903792
+				],
+				[
+					-21.912651555099643,
+					3.933040022710202
+				],
+				[
+					-21.912651555099643,
+					3.371177162323022
+				],
+				[
+					-21.912651555099643,
+					3.090245732129432
+				],
+				[
+					-21.912651555099643,
+					2.8093143019358706
+				],
+				[
+					-21.912651555099643,
+					2.5283828717422807
+				],
+				[
+					-21.912651555099643,
+					2.247451441548691
+				],
+				[
+					-21.912651555099643,
+					1.966520011355101
+				],
+				[
+					-21.912651555099643,
+					1.685588581161511
+				],
+				[
+					-21.912651555099643,
+					1.1237257207743596
+				],
+				[
+					-21.912651555099643,
+					0.8427942905807697
+				],
+				[
+					-21.912651555099643,
+					0.5618628603871798
+				],
+				[
+					-21.912651555099643,
+					0.2809314301935899
+				],
+				[
+					-21.912651555099643,
+					0
+				],
+				[
+					-21.912651555099643,
+					-0.2809314301935757
+				],
+				[
+					-21.912651555099643,
+					-0.5618628603871656
+				],
+				[
+					-21.912651555099643,
+					-0.8427942905807555
+				],
+				[
+					-21.912651555099643,
+					-1.1237257207743312
+				],
+				[
+					-21.912651555099643,
+					-1.404657150967921
+				],
+				[
+					-21.912651555099643,
+					-1.685588581161511
+				],
+				[
+					-21.912651555099643,
+					-1.9665200113550867
+				],
+				[
+					-21.631720124906053,
+					-1.9665200113550867
+				],
+				[
+					-21.631720124906053,
+					-2.2474514415486766
+				],
+				[
+					-21.631720124906053,
+					-2.5283828717422665
+				],
+				[
+					-21.631720124906053,
+					-2.809314301935842
+				],
+				[
+					-21.350788694712463,
+					-3.090245732129432
+				],
+				[
+					-21.350788694712463,
+					-3.371177162323022
+				],
+				[
+					-21.350788694712463,
+					-3.6521085925165977
+				],
+				[
+					-21.0698572645189,
+					-4.2139714529037775
+				],
+				[
+					-21.0698572645189,
+					-4.494902883097353
+				],
+				[
+					-21.0698572645189,
+					-4.775834313290943
+				],
+				[
+					-21.0698572645189,
+					-5.056765743484533
+				],
+				[
+					-20.788925834325312,
+					-5.337697173678109
+				],
+				[
+					-20.788925834325312,
+					-5.618628603871699
+				],
+				[
+					-20.507994404131722,
+					-5.8995600340652885
+				],
+				[
+					-20.507994404131722,
+					-6.180491464258864
+				],
+				[
+					-20.507994404131722,
+					-6.461422894452454
+				],
+				[
+					-20.507994404131722,
+					-6.742354324646044
+				],
+				[
+					-20.507994404131722,
+					-7.02328575483962
+				],
+				[
+					-20.507994404131722,
+					-7.30421718503321
+				],
+				[
+					-20.507994404131722,
+					-7.5851486152267995
+				],
+				[
+					-20.507994404131722,
+					-8.147011475613965
+				],
+				[
+					-20.507994404131722,
+					-8.427942905807555
+				],
+				[
+					-20.507994404131722,
+					-8.70887433600113
+				],
+				[
+					-20.507994404131722,
+					-8.98980576619472
+				],
+				[
+					-20.507994404131722,
+					-9.27073719638831
+				],
+				[
+					-20.507994404131722,
+					-9.551668626581886
+				],
+				[
+					-20.507994404131722,
+					-9.832600056775476
+				],
+				[
+					-20.788925834325312,
+					-9.832600056775476
+				],
+				[
+					-20.788925834325312,
+					-10.113531486969066
+				],
+				[
+					-20.788925834325312,
+					-10.394462917162642
+				],
+				[
+					-21.0698572645189,
+					-10.675394347356232
+				],
+				[
+					-21.0698572645189,
+					-10.956325777549822
+				],
+				[
+					-21.350788694712463,
+					-11.237257207743397
+				],
+				[
+					-21.631720124906053,
+					-11.518188637936987
+				],
+				[
+					-21.912651555099643,
+					-11.799120068130577
+				],
+				[
+					-22.193582985293233,
+					-12.080051498324153
+				],
+				[
+					-22.193582985293233,
+					-12.360982928517743
+				],
+				[
+					-22.474514415486823,
+					-12.641914358711333
+				],
+				[
+					-23.036377275873974,
+					-12.922845788904908
+				],
+				[
+					-23.317308706067564,
+					-13.203777219098498
+				],
+				[
+					-23.598240136261154,
+					-13.203777219098498
+				],
+				[
+					-23.598240136261154,
+					-13.484708649292088
+				],
+				[
+					-23.879171566454744,
+					-13.484708649292088
+				],
+				[
+					-24.160102996648334,
+					-13.484708649292088
+				],
+				[
+					-24.160102996648334,
+					-13.765640079485664
+				],
+				[
+					-24.441034426841924,
+					-13.765640079485664
+				],
+				[
+					-24.441034426841924,
+					-14.046571509679254
+				],
+				[
+					-24.721965857035485,
+					-14.046571509679254
+				],
+				[
+					-25.002897287229075,
+					-14.046571509679254
+				],
+				[
+					-25.283828717422665,
+					-14.327502939872844
+				],
+				[
+					-25.564760147616255,
+					-14.327502939872844
+				],
+				[
+					-25.845691577809845,
+					-14.327502939872844
+				],
+				[
+					-26.126623008003435,
+					-14.046571509679254
+				],
+				[
+					-26.126623008003435,
+					-13.765640079485664
+				],
+				[
+					-26.126623008003435,
+					-13.484708649292088
+				],
+				[
+					-26.407554438196996,
+					-13.203777219098498
+				],
+				[
+					-26.407554438196996,
+					-12.641914358711333
+				],
+				[
+					-26.688485868390586,
+					-12.360982928517743
+				],
+				[
+					-26.688485868390586,
+					-12.080051498324153
+				],
+				[
+					-26.688485868390586,
+					-11.518188637936987
+				],
+				[
+					-26.688485868390586,
+					-11.237257207743397
+				],
+				[
+					-26.688485868390586,
+					-10.956325777549822
+				],
+				[
+					-26.688485868390586,
+					-10.394462917162642
+				],
+				[
+					-26.688485868390586,
+					-10.113531486969066
+				],
+				[
+					-26.688485868390586,
+					-9.832600056775476
+				],
+				[
+					-26.688485868390586,
+					-9.551668626581886
+				],
+				[
+					-26.688485868390586,
+					-9.27073719638831
+				],
+				[
+					-26.688485868390586,
+					-8.98980576619472
+				],
+				[
+					-26.688485868390586,
+					-8.70887433600113
+				],
+				[
+					-26.688485868390586,
+					-8.427942905807555
+				],
+				[
+					-26.688485868390586,
+					-8.147011475613965
+				],
+				[
+					-26.688485868390586,
+					-7.866080045420375
+				],
+				[
+					-26.969417298584176,
+					-7.866080045420375
+				],
+				[
+					-26.969417298584176,
+					-7.5851486152267995
+				],
+				[
+					-26.969417298584176,
+					-7.30421718503321
+				],
+				[
+					-26.969417298584176,
+					-7.02328575483962
+				],
+				[
+					-26.969417298584176,
+					-6.742354324646044
+				],
+				[
+					-26.969417298584176,
+					-6.180491464258864
+				],
+				[
+					-26.969417298584176,
+					-5.8995600340652885
+				],
+				[
+					-26.969417298584176,
+					-5.337697173678109
+				],
+				[
+					-26.969417298584176,
+					-5.056765743484533
+				],
+				[
+					-26.969417298584176,
+					-4.494902883097353
+				],
+				[
+					-26.969417298584176,
+					-4.2139714529037775
+				],
+				[
+					-26.969417298584176,
+					-3.9330400227101876
+				],
+				[
+					-26.969417298584176,
+					-3.371177162323022
+				],
+				[
+					-26.969417298584176,
+					-3.090245732129432
+				],
+				[
+					-26.969417298584176,
+					-2.809314301935842
+				],
+				[
+					-27.250348728777766,
+					-2.2474514415486766
+				],
+				[
+					-27.250348728777766,
+					-1.9665200113550867
+				],
+				[
+					-27.531280158971356,
+					-1.685588581161511
+				],
+				[
+					-27.812211589164946,
+					-1.1237257207743312
+				],
+				[
+					-28.093143019358507,
+					-0.8427942905807555
+				],
+				[
+					-28.093143019358507,
+					-0.5618628603871656
+				],
+				[
+					-28.374074449552097,
+					-0.2809314301935757
+				],
+				[
+					-28.374074449552097,
+					0
+				],
+				[
+					-28.935937309939277,
+					0.2809314301935899
+				],
+				[
+					-28.935937309939277,
+					0.5618628603871798
+				],
+				[
+					-29.216868740132867,
+					0.8427942905807697
+				],
+				[
+					-29.216868740132867,
+					1.404657150967921
+				],
+				[
+					-29.497800170326457,
+					1.404657150967921
+				],
+				[
+					-29.497800170326457,
+					1.685588581161511
+				],
+				[
+					-29.778731600520018,
+					1.966520011355101
+				],
+				[
+					-30.059663030713608,
+					2.247451441548691
+				],
+				[
+					-30.059663030713608,
+					2.5283828717422807
+				],
+				[
+					-30.340594460907198,
+					3.090245732129432
+				],
+				[
+					-30.621525891100788,
+					3.371177162323022
+				],
+				[
+					-30.902457321294378,
+					3.652108592516612
+				],
+				[
+					-31.183388751487968,
+					3.933040022710202
+				],
+				[
+					-31.46432018168153,
+					4.494902883097382
+				],
+				[
+					-31.74525161187512,
+					5.056765743484533
+				],
+				[
+					-32.3071144722623,
+					5.337697173678123
+				],
+				[
+					-32.58804590245589,
+					5.899560034065303
+				],
+				[
+					-32.86897733264948,
+					6.180491464258893
+				],
+				[
+					-33.43084019303663,
+					6.461422894452454
+				],
+				[
+					-33.71177162323022,
+					7.023285754839634
+				],
+				[
+					-34.2736344836174,
+					7.585148615226814
+				],
+				[
+					-34.55456591381099,
+					7.866080045420404
+				],
+				[
+					-35.11642877419814,
+					8.147011475613965
+				],
+				[
+					-35.39736020439173,
+					8.427942905807555
+				],
+				[
+					-35.95922306477891,
+					8.708874336001145
+				],
+				[
+					-36.2401544949725,
+					8.989805766194735
+				],
+				[
+					-36.52108592516606,
+					9.551668626581915
+				],
+				[
+					-36.80201735535965,
+					9.832600056775476
+				],
+				[
+					-37.08294878555324,
+					9.832600056775476
+				],
+				[
+					-37.36388021574683,
+					10.113531486969066
+				],
+				[
+					-37.36388021574683,
+					10.394462917162656
+				],
+				[
+					-37.64481164594042,
+					10.675394347356246
+				],
+				[
+					-37.92574307613401,
+					10.956325777549836
+				],
+				[
+					-38.20667450632757,
+					10.956325777549836
+				],
+				[
+					-38.48760593652116,
+					11.237257207743426
+				],
+				[
+					-38.48760593652116,
+					11.518188637936987
+				],
+				[
+					-38.76853736671475,
+					11.799120068130577
+				],
+				[
+					-39.04946879690834,
+					11.799120068130577
+				],
+				[
+					-39.33040022710193,
+					12.080051498324167
+				],
+				[
+					-39.61133165729552,
+					12.080051498324167
+				],
+				[
+					-39.89226308748911,
+					12.080051498324167
+				],
+				[
+					-40.454125947876264,
+					12.360982928517757
+				],
+				[
+					-40.735057378069854,
+					12.360982928517757
+				],
+				[
+					-41.015988808263444,
+					12.360982928517757
+				],
+				[
+					-41.577851668650624,
+					12.360982928517757
+				],
+				[
+					-41.858783098844185,
+					12.360982928517757
+				],
+				[
+					-42.139714529037775,
+					12.360982928517757
+				],
+				[
+					-42.420645959231365,
+					12.080051498324167
+				],
+				[
+					-42.982508819618545,
+					12.080051498324167
+				],
+				[
+					-42.982508819618545,
+					11.518188637936987
+				],
+				[
+					-43.544371680005696,
+					11.237257207743426
+				],
+				[
+					-44.106234540392876,
+					10.956325777549836
+				],
+				[
+					-44.668097400780056,
+					10.394462917162656
+				],
+				[
+					-44.949028830973646,
+					10.113531486969066
+				],
+				[
+					-45.5108916913608,
+					9.551668626581915
+				],
+				[
+					-46.07275455174798,
+					8.989805766194735
+				],
+				[
+					-46.35368598194157,
+					8.989805766194735
+				],
+				[
+					-46.91554884232872,
+					8.708874336001145
+				],
+				[
+					-47.4774117027159,
+					8.147011475613965
+				],
+				[
+					-47.75834313290949,
+					7.585148615226814
+				],
+				[
+					-48.60113742349023,
+					7.304217185033224
+				],
+				[
+					-48.88206885368382,
+					6.742354324646044
+				],
+				[
+					-49.443931714071,
+					6.461422894452454
+				],
+				[
+					-49.72486314426456,
+					6.180491464258893
+				],
+				[
+					-50.28672600465174,
+					5.618628603871713
+				],
+				[
+					-50.5676574348453,
+					5.337697173678123
+				],
+				[
+					-51.12952029523254,
+					4.775834313290943
+				],
+				[
+					-51.4104517254261,
+					4.213971452903792
+				],
+				[
+					-51.69138315561966,
+					3.933040022710202
+				],
+				[
+					-51.97231458581328,
+					3.371177162323022
+				],
+				[
+					-52.25324601600684,
+					3.090245732129432
+				],
+				[
+					-52.5341774462004,
+					2.8093143019358706
+				],
+				[
+					-53.09604030658764,
+					2.247451441548691
+				],
+				[
+					-53.3769717367812,
+					1.685588581161511
+				],
+				[
+					-53.65790316697476,
+					1.404657150967921
+				],
+				[
+					-53.93883459716838,
+					0.8427942905807697
+				],
+				[
+					-54.21976602736194,
+					0.5618628603871798
+				],
+				[
+					-54.5006974575555,
+					0
+				],
+				[
+					-54.5006974575555,
+					-0.2809314301935757
+				],
+				[
+					-54.78162888774912,
+					-0.5618628603871656
+				],
+				[
+					-54.78162888774912,
+					-0.8427942905807555
+				],
+				[
+					-55.06256031794274,
+					-0.8427942905807555
+				],
+				[
+					-55.06256031794274,
+					-1.404657150967921
+				],
+				[
+					-55.06256031794274,
+					-1.685588581161511
+				],
+				[
+					-55.06256031794274,
+					-1.9665200113550867
+				],
+				[
+					-55.06256031794274,
+					-2.2474514415486766
+				],
+				[
+					-55.06256031794274,
+					-2.5283828717422665
+				],
+				[
+					-55.06256031794274,
+					-2.809314301935842
+				],
+				[
+					-55.06256031794274,
+					-3.090245732129432
+				],
+				[
+					-55.06256031794274,
+					-3.371177162323022
+				],
+				[
+					-55.06256031794274,
+					-3.6521085925165977
+				],
+				[
+					-55.06256031794274,
+					-3.9330400227101876
+				],
+				[
+					-55.06256031794274,
+					-4.2139714529037775
+				],
+				[
+					-55.06256031794274,
+					-4.494902883097353
+				],
+				[
+					-55.06256031794274,
+					-4.775834313290943
+				],
+				[
+					-54.78162888774912,
+					-5.056765743484533
+				],
+				[
+					-54.5006974575555,
+					-5.337697173678109
+				],
+				[
+					-54.21976602736194,
+					-5.618628603871699
+				],
+				[
+					-53.93883459716838,
+					-5.8995600340652885
+				],
+				[
+					-53.65790316697476,
+					-5.8995600340652885
+				],
+				[
+					-53.65790316697476,
+					-6.180491464258864
+				],
+				[
+					-53.09604030658764,
+					-6.180491464258864
+				],
+				[
+					-52.81510887639402,
+					-6.461422894452454
+				],
+				[
+					-52.5341774462004,
+					-6.461422894452454
+				],
+				[
+					-52.25324601600684,
+					-6.742354324646044
+				],
+				[
+					-51.69138315561966,
+					-7.02328575483962
+				],
+				[
+					-51.4104517254261,
+					-7.02328575483962
+				],
+				[
+					-51.12952029523254,
+					-7.30421718503321
+				],
+				[
+					-50.84858886503892,
+					-7.30421718503321
+				],
+				[
+					-50.5676574348453,
+					-7.30421718503321
+				],
+				[
+					-50.28672600465174,
+					-7.5851486152267995
+				],
+				[
+					-50.00579457445818,
+					-7.5851486152267995
+				],
+				[
+					-49.72486314426456,
+					-7.5851486152267995
+				],
+				[
+					-49.443931714071,
+					-7.866080045420375
+				],
+				[
+					-49.16300028387741,
+					-8.147011475613965
+				],
+				[
+					-48.88206885368382,
+					-8.147011475613965
+				],
+				[
+					-48.88206885368382,
+					-8.427942905807555
+				],
+				[
+					-48.60113742349023,
+					-8.427942905807555
+				],
+				[
+					-48.32020599329667,
+					-8.427942905807555
+				],
+				[
+					-48.32020599329667,
+					-8.70887433600113
+				],
+				[
+					-48.32020599329667,
+					-8.427942905807555
+				],
+				[
+					-48.32020599329667,
+					-7.866080045420375
+				],
+				[
+					-48.32020599329667,
+					-7.30421718503321
+				],
+				[
+					-48.32020599329667,
+					-6.742354324646044
+				],
+				[
+					-48.03927456310308,
+					-6.461422894452454
+				],
+				[
+					-48.03927456310308,
+					-5.618628603871699
+				],
+				[
+					-47.75834313290949,
+					-5.056765743484533
+				],
+				[
+					-47.75834313290949,
+					-4.2139714529037775
+				],
+				[
+					-47.4774117027159,
+					-3.6521085925165977
+				],
+				[
+					-47.19648027252231,
+					-2.809314301935842
+				],
+				[
+					-47.19648027252231,
+					-2.2474514415486766
+				],
+				[
+					-47.19648027252231,
+					-1.685588581161511
+				],
+				[
+					-46.91554884232872,
+					-0.8427942905807555
+				],
+				[
+					-46.91554884232872,
+					0
+				],
+				[
+					-46.63461741213516,
+					0.5618628603871798
+				],
+				[
+					-46.63461741213516,
+					1.1237257207743596
+				],
+				[
+					-46.63461741213516,
+					1.685588581161511
+				],
+				[
+					-46.63461741213516,
+					2.247451441548691
+				],
+				[
+					-46.63461741213516,
+					2.5283828717422807
+				],
+				[
+					-46.63461741213516,
+					3.090245732129432
+				],
+				[
+					-46.63461741213516,
+					3.371177162323022
+				],
+				[
+					-46.63461741213516,
+					3.652108592516612
+				],
+				[
+					-46.35368598194157,
+					3.933040022710202
+				],
+				[
+					-46.35368598194157,
+					4.213971452903792
+				],
+				[
+					-46.35368598194157,
+					4.494902883097382
+				],
+				[
+					-46.35368598194157,
+					4.775834313290943
+				],
+				[
+					-46.07275455174798,
+					4.775834313290943
+				],
+				[
+					-46.07275455174798,
+					5.056765743484533
+				],
+				[
+					-46.07275455174798,
+					5.337697173678123
+				],
+				[
+					-46.07275455174798,
+					5.618628603871713
+				],
+				[
+					-46.35368598194157,
+					5.618628603871713
+				],
+				[
+					-46.35368598194157,
+					5.899560034065303
+				],
+				[
+					-46.63461741213516,
+					5.899560034065303
+				],
+				[
+					-46.91554884232872,
+					6.180491464258893
+				],
+				[
+					-47.19648027252231,
+					6.461422894452454
+				],
+				[
+					-47.4774117027159,
+					6.461422894452454
+				],
+				[
+					-47.75834313290949,
+					6.461422894452454
+				],
+				[
+					-47.75834313290949,
+					6.742354324646044
+				],
+				[
+					-48.03927456310308,
+					6.742354324646044
+				],
+				[
+					-48.32020599329667,
+					6.742354324646044
+				],
+				[
+					-48.60113742349023,
+					6.742354324646044
+				],
+				[
+					-48.88206885368382,
+					7.023285754839634
+				],
+				[
+					-49.16300028387741,
+					7.023285754839634
+				],
+				[
+					-49.72486314426456,
+					7.023285754839634
+				],
+				[
+					-50.00579457445818,
+					7.023285754839634
+				],
+				[
+					-50.28672600465174,
+					7.023285754839634
+				],
+				[
+					-50.84858886503892,
+					7.304217185033224
+				],
+				[
+					-51.4104517254261,
+					7.304217185033224
+				],
+				[
+					-51.97231458581328,
+					7.304217185033224
+				],
+				[
+					-52.5341774462004,
+					7.304217185033224
+				],
+				[
+					-53.3769717367812,
+					7.304217185033224
+				],
+				[
+					-53.93883459716838,
+					7.304217185033224
+				],
+				[
+					-54.78162888774912,
+					7.585148615226814
+				],
+				[
+					-55.343491748136245,
+					7.585148615226814
+				],
+				[
+					-56.467217468910604,
+					7.585148615226814
+				],
+				[
+					-57.590943189684964,
+					7.585148615226814
+				],
+				[
+					-57.87187461987858,
+					7.585148615226814
+				],
+				[
+					-59.27653177084645,
+					7.585148615226814
+				],
+				[
+					-59.557463201040065,
+					7.585148615226814
+				],
+				[
+					-59.83839463123368,
+					7.585148615226814
+				],
+				[
+					-60.400257491620806,
+					7.585148615226814
+				],
+				[
+					-60.962120352007986,
+					7.585148615226814
+				],
+				[
+					-61.24305178220155,
+					7.585148615226814
+				],
+				[
+					-61.523983212395166,
+					7.585148615226814
+				],
+				[
+					-61.804914642588784,
+					7.304217185033224
+				],
+				[
+					-62.085846072782346,
+					7.304217185033224
+				],
+				[
+					-62.085846072782346,
+					7.023285754839634
+				],
+				[
+					-62.36677750297591,
+					6.742354324646044
+				],
+				[
+					-62.36677750297591,
+					6.461422894452454
+				],
+				[
+					-62.36677750297591,
+					6.180491464258893
+				],
+				[
+					-62.647708933169525,
+					5.899560034065303
+				],
+				[
+					-62.92864036336309,
+					5.618628603871713
+				],
+				[
+					-62.92864036336309,
+					5.056765743484533
+				],
+				[
+					-62.92864036336309,
+					4.775834313290943
+				],
+				[
+					-63.20957179355665,
+					4.213971452903792
+				],
+				[
+					-63.20957179355665,
+					3.933040022710202
+				],
+				[
+					-63.20957179355665,
+					3.371177162323022
+				],
+				[
+					-63.20957179355665,
+					3.090245732129432
+				],
+				[
+					-63.20957179355665,
+					2.8093143019358706
+				],
+				[
+					-63.20957179355665,
+					2.5283828717422807
+				],
+				[
+					-63.49050322375027,
+					2.247451441548691
+				],
+				[
+					-63.49050322375027,
+					1.966520011355101
+				],
+				[
+					-63.49050322375027,
+					1.685588581161511
+				],
+				[
+					-63.49050322375027,
+					1.404657150967921
+				],
+				[
+					-63.49050322375027,
+					1.1237257207743596
+				],
+				[
+					-63.49050322375027,
+					0.8427942905807697
+				],
+				[
+					-63.49050322375027,
+					0.5618628603871798
+				],
+				[
+					-63.49050322375027,
+					0
+				],
+				[
+					-63.49050322375027,
+					-0.2809314301935757
+				],
+				[
+					-63.20957179355665,
+					-0.8427942905807555
+				],
+				[
+					-63.20957179355665,
+					-1.1237257207743312
+				],
+				[
+					-62.92864036336309,
+					-1.404657150967921
+				],
+				[
+					-62.647708933169525,
+					-1.9665200113550867
+				],
+				[
+					-62.647708933169525,
+					-2.2474514415486766
+				],
+				[
+					-62.36677750297591,
+					-2.809314301935842
+				],
+				[
+					-62.36677750297591,
+					-3.090245732129432
+				],
+				[
+					-62.085846072782346,
+					-3.6521085925165977
+				],
+				[
+					-62.085846072782346,
+					-3.9330400227101876
+				],
+				[
+					-61.804914642588784,
+					-4.2139714529037775
+				],
+				[
+					-61.523983212395166,
+					-4.494902883097353
+				],
+				[
+					-61.24305178220155,
+					-4.775834313290943
+				],
+				[
+					-61.24305178220155,
+					-5.056765743484533
+				],
+				[
+					-60.962120352007986,
+					-5.337697173678109
+				],
+				[
+					-60.681188921814424,
+					-5.618628603871699
+				],
+				[
+					-60.400257491620806,
+					-5.618628603871699
+				],
+				[
+					-60.119326061427245,
+					-5.8995600340652885
+				],
+				[
+					-60.119326061427245,
+					-6.180491464258864
+				],
+				[
+					-59.83839463123368,
+					-6.180491464258864
+				],
+				[
+					-59.557463201040065,
+					-6.461422894452454
+				],
+				[
+					-59.27653177084645,
+					-6.461422894452454
+				],
+				[
+					-59.27653177084645,
+					-6.742354324646044
+				],
+				[
+					-58.995600340652885,
+					-6.742354324646044
+				],
+				[
+					-58.995600340652885,
+					-7.02328575483962
+				],
+				[
+					-58.714668910459324,
+					-7.02328575483962
+				],
+				[
+					-58.714668910459324,
+					-7.30421718503321
+				],
+				[
+					-58.995600340652885,
+					-7.5851486152267995
+				],
+				[
+					-58.995600340652885,
+					-7.866080045420375
+				],
+				[
+					-59.27653177084645,
+					-7.866080045420375
+				],
+				[
+					-59.557463201040065,
+					-8.147011475613965
+				],
+				[
+					-59.83839463123368,
+					-8.427942905807555
+				],
+				[
+					-60.119326061427245,
+					-8.98980576619472
+				],
+				[
+					-60.400257491620806,
+					-9.27073719638831
+				],
+				[
+					-60.681188921814424,
+					-9.27073719638831
+				],
+				[
+					-60.962120352007986,
+					-9.551668626581886
+				],
+				[
+					-61.24305178220155,
+					-10.113531486969066
+				],
+				[
+					-61.523983212395166,
+					-10.394462917162642
+				],
+				[
+					-61.804914642588784,
+					-10.675394347356232
+				],
+				[
+					-62.36677750297591,
+					-11.237257207743397
+				],
+				[
+					-62.647708933169525,
+					-11.518188637936987
+				],
+				[
+					-63.20957179355665,
+					-12.080051498324153
+				],
+				[
+					-63.771434653943885,
+					-12.641914358711333
+				],
+				[
+					-64.61422894452463,
+					-13.203777219098498
+				],
+				[
+					-65.17609180491175,
+					-13.765640079485664
+				],
+				[
+					-66.01888609549249,
+					-14.046571509679254
+				],
+				[
+					-66.58074895587973,
+					-14.889365800260009
+				],
+				[
+					-67.42354324646047,
+					-15.170297230453599
+				],
+				[
+					-67.98540610684759,
+					-16.01309152103434
+				],
+				[
+					-68.82820039742839,
+					-16.29402295122793
+				],
+				[
+					-69.10913182762195,
+					-16.57495438142152
+				],
+				[
+					-69.39006325781557,
+					-16.85588581161511
+				],
+				[
+					-69.67099468800913,
+					-17.1368172418087
+				],
+				[
+					-69.67099468800913,
+					-17.41774867200226
+				],
+				[
+					-69.67099468800913,
+					-17.69868010219588
+				],
+				[
+					-69.67099468800913,
+					-17.97961153238944
+				],
+				[
+					-69.67099468800913,
+					-18.26054296258303
+				],
+				[
+					-69.67099468800913,
+					-18.54147439277662
+				],
+				[
+					-69.67099468800913,
+					-18.82240582297021
+				],
+				[
+					-69.39006325781557,
+					-19.1033372531638
+				],
+				[
+					-69.10913182762195,
+					-19.384268683357362
+				],
+				[
+					-68.82820039742839,
+					-19.384268683357362
+				],
+				[
+					-68.26633753704121,
+					-19.66520011355098
+				],
+				[
+					-67.98540610684759,
+					-19.66520011355098
+				],
+				[
+					-67.42354324646047,
+					-19.66520011355098
+				],
+				[
+					-66.86168038607329,
+					-19.946131543744542
+				],
+				[
+					-66.58074895587973,
+					-19.946131543744542
+				],
+				[
+					-65.73795466529893,
+					-19.946131543744542
+				],
+				[
+					-65.45702323510537,
+					-20.227062973938132
+				],
+				[
+					-64.61422894452463,
+					-20.227062973938132
+				],
+				[
+					-64.05236608413739,
+					-20.507994404131722
+				],
+				[
+					-63.20957179355665,
+					-20.507994404131722
+				],
+				[
+					-62.36677750297591,
+					-20.507994404131722
+				],
+				[
+					-61.523983212395166,
+					-20.507994404131722
+				],
+				[
+					-60.681188921814424,
+					-20.507994404131722
+				],
+				[
+					-58.995600340652885,
+					-20.507994404131722
+				],
+				[
+					-58.714668910459324,
+					-20.507994404131722
+				],
+				[
+					-57.87187461987858,
+					-20.507994404131722
+				],
+				[
+					-56.74814889910422,
+					-20.507994404131722
+				],
+				[
+					-55.90535460852348,
+					-20.507994404131722
+				],
+				[
+					-55.343491748136245,
+					-20.507994404131722
+				],
+				[
+					-54.5006974575555,
+					-20.507994404131722
+				],
+				[
+					-53.65790316697476,
+					-20.507994404131722
+				],
+				[
+					-52.81510887639402,
+					-20.507994404131722
+				],
+				[
+					-51.69138315561966,
+					-20.227062973938132
+				],
+				[
+					-50.84858886503892,
+					-20.227062973938132
+				],
+				[
+					-50.00579457445818,
+					-20.227062973938132
+				],
+				[
+					-48.88206885368382,
+					-19.946131543744542
+				],
+				[
+					-48.03927456310308,
+					-19.946131543744542
+				],
+				[
+					-47.19648027252231,
+					-19.946131543744542
+				],
+				[
+					-46.63461741213516,
+					-19.66520011355098
+				],
+				[
+					-46.07275455174798,
+					-19.384268683357362
+				],
+				[
+					-45.5108916913608,
+					-19.384268683357362
+				],
+				[
+					-44.949028830973646,
+					-19.1033372531638
+				],
+				[
+					-44.668097400780056,
+					-19.1033372531638
+				],
+				[
+					-44.106234540392876,
+					-18.82240582297021
+				],
+				[
+					-43.825303110199286,
+					-18.54147439277662
+				],
+				[
+					-43.544371680005696,
+					-18.26054296258303
+				],
+				[
+					-43.544371680005696,
+					-17.97961153238944
+				],
+				[
+					-42.982508819618545,
+					-17.69868010219588
+				],
+				[
+					-42.420645959231365,
+					-16.85588581161511
+				],
+				[
+					-42.139714529037775,
+					-15.732160090840779
+				],
+				[
+					-41.577851668650624,
+					-15.170297230453599
+				],
+				[
+					-41.296920238457034,
+					-14.327502939872844
+				],
+				[
+					-41.015988808263444,
+					-13.484708649292088
+				],
+				[
+					-41.015988808263444,
+					-12.922845788904908
+				],
+				[
+					-40.454125947876264,
+					-12.080051498324153
+				],
+				[
+					-40.454125947876264,
+					-10.956325777549822
+				],
+				[
+					-40.173194517682674,
+					-10.394462917162642
+				],
+				[
+					-39.89226308748911,
+					-9.27073719638831
+				],
+				[
+					-39.61133165729552,
+					-8.147011475613965
+				],
+				[
+					-39.61133165729552,
+					-7.5851486152267995
+				],
+				[
+					-39.33040022710193,
+					-6.742354324646044
+				],
+				[
+					-39.33040022710193,
+					-5.8995600340652885
+				],
+				[
+					-39.33040022710193,
+					-5.337697173678109
+				],
+				[
+					-39.33040022710193,
+					-4.494902883097353
+				],
+				[
+					-39.33040022710193,
+					-3.9330400227101876
+				],
+				[
+					-39.33040022710193,
+					-3.371177162323022
+				],
+				[
+					-39.33040022710193,
+					-2.809314301935842
+				],
+				[
+					-39.33040022710193,
+					-2.2474514415486766
+				],
+				[
+					-39.33040022710193,
+					-1.9665200113550867
+				],
+				[
+					-39.33040022710193,
+					-1.404657150967921
+				],
+				[
+					-39.33040022710193,
+					-0.8427942905807555
+				],
+				[
+					-39.33040022710193,
+					-0.5618628603871656
+				],
+				[
+					-39.33040022710193,
+					-0.2809314301935757
+				],
+				[
+					-39.61133165729552,
+					0.2809314301935899
+				],
+				[
+					-39.89226308748911,
+					0.8427942905807697
+				],
+				[
+					-39.89226308748911,
+					1.1237257207743596
+				],
+				[
+					-40.173194517682674,
+					1.404657150967921
+				],
+				[
+					-40.173194517682674,
+					1.966520011355101
+				],
+				[
+					-40.454125947876264,
+					2.247451441548691
+				],
+				[
+					-40.454125947876264,
+					2.5283828717422807
+				],
+				[
+					-40.454125947876264,
+					2.8093143019358706
+				],
+				[
+					-40.454125947876264,
+					3.090245732129432
+				],
+				[
+					-40.735057378069854,
+					3.371177162323022
+				],
+				[
+					-40.735057378069854,
+					3.652108592516612
+				],
+				[
+					-40.735057378069854,
+					3.933040022710202
+				],
+				[
+					-40.735057378069854,
+					4.213971452903792
+				],
+				[
+					-40.735057378069854,
+					4.494902883097382
+				],
+				[
+					-41.015988808263444,
+					4.775834313290943
+				],
+				[
+					-41.015988808263444,
+					5.056765743484533
+				],
+				[
+					-41.015988808263444,
+					5.337697173678123
+				],
+				[
+					-41.015988808263444,
+					5.618628603871713
+				],
+				[
+					-41.015988808263444,
+					5.899560034065303
+				],
+				[
+					-41.296920238457034,
+					6.180491464258893
+				],
+				[
+					-41.577851668650624,
+					6.742354324646044
+				],
+				[
+					-41.577851668650624,
+					7.023285754839634
+				],
+				[
+					-41.858783098844185,
+					7.304217185033224
+				],
+				[
+					-42.139714529037775,
+					7.585148615226814
+				],
+				[
+					-42.420645959231365,
+					7.866080045420404
+				],
+				[
+					-42.420645959231365,
+					8.147011475613965
+				],
+				[
+					-42.701577389424955,
+					8.427942905807555
+				],
+				[
+					-42.982508819618545,
+					8.708874336001145
+				],
+				[
+					-43.263440249812135,
+					8.989805766194735
+				],
+				[
+					-43.544371680005696,
+					9.270737196388325
+				],
+				[
+					-43.825303110199286,
+					9.270737196388325
+				],
+				[
+					-44.106234540392876,
+					9.551668626581915
+				],
+				[
+					-44.387165970586466,
+					9.832600056775476
+				],
+				[
+					-44.668097400780056,
+					10.113531486969066
+				],
+				[
+					-44.949028830973646,
+					10.113531486969066
+				],
+				[
+					-45.22996026116721,
+					10.394462917162656
+				],
+				[
+					-45.5108916913608,
+					10.394462917162656
+				],
+				[
+					-45.79182312155439,
+					10.394462917162656
+				],
+				[
+					-46.07275455174798,
+					10.675394347356246
+				],
+				[
+					-46.35368598194157,
+					10.675394347356246
+				],
+				[
+					-46.63461741213516,
+					10.675394347356246
+				],
+				[
+					-47.19648027252231,
+					10.956325777549836
+				],
+				[
+					-47.4774117027159,
+					11.237257207743426
+				],
+				[
+					-48.03927456310308,
+					11.237257207743426
+				],
+				[
+					-48.32020599329667,
+					11.237257207743426
+				],
+				[
+					-49.16300028387741,
+					11.237257207743426
+				],
+				[
+					-49.72486314426456,
+					11.237257207743426
+				],
+				[
+					-50.28672600465174,
+					11.237257207743426
+				],
+				[
+					-50.84858886503892,
+					11.237257207743426
+				],
+				[
+					-51.4104517254261,
+					11.237257207743426
+				],
+				[
+					-52.5341774462004,
+					11.237257207743426
+				],
+				[
+					-52.81510887639402,
+					11.237257207743426
+				],
+				[
+					-53.65790316697476,
+					10.956325777549836
+				],
+				[
+					-54.5006974575555,
+					10.675394347356246
+				],
+				[
+					-55.343491748136245,
+					10.394462917162656
+				],
+				[
+					-56.18628603871704,
+					10.113531486969066
+				],
+				[
+					-56.467217468910604,
+					9.832600056775476
+				],
+				[
+					-57.029080329297784,
+					9.832600056775476
+				],
+				[
+					-57.590943189684964,
+					9.551668626581915
+				],
+				[
+					-58.152806050072144,
+					8.989805766194735
+				],
+				[
+					-58.433737480265705,
+					8.708874336001145
+				],
+				[
+					-58.995600340652885,
+					8.147011475613965
+				],
+				[
+					-59.27653177084645,
+					7.585148615226814
+				],
+				[
+					-59.557463201040065,
+					7.023285754839634
+				],
+				[
+					-60.119326061427245,
+					6.180491464258893
+				],
+				[
+					-60.400257491620806,
+					5.337697173678123
+				],
+				[
+					-60.681188921814424,
+					4.494902883097382
+				],
+				[
+					-60.681188921814424,
+					3.371177162323022
+				],
+				[
+					-61.24305178220155,
+					2.247451441548691
+				],
+				[
+					-61.24305178220155,
+					1.1237257207743596
+				],
+				[
+					-61.523983212395166,
+					0
+				],
+				[
+					-61.804914642588784,
+					-0.8427942905807555
+				],
+				[
+					-61.804914642588784,
+					-1.9665200113550867
+				],
+				[
+					-61.804914642588784,
+					-3.6521085925165977
+				],
+				[
+					-61.804914642588784,
+					-4.2139714529037775
+				],
+				[
+					-61.804914642588784,
+					-6.180491464258864
+				],
+				[
+					-61.804914642588784,
+					-6.461422894452454
+				],
+				[
+					-61.523983212395166,
+					-8.147011475613965
+				],
+				[
+					-61.523983212395166,
+					-8.98980576619472
+				],
+				[
+					-61.24305178220155,
+					-10.113531486969066
+				],
+				[
+					-61.24305178220155,
+					-10.394462917162642
+				],
+				[
+					-60.962120352007986,
+					-10.956325777549822
+				],
+				[
+					-60.681188921814424,
+					-11.518188637936987
+				],
+				[
+					-60.400257491620806,
+					-12.080051498324153
+				],
+				[
+					-60.119326061427245,
+					-12.641914358711333
+				],
+				[
+					-59.83839463123368,
+					-13.203777219098498
+				],
+				[
+					-59.557463201040065,
+					-13.765640079485664
+				],
+				[
+					-59.27653177084645,
+					-14.327502939872844
+				],
+				[
+					-58.995600340652885,
+					-14.60843437006642
+				],
+				[
+					-58.714668910459324,
+					-14.889365800260009
+				],
+				[
+					-58.433737480265705,
+					-15.170297230453599
+				],
+				[
+					-57.87187461987858,
+					-15.45122866064716
+				],
+				[
+					-57.590943189684964,
+					-15.732160090840779
+				],
+				[
+					-57.029080329297784,
+					-16.01309152103434
+				],
+				[
+					-56.467217468910604,
+					-16.01309152103434
+				],
+				[
+					-55.90535460852348,
+					-16.29402295122793
+				],
+				[
+					-55.06256031794274,
+					-16.57495438142152
+				],
+				[
+					-54.5006974575555,
+					-16.57495438142152
+				],
+				[
+					-53.65790316697476,
+					-16.57495438142152
+				],
+				[
+					-52.81510887639402,
+					-16.85588581161511
+				],
+				[
+					-51.97231458581328,
+					-16.85588581161511
+				],
+				[
+					-50.84858886503892,
+					-16.85588581161511
+				],
+				[
+					-49.72486314426456,
+					-16.85588581161511
+				],
+				[
+					-48.03927456310308,
+					-16.85588581161511
+				],
+				[
+					-45.79182312155439,
+					-16.85588581161511
+				],
+				[
+					-45.22996026116721,
+					-16.85588581161511
+				],
+				[
+					-43.544371680005696,
+					-16.85588581161511
+				],
+				[
+					-42.982508819618545,
+					-16.85588581161511
+				],
+				[
+					-41.015988808263444,
+					-16.85588581161511
+				],
+				[
+					-39.89226308748911,
+					-16.57495438142152
+				],
+				[
+					-39.04946879690834,
+					-16.29402295122793
+				],
+				[
+					-38.48760593652116,
+					-16.01309152103434
+				],
+				[
+					-37.92574307613401,
+					-15.732160090840779
+				],
+				[
+					-37.08294878555324,
+					-15.170297230453599
+				],
+				[
+					-36.80201735535965,
+					-14.889365800260009
+				],
+				[
+					-36.2401544949725,
+					-14.60843437006642
+				],
+				[
+					-35.95922306477891,
+					-14.046571509679254
+				],
+				[
+					-35.67829163458532,
+					-13.484708649292088
+				],
+				[
+					-35.11642877419814,
+					-12.922845788904908
+				],
+				[
+					-34.83549734400455,
+					-12.080051498324153
+				],
+				[
+					-34.55456591381099,
+					-11.237257207743397
+				],
+				[
+					-34.55456591381099,
+					-10.394462917162642
+				],
+				[
+					-33.99270305342381,
+					-9.551668626581886
+				],
+				[
+					-33.99270305342381,
+					-8.70887433600113
+				],
+				[
+					-33.71177162323022,
+					-7.5851486152267995
+				],
+				[
+					-33.43084019303663,
+					-6.742354324646044
+				],
+				[
+					-33.14990876284304,
+					-5.618628603871699
+				],
+				[
+					-33.14990876284304,
+					-4.775834313290943
+				],
+				[
+					-32.86897733264948,
+					-3.9330400227101876
+				],
+				[
+					-32.86897733264948,
+					-3.090245732129432
+				],
+				[
+					-32.86897733264948,
+					-2.2474514415486766
+				],
+				[
+					-32.86897733264948,
+					-1.404657150967921
+				],
+				[
+					-32.86897733264948,
+					-0.5618628603871656
+				],
+				[
+					-32.86897733264948,
+					0
+				],
+				[
+					-33.14990876284304,
+					0.8427942905807697
+				],
+				[
+					-33.71177162323022,
+					1.685588581161511
+				],
+				[
+					-34.2736344836174,
+					2.247451441548691
+				],
+				[
+					-35.11642877419814,
+					2.8093143019358706
+				],
+				[
+					-35.67829163458532,
+					3.371177162323022
+				],
+				[
+					-36.52108592516606,
+					3.933040022710202
+				],
+				[
+					-37.64481164594042,
+					4.213971452903792
+				],
+				[
+					-38.20667450632757,
+					4.494902883097382
+				],
+				[
+					-39.33040022710193,
+					4.775834313290943
+				],
+				[
+					-40.454125947876264,
+					5.056765743484533
+				],
+				[
+					-41.296920238457034,
+					5.337697173678123
+				],
+				[
+					-42.139714529037775,
+					5.337697173678123
+				],
+				[
+					-42.982508819618545,
+					5.337697173678123
+				],
+				[
+					-43.825303110199286,
+					5.337697173678123
+				],
+				[
+					-45.5108916913608,
+					5.337697173678123
+				],
+				[
+					-45.79182312155439,
+					5.337697173678123
+				],
+				[
+					-47.19648027252231,
+					5.056765743484533
+				],
+				[
+					-47.75834313290949,
+					4.775834313290943
+				],
+				[
+					-48.32020599329667,
+					4.494902883097382
+				],
+				[
+					-48.88206885368382,
+					4.213971452903792
+				],
+				[
+					-49.443931714071,
+					3.933040022710202
+				],
+				[
+					-49.72486314426456,
+					3.652108592516612
+				],
+				[
+					-50.00579457445818,
+					3.371177162323022
+				],
+				[
+					-50.28672600465174,
+					2.8093143019358706
+				],
+				[
+					-50.5676574348453,
+					2.5283828717422807
+				],
+				[
+					-50.5676574348453,
+					2.247451441548691
+				],
+				[
+					-50.84858886503892,
+					1.685588581161511
+				],
+				[
+					-50.84858886503892,
+					1.1237257207743596
+				],
+				[
+					-51.12952029523254,
+					0.5618628603871798
+				],
+				[
+					-51.12952029523254,
+					-0.2809314301935757
+				],
+				[
+					-51.12952029523254,
+					-1.1237257207743312
+				],
+				[
+					-51.12952029523254,
+					-2.2474514415486766
+				],
+				[
+					-51.12952029523254,
+					-3.090245732129432
+				],
+				[
+					-51.12952029523254,
+					-4.2139714529037775
+				],
+				[
+					-51.12952029523254,
+					-5.056765743484533
+				],
+				[
+					-51.12952029523254,
+					-5.8995600340652885
+				],
+				[
+					-51.12952029523254,
+					-6.742354324646044
+				],
+				[
+					-50.5676574348453,
+					-7.866080045420375
+				],
+				[
+					-50.28672600465174,
+					-8.70887433600113
+				],
+				[
+					-49.72486314426456,
+					-9.27073719638831
+				],
+				[
+					-48.03927456310308,
+					-10.675394347356232
+				],
+				[
+					-47.75834313290949,
+					-10.956325777549822
+				],
+				[
+					-46.35368598194157,
+					-11.237257207743397
+				],
+				[
+					-45.22996026116721,
+					-11.799120068130577
+				],
+				[
+					-43.825303110199286,
+					-12.080051498324153
+				],
+				[
+					-43.544371680005696,
+					-12.080051498324153
+				],
+				[
+					-42.420645959231365,
+					-12.080051498324153
+				],
+				[
+					-40.735057378069854,
+					-12.360982928517743
+				],
+				[
+					-39.33040022710193,
+					-12.641914358711333
+				],
+				[
+					-37.92574307613401,
+					-12.641914358711333
+				],
+				[
+					-36.2401544949725,
+					-12.641914358711333
+				],
+				[
+					-35.11642877419814,
+					-12.641914358711333
+				],
+				[
+					-33.99270305342381,
+					-12.641914358711333
+				],
+				[
+					-33.14990876284304,
+					-12.641914358711333
+				],
+				[
+					-32.02618304206871,
+					-12.641914358711333
+				],
+				[
+					-31.183388751487968,
+					-12.641914358711333
+				],
+				[
+					-30.340594460907198,
+					-12.360982928517743
+				],
+				[
+					-29.497800170326457,
+					-12.080051498324153
+				],
+				[
+					-28.935937309939277,
+					-11.799120068130577
+				],
+				[
+					-28.093143019358507,
+					-11.518188637936987
+				],
+				[
+					-27.531280158971356,
+					-11.237257207743397
+				],
+				[
+					-26.969417298584176,
+					-10.956325777549822
+				],
+				[
+					-26.126623008003435,
+					-10.675394347356232
+				],
+				[
+					-25.845691577809845,
+					-10.675394347356232
+				],
+				[
+					-25.283828717422665,
+					-10.394462917162642
+				],
+				[
+					-25.002897287229075,
+					-10.113531486969066
+				],
+				[
+					-24.441034426841924,
+					-9.832600056775476
+				],
+				[
+					-24.160102996648334,
+					-9.832600056775476
+				],
+				[
+					-23.879171566454744,
+					-10.113531486969066
+				],
+				[
+					-23.598240136261154,
+					-10.675394347356232
+				],
+				[
+					-23.317308706067564,
+					-11.237257207743397
+				],
+				[
+					-23.036377275873974,
+					-11.799120068130577
+				],
+				[
+					-22.474514415486823,
+					-12.360982928517743
+				],
+				[
+					-22.474514415486823,
+					-12.922845788904908
+				],
+				[
+					-22.193582985293233,
+					-13.484708649292088
+				],
+				[
+					-21.912651555099643,
+					-14.046571509679254
+				],
+				[
+					-21.350788694712463,
+					-15.170297230453599
+				],
+				[
+					-21.0698572645189,
+					-15.732160090840779
+				],
+				[
+					-20.788925834325312,
+					-16.57495438142152
+				],
+				[
+					-20.507994404131722,
+					-17.1368172418087
+				],
+				[
+					-20.227062973938132,
+					-17.97961153238944
+				],
+				[
+					-19.665200113550952,
+					-19.384268683357362
+				],
+				[
+					-19.38426868335739,
+					-19.946131543744542
+				],
+				[
+					-19.38426868335739,
+					-21.0698572645189
+				],
+				[
+					-19.1033372531638,
+					-21.912651555099643
+				],
+				[
+					-19.1033372531638,
+					-22.755445845680384
+				],
+				[
+					-19.1033372531638,
+					-23.598240136261154
+				],
+				[
+					-18.82240582297021,
+					-24.441034426841924
+				],
+				[
+					-18.82240582297021,
+					-26.407554438197025
+				],
+				[
+					-18.82240582297021,
+					-28.093143019358507
+				],
+				[
+					-19.1033372531638,
+					-29.216868740132867
+				],
+				[
+					-19.38426868335739,
+					-30.90245732129435
+				],
+				[
+					-19.665200113550952,
+					-31.183388751487968
+				],
+				[
+					-19.665200113550952,
+					-31.74525161187512
+				],
+				[
+					-20.227062973938132,
+					-32.86897733264945
+				],
+				[
+					-20.507994404131722,
+					-33.71177162323022
+				],
+				[
+					-21.0698572645189,
+					-34.83549734400455
+				],
+				[
+					-21.350788694712463,
+					-35.95922306477891
+				],
+				[
+					-21.912651555099643,
+					-36.80201735535965
+				],
+				[
+					-22.755445845680413,
+					-37.92574307613401
+				],
+				[
+					-23.317308706067564,
+					-38.76853736671475
+				],
+				[
+					-23.879171566454744,
+					-39.611331657295494
+				],
+				[
+					-24.721965857035485,
+					-40.454125947876264
+				],
+				[
+					-25.564760147616255,
+					-41.296920238457034
+				],
+				[
+					-26.688485868390586,
+					-42.139714529037775
+				],
+				[
+					-27.531280158971356,
+					-42.982508819618516
+				],
+				[
+					-28.374074449552097,
+					-43.544371680005696
+				],
+				[
+					-29.497800170326457,
+					-44.387165970586466
+				],
+				[
+					-30.902457321294378,
+					-44.94902883097362
+				],
+				[
+					-33.71177162323022,
+					-46.07275455174798
+				],
+				[
+					-33.99270305342381,
+					-46.35368598194154
+				],
+				[
+					-35.39736020439173,
+					-46.63461741213516
+				],
+				[
+					-37.64481164594042,
+					-47.4774117027159
+				],
+				[
+					-37.92574307613401,
+					-47.4774117027159
+				],
+				[
+					-38.76853736671475,
+					-47.4774117027159
+				],
+				[
+					-39.33040022710193,
+					-47.4774117027159
+				],
+				[
+					-40.454125947876264,
+					-47.75834313290949
+				],
+				[
+					-41.296920238457034,
+					-47.75834313290949
+				],
+				[
+					-42.420645959231365,
+					-47.75834313290949
+				],
+				[
+					-42.982508819618545,
+					-47.75834313290949
+				],
+				[
+					-44.106234540392876,
+					-47.75834313290949
+				],
+				[
+					-45.5108916913608,
+					-47.75834313290949
+				],
+				[
+					-46.35368598194157,
+					-47.4774117027159
+				],
+				[
+					-47.75834313290949,
+					-47.19648027252231
+				],
+				[
+					-49.16300028387741,
+					-46.91554884232872
+				],
+				[
+					-50.5676574348453,
+					-46.35368598194154
+				],
+				[
+					-52.5341774462004,
+					-45.79182312155439
+				],
+				[
+					-54.21976602736194,
+					-45.229960261167236
+				],
+				[
+					-55.90535460852348,
+					-44.668097400780056
+				],
+				[
+					-57.87187461987858,
+					-43.825303110199286
+				],
+				[
+					-59.557463201040065,
+					-43.263440249812135
+				],
+				[
+					-61.523983212395166,
+					-42.420645959231365
+				],
+				[
+					-63.771434653943885,
+					-41.577851668650595
+				],
+				[
+					-65.17609180491175,
+					-41.015988808263444
+				],
+				[
+					-66.58074895587973,
+					-40.173194517682674
+				],
+				[
+					-68.26633753704121,
+					-39.33040022710193
+				],
+				[
+					-70.23285754839631,
+					-37.64481164594039
+				],
+				[
+					-70.51378897858993,
+					-37.64481164594039
+				],
+				[
+					-71.07565183897705,
+					-36.80201735535965
+				],
+				[
+					-71.35658326917067,
+					-36.24015449497247
+				],
+				[
+					-71.63751469936423,
+					-35.39736020439173
+				],
+				[
+					-71.9184461295578,
+					-34.83549734400455
+				],
+				[
+					-71.9184461295578,
+					-33.99270305342381
+				],
+				[
+					-72.19937755975141,
+					-33.43084019303663
+				],
+				[
+					-72.19937755975141,
+					-32.86897733264945
+				],
+				[
+					-72.19937755975141,
+					-32.02618304206871
+				],
+				[
+					-71.9184461295578,
+					-31.183388751487968
+				],
+				[
+					-71.9184461295578,
+					-30.059663030713608
+				],
+				[
+					-71.63751469936423,
+					-29.216868740132867
+				],
+				[
+					-71.35658326917067,
+					-28.374074449552097
+				],
+				[
+					-70.79472040878343,
+					-27.250348728777766
+				],
+				[
+					-70.23285754839631,
+					-26.126623008003406
+				],
+				[
+					-69.67099468800913,
+					-25.283828717422665
+				],
+				[
+					-68.82820039742839,
+					-23.879171566454744
+				],
+				[
+					-67.70447467665403,
+					-22.474514415486823
+				],
+				[
+					-66.86168038607329,
+					-21.0698572645189
+				],
+				[
+					-65.73795466529893,
+					-19.946131543744542
+				],
+				[
+					-64.33329751433101,
+					-18.26054296258303
+				],
+				[
+					-63.20957179355665,
+					-16.57495438142152
+				],
+				[
+					-61.523983212395166,
+					-14.60843437006642
+				],
+				[
+					-60.681188921814424,
+					-13.765640079485664
+				],
+				[
+					-57.310011759491346,
+					-10.394462917162642
+				],
+				[
+					-56.74814889910422,
+					-9.551668626581886
+				],
+				[
+					-55.343491748136245,
+					-7.866080045420375
+				],
+				[
+					-55.06256031794274,
+					-7.5851486152267995
+				],
+				[
+					-53.93883459716838,
+					-6.461422894452454
+				],
+				[
+					-53.09604030658764,
+					-5.337697173678109
+				],
+				[
+					-52.5341774462004,
+					-4.775834313290943
+				],
+				[
+					-52.25324601600684,
+					-3.9330400227101876
+				],
+				[
+					-51.4104517254261,
+					-3.090245732129432
+				],
+				[
+					-50.84858886503892,
+					-2.2474514415486766
+				],
+				[
+					-50.00579457445818,
+					-1.1237257207743312
+				],
+				[
+					-49.16300028387741,
+					0.2809314301935899
+				],
+				[
+					-48.32020599329667,
+					1.1237257207743596
+				],
+				[
+					-47.75834313290949,
+					2.247451441548691
+				],
+				[
+					-46.91554884232872,
+					3.090245732129432
+				],
+				[
+					-46.35368598194157,
+					4.213971452903792
+				],
+				[
+					-45.5108916913608,
+					5.056765743484533
+				],
+				[
+					-44.949028830973646,
+					6.180491464258893
+				],
+				[
+					-44.387165970586466,
+					7.023285754839634
+				],
+				[
+					-43.825303110199286,
+					8.708874336001145
+				],
+				[
+					-43.263440249812135,
+					9.270737196388325
+				],
+				[
+					-43.263440249812135,
+					9.551668626581915
+				],
+				[
+					-43.263440249812135,
+					10.113531486969066
+				],
+				[
+					-42.982508819618545,
+					10.675394347356246
+				],
+				[
+					-42.982508819618545,
+					10.956325777549836
+				],
+				[
+					-42.982508819618545,
+					11.237257207743426
+				],
+				[
+					-42.982508819618545,
+					11.518188637936987
+				],
+				[
+					-42.982508819618545,
+					12.080051498324167
+				],
+				[
+					-42.982508819618545,
+					12.360982928517757
+				],
+				[
+					-42.982508819618545,
+					12.641914358711347
+				],
+				[
+					-43.544371680005696,
+					12.641914358711347
+				],
+				[
+					-43.825303110199286,
+					12.922845788904937
+				],
+				[
+					-44.106234540392876,
+					13.203777219098498
+				],
+				[
+					-44.387165970586466,
+					13.203777219098498
+				],
+				[
+					-44.949028830973646,
+					13.484708649292088
+				],
+				[
+					-45.79182312155439,
+					13.484708649292088
+				],
+				[
+					-46.63461741213516,
+					13.765640079485678
+				],
+				[
+					-47.75834313290949,
+					13.765640079485678
+				],
+				[
+					-48.88206885368382,
+					14.046571509679268
+				],
+				[
+					-50.5676574348453,
+					14.046571509679268
+				],
+				[
+					-52.5341774462004,
+					14.327502939872858
+				],
+				[
+					-55.343491748136245,
+					14.327502939872858
+				],
+				[
+					-57.310011759491346,
+					14.327502939872858
+				],
+				[
+					-60.119326061427245,
+					14.327502939872858
+				],
+				[
+					-62.36677750297591,
+					14.327502939872858
+				],
+				[
+					-64.89516037471819,
+					14.327502939872858
+				],
+				[
+					-67.98540610684759,
+					14.327502939872858
+				],
+				[
+					-73.04217185033215,
+					14.046571509679268
+				],
+				[
+					-73.8849661409129,
+					14.046571509679268
+				],
+				[
+					-76.69428044284874,
+					14.046571509679268
+				],
+				[
+					-78.66080045420384,
+					13.484708649292088
+				],
+				[
+					-79.22266331459102,
+					13.484708649292088
+				],
+				[
+					-80.90825189575256,
+					13.484708649292088
+				],
+				[
+					-81.7510461863333,
+					13.484708649292088
+				],
+				[
+					-83.15570333730122,
+					12.922845788904937
+				],
+				[
+					-84.27942905807558,
+					12.922845788904937
+				],
+				[
+					-85.40315477884988,
+					12.641914358711347
+				],
+				[
+					-86.24594906943062,
+					12.360982928517757
+				],
+				[
+					-87.36967479020498,
+					12.080051498324167
+				],
+				[
+					-88.21246908078572,
+					11.799120068130577
+				],
+				[
+					-88.77433194117296,
+					11.518188637936987
+				],
+				[
+					-89.33619480156008,
+					10.956325777549836
+				],
+				[
+					-90.17898909214082,
+					10.675394347356246
+				],
+				[
+					-90.74085195252806,
+					10.113531486969066
+				],
+				[
+					-91.5836462431088,
+					9.832600056775476
+				],
+				[
+					-92.14550910349593,
+					9.270737196388325
+				],
+				[
+					-92.70737196388316,
+					8.708874336001145
+				],
+				[
+					-93.26923482427028,
+					8.427942905807555
+				],
+				[
+					-93.83109768465746,
+					7.866080045420404
+				],
+				[
+					-94.11202911485103,
+					7.304217185033224
+				],
+				[
+					-94.39296054504464,
+					7.023285754839634
+				],
+				[
+					-94.6738919752382,
+					7.023285754839634
+				],
+				[
+					-94.6738919752382,
+					6.461422894452454
+				],
+				[
+					-94.95482340543177,
+					6.180491464258893
+				],
+				[
+					-95.23575483562539,
+					5.337697173678123
+				],
+				[
+					-95.23575483562539,
+					5.056765743484533
+				],
+				[
+					-95.516686265819,
+					4.213971452903792
+				],
+				[
+					-95.79761769601257,
+					3.652108592516612
+				],
+				[
+					-96.07854912620613,
+					2.8093143019358706
+				],
+				[
+					-96.07854912620613,
+					2.5283828717422807
+				],
+				[
+					-96.07854912620613,
+					1.966520011355101
+				],
+				[
+					-96.35948055639975,
+					1.404657150967921
+				],
+				[
+					-96.35948055639975,
+					1.1237257207743596
+				],
+				[
+					-96.35948055639975,
+					0.5618628603871798
+				],
+				[
+					-96.35948055639975,
+					0
+				],
+				[
+					-96.35948055639975,
+					-0.2809314301935757
+				],
+				[
+					-96.6404119865933,
+					-0.8427942905807555
+				],
+				[
+					-96.6404119865933,
+					-1.404657150967921
+				],
+				[
+					-96.6404119865933,
+					-1.685588581161511
+				],
+				[
+					-96.6404119865933,
+					-2.2474514415486766
+				],
+				[
+					-96.6404119865933,
+					-2.809314301935842
+				],
+				[
+					-96.6404119865933,
+					-3.090245732129432
+				],
+				[
+					-96.35948055639975,
+					-3.9330400227101876
+				],
+				[
+					-96.07854912620613,
+					-4.2139714529037775
+				],
+				[
+					-94.95482340543177,
+					-5.8995600340652885
+				],
+				[
+					-94.6738919752382,
+					-6.180491464258864
+				],
+				[
+					-93.83109768465746,
+					-7.02328575483962
+				],
+				[
+					-92.98830339407667,
+					-8.147011475613965
+				],
+				[
+					-91.5836462431088,
+					-8.98980576619472
+				],
+				[
+					-90.74085195252806,
+					-10.113531486969066
+				],
+				[
+					-89.89805766194726,
+					-10.956325777549822
+				],
+				[
+					-89.05526337136652,
+					-11.799120068130577
+				],
+				[
+					-87.93153765059216,
+					-12.922845788904908
+				],
+				[
+					-86.80781192981786,
+					-14.046571509679254
+				],
+				[
+					-85.40315477884988,
+					-15.170297230453599
+				],
+				[
+					-84.27942905807558,
+					-16.29402295122793
+				],
+				[
+					-82.87477190710766,
+					-17.1368172418087
+				],
+				[
+					-81.7510461863333,
+					-17.97961153238944
+				],
+				[
+					-80.34638903536538,
+					-19.1033372531638
+				],
+				[
+					-79.22266331459102,
+					-19.66520011355098
+				],
+				[
+					-78.09893759381671,
+					-20.227062973938132
+				],
+				[
+					-77.25614330323597,
+					-20.788925834325283
+				],
+				[
+					-76.13241758246161,
+					-21.631720124906053
+				],
+				[
+					-75.00869186168725,
+					-21.912651555099643
+				],
+				[
+					-72.19937755975141,
+					-23.598240136261154
+				],
+				[
+					-69.95192611820269,
+					-24.441034426841924
+				],
+				[
+					-69.95192611820269,
+					-24.721965857035485
+				],
+				[
+					-69.10913182762195,
+					-25.002897287229075
+				],
+				[
+					-67.98540610684759,
+					-25.564760147616255
+				],
+				[
+					-67.42354324646047,
+					-25.845691577809845
+				],
+				[
+					-67.14261181626685,
+					-25.845691577809845
+				],
+				[
+					-66.58074895587973,
+					-26.126623008003406
+				],
+				[
+					-65.73795466529893,
+					-26.407554438197025
+				],
+				[
+					-65.17609180491175,
+					-26.407554438197025
+				],
+				[
+					-64.61422894452463,
+					-26.407554438197025
+				],
+				[
+					-64.05236608413739,
+					-26.407554438197025
+				],
+				[
+					-63.771434653943885,
+					-26.407554438197025
+				],
+				[
+					-63.49050322375027,
+					-26.407554438197025
+				],
+				[
+					-63.20957179355665,
+					-26.407554438197025
+				],
+				[
+					-62.647708933169525,
+					-26.126623008003406
+				],
+				[
+					-62.36677750297591,
+					-25.564760147616255
+				],
+				[
+					-61.804914642588784,
+					-25.002897287229075
+				],
+				[
+					-61.24305178220155,
+					-24.441034426841924
+				],
+				[
+					-60.681188921814424,
+					-23.317308706067564
+				],
+				[
+					-60.119326061427245,
+					-22.755445845680384
+				],
+				[
+					-59.557463201040065,
+					-21.912651555099643
+				],
+				[
+					-58.995600340652885,
+					-21.350788694712463
+				],
+				[
+					-58.433737480265705,
+					-20.788925834325283
+				],
+				[
+					-57.590943189684964,
+					-19.946131543744542
+				],
+				[
+					-57.029080329297784,
+					-19.384268683357362
+				],
+				[
+					-56.74814889910422,
+					-18.82240582297021
+				],
+				[
+					-56.467217468910604,
+					-18.54147439277662
+				],
+				[
+					-55.90535460852348,
+					-18.26054296258303
+				],
+				[
+					-55.62442317832986,
+					-17.97961153238944
+				],
+				[
+					-55.343491748136245,
+					-17.97961153238944
+				],
+				[
+					-55.343491748136245,
+					-18.54147439277662
+				],
+				[
+					-54.78162888774912,
+					-19.384268683357362
+				],
+				[
+					-54.78162888774912,
+					-20.227062973938132
+				],
+				[
+					-54.78162888774912,
+					-20.788925834325283
+				],
+				[
+					-54.5006974575555,
+					-21.631720124906053
+				],
+				[
+					-54.5006974575555,
+					-22.474514415486823
+				],
+				[
+					-54.21976602736194,
+					-23.317308706067564
+				],
+				[
+					-54.21976602736194,
+					-24.160102996648305
+				],
+				[
+					-54.21976602736194,
+					-25.002897287229075
+				],
+				[
+					-53.93883459716838,
+					-26.126623008003406
+				],
+				[
+					-53.93883459716838,
+					-26.969417298584176
+				],
+				[
+					-53.93883459716838,
+					-27.531280158971327
+				],
+				[
+					-53.93883459716838,
+					-28.093143019358507
+				],
+				[
+					-53.93883459716838,
+					-28.655005879745687
+				],
+				[
+					-53.93883459716838,
+					-28.935937309939277
+				],
+				[
+					-54.21976602736194,
+					-29.216868740132867
+				],
+				[
+					-54.5006974575555,
+					-29.778731600520047
+				],
+				[
+					-54.78162888774912,
+					-30.340594460907198
+				],
+				[
+					-55.06256031794274,
+					-30.340594460907198
+				],
+				[
+					-56.18628603871704,
+					-31.183388751487968
+				],
+				[
+					-56.467217468910604,
+					-31.183388751487968
+				],
+				[
+					-56.74814889910422,
+					-31.183388751487968
+				],
+				[
+					-57.029080329297784,
+					-31.183388751487968
+				],
+				[
+					-57.310011759491346,
+					-31.183388751487968
+				],
+				[
+					-57.87187461987858,
+					-31.183388751487968
+				],
+				[
+					-58.152806050072144,
+					-31.183388751487968
+				],
+				[
+					-58.714668910459324,
+					-30.90245732129435
+				],
+				[
+					-58.995600340652885,
+					-30.621525891100788
+				],
+				[
+					-59.83839463123368,
+					-30.059663030713608
+				],
+				[
+					-60.400257491620806,
+					-29.49780017032643
+				],
+				[
+					-60.962120352007986,
+					-28.935937309939277
+				],
+				[
+					-61.24305178220155,
+					-28.374074449552097
+				],
+				[
+					-61.804914642588784,
+					-27.812211589164946
+				],
+				[
+					-62.36677750297591,
+					-26.688485868390586
+				],
+				[
+					-62.92864036336309,
+					-24.721965857035485
+				],
+				[
+					-62.92864036336309,
+					-23.036377275874003
+				],
+				[
+					-62.92864036336309,
+					-22.193582985293233
+				],
+				[
+					-62.92864036336309,
+					-21.0698572645189
+				],
+				[
+					-62.92864036336309,
+					-20.788925834325283
+				],
+				[
+					-62.36677750297591,
+					-19.946131543744542
+				],
+				[
+					-62.085846072782346,
+					-19.1033372531638
+				],
+				[
+					-61.523983212395166,
+					-18.54147439277662
+				],
+				[
+					-61.24305178220155,
+					-17.69868010219588
+				],
+				[
+					-60.400257491620806,
+					-16.85588581161511
+				],
+				[
+					-59.83839463123368,
+					-16.29402295122793
+				],
+				[
+					-59.27653177084645,
+					-15.732160090840779
+				],
+				[
+					-58.433737480265705,
+					-15.45122866064716
+				],
+				[
+					-58.152806050072144,
+					-14.889365800260009
+				],
+				[
+					-57.310011759491346,
+					-14.60843437006642
+				],
+				[
+					-56.74814889910422,
+					-14.327502939872844
+				],
+				[
+					-55.90535460852348,
+					-14.046571509679254
+				],
+				[
+					-55.06256031794274,
+					-13.765640079485664
+				],
+				[
+					-54.21976602736194,
+					-13.484708649292088
+				],
+				[
+					-53.09604030658764,
+					-13.203777219098498
+				],
+				[
+					-51.97231458581328,
+					-13.203777219098498
+				],
+				[
+					-50.28672600465174,
+					-13.203777219098498
+				],
+				[
+					-46.07275455174798,
+					-12.922845788904908
+				],
+				[
+					-45.79182312155439,
+					-12.922845788904908
+				],
+				[
+					-43.544371680005696,
+					-12.922845788904908
+				],
+				[
+					-41.577851668650624,
+					-13.765640079485664
+				],
+				[
+					-41.296920238457034,
+					-14.046571509679254
+				],
+				[
+					-39.89226308748911,
+					-14.327502939872844
+				],
+				[
+					-38.76853736671475,
+					-14.889365800260009
+				],
+				[
+					-37.92574307613401,
+					-15.170297230453599
+				],
+				[
+					-36.80201735535965,
+					-16.01309152103434
+				],
+				[
+					-35.67829163458532,
+					-16.57495438142152
+				],
+				[
+					-34.83549734400455,
+					-17.1368172418087
+				],
+				[
+					-33.99270305342381,
+					-17.97961153238944
+				],
+				[
+					-33.14990876284304,
+					-18.54147439277662
+				],
+				[
+					-32.86897733264948,
+					-19.1033372531638
+				],
+				[
+					-32.3071144722623,
+					-19.66520011355098
+				],
+				[
+					-31.74525161187512,
+					-19.946131543744542
+				],
+				[
+					-31.46432018168153,
+					-20.507994404131722
+				],
+				[
+					-31.183388751487968,
+					-21.0698572645189
+				],
+				[
+					-30.902457321294378,
+					-21.350788694712463
+				],
+				[
+					-30.621525891100788,
+					-21.631720124906053
+				],
+				[
+					-30.340594460907198,
+					-21.912651555099643
+				],
+				[
+					-30.340594460907198,
+					-22.193582985293233
+				],
+				[
+					-30.059663030713608,
+					-22.193582985293233
+				],
+				[
+					-29.778731600520018,
+					-21.912651555099643
+				],
+				[
+					-29.497800170326457,
+					-21.631720124906053
+				],
+				[
+					-29.216868740132867,
+					-20.788925834325283
+				],
+				[
+					-28.374074449552097,
+					-18.26054296258303
+				],
+				[
+					-27.812211589164946,
+					-17.41774867200226
+				],
+				[
+					-27.250348728777766,
+					-15.45122866064716
+				],
+				[
+					-26.126623008003435,
+					-13.203777219098498
+				],
+				[
+					-26.126623008003435,
+					-12.922845788904908
+				],
+				[
+					-25.564760147616255,
+					-11.237257207743397
+				],
+				[
+					-25.283828717422665,
+					-10.113531486969066
+				],
+				[
+					-24.721965857035485,
+					-8.147011475613965
+				],
+				[
+					-24.160102996648334,
+					-6.742354324646044
+				],
+				[
+					-24.160102996648334,
+					-5.056765743484533
+				],
+				[
+					-23.879171566454744,
+					-3.371177162323022
+				],
+				[
+					-23.598240136261154,
+					-1.9665200113550867
+				],
+				[
+					-23.317308706067564,
+					-0.2809314301935757
+				],
+				[
+					-23.317308706067564,
+					1.685588581161511
+				],
+				[
+					-23.036377275873974,
+					2.8093143019358706
+				],
+				[
+					-23.036377275873974,
+					4.213971452903792
+				],
+				[
+					-23.036377275873974,
+					5.618628603871713
+				],
+				[
+					-23.036377275873974,
+					6.742354324646044
+				],
+				[
+					-23.036377275873974,
+					8.147011475613965
+				],
+				[
+					-23.036377275873974,
+					9.551668626581915
+				],
+				[
+					-23.317308706067564,
+					12.922845788904937
+				],
+				[
+					-23.598240136261154,
+					13.484708649292088
+				],
+				[
+					-24.160102996648334,
+					14.889365800260038
+				],
+				[
+					-24.721965857035485,
+					16.29402295122796
+				],
+				[
+					-25.564760147616255,
+					17.41774867200229
+				],
+				[
+					-26.126623008003435,
+					18.26054296258306
+				],
+				[
+					-26.688485868390586,
+					19.1033372531638
+				],
+				[
+					-27.531280158971356,
+					19.94613154374457
+				],
+				[
+					-28.935937309939277,
+					20.507994404131722
+				],
+				[
+					-29.778731600520018,
+					21.35078869471249
+				],
+				[
+					-30.902457321294378,
+					21.63172012490608
+				],
+				[
+					-32.02618304206871,
+					22.193582985293233
+				],
+				[
+					-33.43084019303663,
+					22.474514415486823
+				],
+				[
+					-34.55456591381099,
+					22.755445845680413
+				],
+				[
+					-36.52108592516606,
+					23.036377275874003
+				],
+				[
+					-38.20667450632757,
+					23.317308706067593
+				],
+				[
+					-39.89226308748911,
+					23.598240136261154
+				],
+				[
+					-41.577851668650624,
+					23.598240136261154
+				],
+				[
+					-43.825303110199286,
+					23.598240136261154
+				],
+				[
+					-50.00579457445818,
+					23.598240136261154
+				],
+				[
+					-50.28672600465174,
+					23.598240136261154
+				],
+				[
+					-53.93883459716838,
+					23.317308706067593
+				],
+				[
+					-56.74814889910422,
+					22.474514415486823
+				],
+				[
+					-57.310011759491346,
+					22.474514415486823
+				],
+				[
+					-59.557463201040065,
+					21.912651555099643
+				],
+				[
+					-61.804914642588784,
+					21.35078869471249
+				],
+				[
+					-64.61422894452463,
+					20.788925834325312
+				],
+				[
+					-67.14261181626685,
+					19.94613154374457
+				],
+				[
+					-69.95192611820269,
+					19.38426868335739
+				],
+				[
+					-72.76124042013853,
+					18.82240582297021
+				],
+				[
+					-75.851486152268,
+					18.26054296258306
+				],
+				[
+					-78.94173188439746,
+					17.69868010219588
+				],
+				[
+					-81.47011475613968,
+					16.85588581161511
+				],
+				[
+					-84.56036048826914,
+					16.01309152103437
+				],
+				[
+					-87.36967479020498,
+					15.451228660647189
+				],
+				[
+					-90.45992052233444,
+					14.608434370066448
+				],
+				[
+					-94.11202911485103,
+					13.484708649292088
+				],
+				[
+					-96.6404119865933,
+					12.641914358711347
+				],
+				[
+					-99.73065771872271,
+					11.799120068130577
+				],
+				[
+					-103.10183488104579,
+					10.394462917162656
+				],
+				[
+					-104.78742346220727,
+					9.551668626581915
+				],
+				[
+					-107.03487490375599,
+					8.708874336001145
+				],
+				[
+					-112.37257207743406,
+					6.180491464258893
+				],
+				[
+					-112.65350350762768,
+					5.899560034065303
+				],
+				[
+					-114.0581606585956,
+					5.056765743484533
+				],
+				[
+					-114.33909208878916,
+					5.056765743484533
+				],
+				[
+					-114.62002351898278,
+					4.494902883097382
+				],
+				[
+					-115.46281780956352,
+					3.933040022710202
+				],
+				[
+					-115.46281780956352,
+					3.652108592516612
+				],
+				[
+					-115.74374923975714,
+					3.090245732129432
+				],
+				[
+					-116.0246806699507,
+					2.247451441548691
+				],
+				[
+					-116.0246806699507,
+					1.404657150967921
+				],
+				[
+					-116.58654353033788,
+					0.2809314301935899
+				],
+				[
+					-116.58654353033788,
+					-0.8427942905807555
+				],
+				[
+					-116.58654353033788,
+					-1.9665200113550867
+				],
+				[
+					-116.58654353033788,
+					-3.090245732129432
+				],
+				[
+					-116.58654353033788,
+					-4.2139714529037775
+				],
+				[
+					-116.58654353033788,
+					-5.337697173678109
+				],
+				[
+					-116.30561210014426,
+					-7.02328575483962
+				],
+				[
+					-115.74374923975714,
+					-8.147011475613965
+				],
+				[
+					-115.46281780956352,
+					-9.27073719638831
+				],
+				[
+					-114.62002351898278,
+					-10.113531486969066
+				],
+				[
+					-114.0581606585956,
+					-10.956325777549822
+				],
+				[
+					-112.9344349378213,
+					-11.799120068130577
+				],
+				[
+					-111.81070921704693,
+					-12.641914358711333
+				],
+				[
+					-107.03487490375599,
+					-14.327502939872844
+				],
+				[
+					-106.19208061317525,
+					-14.889365800260009
+				],
+				[
+					-101.97810916027143,
+					-15.732160090840779
+				],
+				[
+					-101.13531486969069,
+					-16.01309152103434
+				],
+				[
+					-98.04506913756123,
+					-16.57495438142152
+				],
+				[
+					-93.26923482427028,
+					-17.1368172418087
+				],
+				[
+					-91.02178338272162,
+					-17.41774867200226
+				],
+				[
+					-87.93153765059216,
+					-17.69868010219588
+				],
+				[
+					-84.56036048826914,
+					-18.26054296258303
+				],
+				[
+					-82.31290904672048,
+					-18.54147439277662
+				],
+				[
+					-79.22266331459102,
+					-19.1033372531638
+				],
+				[
+					-76.41334901265517,
+					-19.384268683357362
+				],
+				[
+					-73.32310328052577,
+					-19.946131543744542
+				],
+				[
+					-70.79472040878343,
+					-20.227062973938132
+				],
+				[
+					-68.54726896723483,
+					-20.788925834325283
+				],
+				[
+					-66.58074895587973,
+					-21.0698572645189
+				],
+				[
+					-64.33329751433101,
+					-21.0698572645189
+				],
+				[
+					-62.92864036336309,
+					-21.350788694712463
+				],
+				[
+					-62.085846072782346,
+					-21.350788694712463
+				],
+				[
+					-60.962120352007986,
+					-21.350788694712463
+				],
+				[
+					-60.400257491620806,
+					-21.350788694712463
+				],
+				[
+					-59.83839463123368,
+					-21.350788694712463
+				],
+				[
+					-59.27653177084645,
+					-21.350788694712463
+				],
+				[
+					-58.995600340652885,
+					-21.350788694712463
+				],
+				[
+					-58.995600340652885,
+					-21.0698572645189
+				],
+				[
+					-58.714668910459324,
+					-20.507994404131722
+				],
+				[
+					-58.714668910459324,
+					-20.227062973938132
+				],
+				[
+					-58.714668910459324,
+					-19.946131543744542
+				],
+				[
+					-58.714668910459324,
+					-19.384268683357362
+				],
+				[
+					-58.433737480265705,
+					-18.82240582297021
+				],
+				[
+					-58.433737480265705,
+					-18.26054296258303
+				],
+				[
+					-58.433737480265705,
+					-17.97961153238944
+				],
+				[
+					-58.152806050072144,
+					-17.69868010219588
+				],
+				[
+					-58.152806050072144,
+					-17.1368172418087
+				],
+				[
+					-58.152806050072144,
+					-16.85588581161511
+				],
+				[
+					-57.87187461987858,
+					-16.57495438142152
+				],
+				[
+					-57.87187461987858,
+					-16.29402295122793
+				],
+				[
+					-57.87187461987858,
+					-15.732160090840779
+				],
+				[
+					-57.590943189684964,
+					-15.45122866064716
+				],
+				[
+					-57.590943189684964,
+					-15.170297230453599
+				],
+				[
+					-56.74814889910422,
+					-14.327502939872844
+				],
+				[
+					-56.74814889910422,
+					-14.046571509679254
+				],
+				[
+					-56.467217468910604,
+					-13.484708649292088
+				],
+				[
+					-55.90535460852348,
+					-12.922845788904908
+				],
+				[
+					-55.62442317832986,
+					-12.360982928517743
+				],
+				[
+					-55.06256031794274,
+					-12.080051498324153
+				],
+				[
+					-55.06256031794274,
+					-11.799120068130577
+				],
+				[
+					-54.5006974575555,
+					-11.237257207743397
+				],
+				[
+					-54.21976602736194,
+					-11.237257207743397
+				],
+				[
+					-53.93883459716838,
+					-10.956325777549822
+				],
+				[
+					-53.3769717367812,
+					-10.675394347356232
+				],
+				[
+					-52.81510887639402,
+					-10.394462917162642
+				],
+				[
+					-52.25324601600684,
+					-10.113531486969066
+				],
+				[
+					-51.4104517254261,
+					-10.113531486969066
+				],
+				[
+					-50.5676574348453,
+					-10.113531486969066
+				],
+				[
+					-49.72486314426456,
+					-9.832600056775476
+				],
+				[
+					-48.03927456310308,
+					-9.832600056775476
+				],
+				[
+					-46.91554884232872,
+					-9.832600056775476
+				],
+				[
+					-45.5108916913608,
+					-10.113531486969066
+				],
+				[
+					-43.544371680005696,
+					-10.675394347356232
+				],
+				[
+					-41.577851668650624,
+					-11.237257207743397
+				],
+				[
+					-33.99270305342381,
+					-14.046571509679254
+				],
+				[
+					-32.58804590245589,
+					-14.327502939872844
+				],
+				[
+					-27.812211589164946,
+					-16.29402295122793
+				],
+				[
+					-24.721965857035485,
+					-17.69868010219588
+				],
+				[
+					-20.788925834325312,
+					-19.946131543744542
+				],
+				[
+					-18.54147439277662,
+					-21.0698572645189
+				],
+				[
+					-16.57495438142152,
+					-22.474514415486823
+				],
+				[
+					-14.889365800260009,
+					-23.598240136261154
+				],
+				[
+					-13.203777219098498,
+					-24.721965857035485
+				],
+				[
+					-12.080051498324167,
+					-25.845691577809845
+				],
+				[
+					-11.799120068130577,
+					-26.407554438197025
+				],
+				[
+					-10.956325777549807,
+					-27.531280158971327
+				],
+				[
+					-10.675394347356246,
+					-27.812211589164946
+				],
+				[
+					-10.675394347356246,
+					-28.655005879745687
+				],
+				[
+					-10.675394347356246,
+					-29.49780017032643
+				],
+				[
+					-10.675394347356246,
+					-30.059663030713608
+				],
+				[
+					-10.675394347356246,
+					-30.621525891100788
+				],
+				[
+					-10.956325777549807,
+					-31.183388751487968
+				],
+				[
+					-11.518188637936987,
+					-31.74525161187512
+				],
+				[
+					-12.360982928517757,
+					-32.02618304206871
+				],
+				[
+					-13.203777219098498,
+					-32.58804590245589
+				],
+				[
+					-14.046571509679268,
+					-32.58804590245589
+				],
+				[
+					-16.01309152103434,
+					-33.14990876284307
+				],
+				[
+					-22.193582985293233,
+					-33.43084019303663
+				],
+				[
+					-22.755445845680413,
+					-33.43084019303663
+				],
+				[
+					-26.688485868390586,
+					-32.86897733264945
+				],
+				[
+					-30.340594460907198,
+					-31.46432018168153
+				],
+				[
+					-33.43084019303663,
+					-30.059663030713608
+				],
+				[
+					-36.2401544949725,
+					-28.655005879745687
+				],
+				[
+					-39.04946879690834,
+					-27.531280158971327
+				],
+				[
+					-41.858783098844185,
+					-25.564760147616255
+				],
+				[
+					-43.825303110199286,
+					-24.721965857035485
+				],
+				[
+					-46.35368598194157,
+					-23.036377275874003
+				],
+				[
+					-48.88206885368382,
+					-21.631720124906053
+				],
+				[
+					-50.28672600465174,
+					-20.507994404131722
+				],
+				[
+					-52.25324601600684,
+					-19.384268683357362
+				],
+				[
+					-53.93883459716838,
+					-17.97961153238944
+				],
+				[
+					-55.62442317832986,
+					-16.57495438142152
+				],
+				[
+					-56.74814889910422,
+					-15.45122866064716
+				],
+				[
+					-57.87187461987858,
+					-14.60843437006642
+				],
+				[
+					-58.714668910459324,
+					-13.765640079485664
+				],
+				[
+					-59.27653177084645,
+					-12.922845788904908
+				],
+				[
+					-59.83839463123368,
+					-12.080051498324153
+				],
+				[
+					-60.400257491620806,
+					-10.956325777549822
+				],
+				[
+					-60.681188921814424,
+					-10.113531486969066
+				],
+				[
+					-60.962120352007986,
+					-9.551668626581886
+				],
+				[
+					-60.962120352007986,
+					-8.70887433600113
+				],
+				[
+					-60.962120352007986,
+					-7.30421718503321
+				],
+				[
+					-60.400257491620806,
+					-4.494902883097353
+				],
+				[
+					-59.557463201040065,
+					-2.809314301935842
+				],
+				[
+					-58.714668910459324,
+					-0.8427942905807555
+				],
+				[
+					-58.433737480265705,
+					-0.8427942905807555
+				],
+				[
+					-57.590943189684964,
+					0.8427942905807697
+				],
+				[
+					-56.467217468910604,
+					1.966520011355101
+				],
+				[
+					-55.62442317832986,
+					3.371177162323022
+				],
+				[
+					-54.78162888774912,
+					4.213971452903792
+				],
+				[
+					-53.93883459716838,
+					5.056765743484533
+				],
+				[
+					-53.3769717367812,
+					5.899560034065303
+				],
+				[
+					-52.81510887639402,
+					6.742354324646044
+				],
+				[
+					-51.97231458581328,
+					7.304217185033224
+				],
+				[
+					-51.4104517254261,
+					7.866080045420404
+				],
+				[
+					-50.84858886503892,
+					8.427942905807555
+				],
+				[
+					-50.28672600465174,
+					8.708874336001145
+				],
+				[
+					-50.00579457445818,
+					8.989805766194735
+				],
+				[
+					-49.72486314426456,
+					9.551668626581915
+				],
+				[
+					-49.443931714071,
+					9.832600056775476
+				],
+				[
+					-49.16300028387741,
+					9.832600056775476
+				],
+				[
+					-49.16300028387741,
+					10.113531486969066
+				],
+				[
+					-49.16300028387741,
+					10.394462917162656
+				],
+				[
+					-49.16300028387741,
+					10.675394347356246
+				],
+				[
+					-49.443931714071,
+					10.956325777549836
+				],
+				[
+					-50.00579457445818,
+					10.956325777549836
+				],
+				[
+					-50.28672600465174,
+					11.237257207743426
+				],
+				[
+					-50.5676574348453,
+					11.237257207743426
+				],
+				[
+					-51.12952029523254,
+					11.518188637936987
+				],
+				[
+					-52.81510887639402,
+					12.360982928517757
+				],
+				[
+					-53.09604030658764,
+					12.360982928517757
+				],
+				[
+					-53.3769717367812,
+					12.360982928517757
+				],
+				[
+					-54.78162888774912,
+					12.922845788904937
+				],
+				[
+					-56.467217468910604,
+					13.203777219098498
+				],
+				[
+					-58.714668910459324,
+					13.484708649292088
+				],
+				[
+					-60.962120352007986,
+					13.484708649292088
+				],
+				[
+					-63.771434653943885,
+					13.484708649292088
+				],
+				[
+					-64.33329751433101,
+					13.484708649292088
+				],
+				[
+					-66.58074895587973,
+					13.484708649292088
+				],
+				[
+					-69.95192611820269,
+					13.484708649292088
+				],
+				[
+					-73.04217185033215,
+					13.484708649292088
+				],
+				[
+					-76.13241758246161,
+					13.484708649292088
+				],
+				[
+					-80.06545760517182,
+					12.922845788904937
+				],
+				[
+					-83.7175661976884,
+					12.641914358711347
+				],
+				[
+					-87.36967479020498,
+					11.799120068130577
+				],
+				[
+					-92.70737196388316,
+					10.956325777549836
+				],
+				[
+					-96.92134341678687,
+					10.394462917162656
+				],
+				[
+					-100.57345200930351,
+					9.270737196388325
+				],
+				[
+					-104.50649203201371,
+					8.427942905807555
+				],
+				[
+					-107.87766919433673,
+					7.866080045420404
+				],
+				[
+					-110.9679149264662,
+					7.304217185033224
+				],
+				[
+					-114.0581606585956,
+					6.461422894452454
+				],
+				[
+					-115.74374923975714,
+					5.899560034065303
+				],
+				[
+					-119.67678926246734,
+					4.213971452903792
+				],
+				[
+					-119.67678926246734,
+					3.933040022710202
+				],
+				[
+					-120.51958355304808,
+					3.090245732129432
+				],
+				[
+					-120.80051498324164,
+					2.8093143019358706
+				],
+				[
+					-121.36237784362882,
+					2.247451441548691
+				],
+				[
+					-121.36237784362882,
+					1.685588581161511
+				],
+				[
+					-121.64330927382238,
+					0.5618628603871798
+				],
+				[
+					-121.924240704016,
+					-0.2809314301935757
+				],
+				[
+					-122.20517213420956,
+					-2.2474514415486766
+				],
+				[
+					-122.48610356440318,
+					-3.6521085925165977
+				],
+				[
+					-122.48610356440318,
+					-5.056765743484533
+				],
+				[
+					-122.48610356440318,
+					-6.742354324646044
+				],
+				[
+					-122.48610356440318,
+					-7.866080045420375
+				],
+				[
+					-122.20517213420956,
+					-9.832600056775476
+				],
+				[
+					-121.64330927382238,
+					-11.237257207743397
+				],
+				[
+					-121.0814464134352,
+					-12.360982928517743
+				],
+				[
+					-119.9577206926609,
+					-14.046571509679254
+				],
+				[
+					-119.39585783227372,
+					-15.170297230453599
+				],
+				[
+					-118.27213211149936,
+					-16.29402295122793
+				],
+				[
+					-117.148406390725,
+					-17.41774867200226
+				],
+				[
+					-116.0246806699507,
+					-18.26054296258303
+				],
+				[
+					-114.9009549491764,
+					-19.1033372531638
+				],
+				[
+					-113.77722922840204,
+					-19.946131543744542
+				],
+				[
+					-112.37257207743406,
+					-21.0698572645189
+				],
+				[
+					-111.24884635665975,
+					-21.631720124906053
+				],
+				[
+					-109.56325777549822,
+					-22.755445845680384
+				],
+				[
+					-107.59673776414311,
+					-23.598240136261154
+				],
+				[
+					-106.47301204336881,
+					-24.441034426841924
+				],
+				[
+					-104.22556060182015,
+					-25.283828717422665
+				],
+				[
+					-102.82090345085217,
+					-26.126623008003406
+				],
+				[
+					-95.79761769601257,
+					-28.655005879745687
+				],
+				[
+					-95.516686265819,
+					-28.935937309939277
+				],
+				[
+					-91.86457767330236,
+					-30.059663030713608
+				],
+				[
+					-91.30271481291518,
+					-30.340594460907198
+				],
+				[
+					-89.33619480156008,
+					-30.90245732129435
+				],
+				[
+					-87.36967479020498,
+					-31.46432018168153
+				],
+				[
+					-86.24594906943062,
+					-31.74525161187512
+				],
+				[
+					-85.12222334865632,
+					-32.02618304206871
+				],
+				[
+					-84.27942905807558,
+					-32.3071144722623
+				],
+				[
+					-83.43663476749478,
+					-32.58804590245589
+				],
+				[
+					-83.15570333730122,
+					-32.58804590245589
+				],
+				[
+					-82.59384047691404,
+					-32.86897733264945
+				],
+				[
+					-82.31290904672048,
+					-32.86897733264945
+				],
+				[
+					-82.03197761652692,
+					-32.86897733264945
+				],
+				[
+					-81.47011475613968,
+					-32.86897733264945
+				],
+				[
+					-81.47011475613968,
+					-33.14990876284307
+				],
+				[
+					-81.18918332594612,
+					-33.14990876284307
+				],
+				[
+					-81.18918332594612,
+					-33.43084019303663
+				],
+				[
+					-81.18918332594612,
+					-33.71177162323022
+				],
+				[
+					-81.47011475613968,
+					-33.99270305342381
+				],
+				[
+					-81.7510461863333,
+					-33.99270305342381
+				],
+				[
+					-82.03197761652692,
+					-34.27363448361737
+				],
+				[
+					-82.03197761652692,
+					-34.55456591381099
+				],
+				[
+					-82.31290904672048,
+					-34.55456591381099
+				],
+				[
+					-82.87477190710766,
+					-34.83549734400455
+				],
+				[
+					-83.15570333730122,
+					-34.83549734400455
+				],
+				[
+					-83.43663476749478,
+					-34.83549734400455
+				],
+				[
+					-83.99849762788202,
+					-35.11642877419814
+				],
+				[
+					-84.27942905807558,
+					-35.11642877419814
+				],
+				[
+					-84.84129191846276,
+					-35.11642877419814
+				],
+				[
+					-85.12222334865632,
+					-35.11642877419814
+				],
+				[
+					-85.6840862090435,
+					-35.11642877419814
+				],
+				[
+					-87.93153765059216,
+					-35.11642877419814
+				],
+				[
+					-88.21246908078572,
+					-35.11642877419814
+				],
+				[
+					-89.33619480156008,
+					-34.55456591381099
+				],
+				[
+					-90.74085195252806,
+					-33.99270305342381
+				],
+				[
+					-91.5836462431088,
+					-33.71177162323022
+				],
+				[
+					-92.70737196388316,
+					-33.14990876284307
+				],
+				[
+					-93.83109768465746,
+					-32.86897733264945
+				],
+				[
+					-94.6738919752382,
+					-32.3071144722623
+				],
+				[
+					-95.23575483562539,
+					-32.02618304206871
+				],
+				[
+					-96.35948055639975,
+					-31.46432018168153
+				],
+				[
+					-97.20227484698049,
+					-31.183388751487968
+				],
+				[
+					-99.73065771872271,
+					-29.216868740132867
+				],
+				[
+					-99.73065771872271,
+					-28.935937309939277
+				],
+				[
+					-100.57345200930351,
+					-28.093143019358507
+				],
+				[
+					-100.85438343949707,
+					-27.531280158971327
+				],
+				[
+					-101.41624629988425,
+					-26.688485868390586
+				],
+				[
+					-101.97810916027143,
+					-25.564760147616255
+				],
+				[
+					-102.25904059046505,
+					-24.721965857035485
+				],
+				[
+					-102.53997202065861,
+					-23.598240136261154
+				],
+				[
+					-102.82090345085217,
+					-22.755445845680384
+				],
+				[
+					-102.82090345085217,
+					-21.631720124906053
+				],
+				[
+					-102.82090345085217,
+					-20.788925834325283
+				],
+				[
+					-102.82090345085217,
+					-19.66520011355098
+				],
+				[
+					-102.82090345085217,
+					-19.1033372531638
+				],
+				[
+					-102.82090345085217,
+					-18.26054296258303
+				],
+				[
+					-102.82090345085217,
+					-17.69868010219588
+				],
+				[
+					-102.82090345085217,
+					-17.41774867200226
+				],
+				[
+					-102.82090345085217,
+					-16.85588581161511
+				],
+				[
+					-102.82090345085217,
+					-16.57495438142152
+				],
+				[
+					-102.82090345085217,
+					-16.29402295122793
+				],
+				[
+					-102.82090345085217,
+					-15.732160090840779
+				],
+				[
+					-102.82090345085217,
+					-15.45122866064716
+				],
+				[
+					-102.82090345085217,
+					-14.60843437006642
+				],
+				[
+					-102.82090345085217,
+					-14.327502939872844
+				],
+				[
+					-102.82090345085217,
+					-13.765640079485664
+				],
+				[
+					-102.82090345085217,
+					-13.484708649292088
+				],
+				[
+					-103.10183488104579,
+					-12.922845788904908
+				],
+				[
+					-103.38276631123935,
+					-12.641914358711333
+				],
+				[
+					-103.38276631123935,
+					-12.360982928517743
+				],
+				[
+					-103.94462917162653,
+					-12.080051498324153
+				],
+				[
+					-104.22556060182015,
+					-11.799120068130577
+				],
+				[
+					-104.78742346220727,
+					-11.237257207743397
+				],
+				[
+					-105.06835489240089,
+					-10.956325777549822
+				],
+				[
+					-105.34928632259445,
+					-10.675394347356232
+				],
+				[
+					-106.19208061317525,
+					-10.394462917162642
+				],
+				[
+					-106.75394347356237,
+					-10.113531486969066
+				],
+				[
+					-109.28232634530465,
+					-9.27073719638831
+				],
+				[
+					-109.56325777549822,
+					-9.27073719638831
+				],
+				[
+					-109.84418920569183,
+					-8.98980576619472
+				],
+				[
+					-111.81070921704693,
+					-8.70887433600113
+				],
+				[
+					-113.49629779820842,
+					-8.70887433600113
+				],
+				[
+					-115.46281780956352,
+					-8.427942905807555
+				],
+				[
+					-117.148406390725,
+					-8.147011475613965
+				],
+				[
+					-119.1149264020801,
+					-8.147011475613965
+				],
+				[
+					-120.51958355304808,
+					-7.866080045420375
+				],
+				[
+					-122.20517213420956,
+					-7.5851486152267995
+				],
+				[
+					-123.32889785498392,
+					-7.5851486152267995
+				],
+				[
+					-124.45262357575828,
+					-7.30421718503321
+				],
+				[
+					-125.57634929653258,
+					-7.02328575483962
+				],
+				[
+					-126.9810064475005,
+					-6.742354324646044
+				],
+				[
+					-128.10473216827486,
+					-6.461422894452454
+				],
+				[
+					-128.9475264588556,
+					-6.180491464258864
+				],
+				[
+					-129.79032074943635,
+					-5.618628603871699
+				],
+				[
+					-133.16149791175943,
+					-4.494902883097353
+				],
+				[
+					-134.5661550627273,
+					-3.6521085925165977
+				],
+				[
+					-135.4089493533081,
+					-3.371177162323022
+				],
+				[
+					-136.25174364388883,
+					-2.809314301935842
+				],
+				[
+					-136.813606504276,
+					-2.5283828717422665
+				],
+				[
+					-137.65640079485675,
+					-2.2474514415486766
+				],
+				[
+					-138.21826365524393,
+					-1.9665200113550867
+				],
+				[
+					-138.7801265156311,
+					-1.404657150967921
+				],
+				[
+					-139.06105794582467,
+					-1.1237257207743312
+				],
+				[
+					-139.62292080621185,
+					-0.8427942905807555
+				],
+				[
+					-140.18478366659903,
+					-0.2809314301935757
+				],
+				[
+					-140.18478366659903,
+					0
+				],
+				[
+					-140.4657150967926,
+					0.2809314301935899
+				],
+				[
+					-140.7466465269862,
+					0.5618628603871798
+				],
+				[
+					-141.02757795717977,
+					1.1237257207743596
+				],
+				[
+					-141.02757795717977,
+					1.404657150967921
+				],
+				[
+					-141.30850938737333,
+					2.247451441548691
+				],
+				[
+					-141.58944081756695,
+					2.5283828717422807
+				],
+				[
+					-141.58944081756695,
+					2.8093143019358706
+				],
+				[
+					-141.87037224776057,
+					2.8093143019358706
+				],
+				[
+					-142.15130367795413,
+					3.090245732129432
+				],
+				[
+					-142.4322351081477,
+					3.090245732129432
+				],
+				[
+					-142.7131665383413,
+					3.090245732129432
+				],
+				[
+					-142.99409796853487,
+					2.8093143019358706
+				],
+				[
+					-143.27502939872844,
+					2.5283828717422807
+				],
+				[
+					-143.83689225911561,
+					1.966520011355101
+				],
+				[
+					-144.3987551195028,
+					1.685588581161511
+				],
+				[
+					-144.96061797988997,
+					0.8427942905807697
+				],
+				[
+					-145.80341227047072,
+					0.2809314301935899
+				],
+				[
+					-146.6462065610515,
+					-0.5618628603871656
+				],
+				[
+					-149.73645229318092,
+					-3.371177162323022
+				],
+				[
+					-150.01738372337448,
+					-3.371177162323022
+				],
+				[
+					-151.70297230453602,
+					-4.775834313290943
+				],
+				[
+					-152.82669802531038,
+					-5.8995600340652885
+				],
+				[
+					-153.10762945550394,
+					-6.180491464258864
+				],
+				[
+					-153.95042374608468,
+					-7.02328575483962
+				],
+				[
+					-154.79321803666548,
+					-7.30421718503321
+				],
+				[
+					-155.63601232724622,
+					-8.147011475613965
+				],
+				[
+					-155.91694375743978,
+					-8.427942905807555
+				],
+				[
+					-156.47880661782696,
+					-8.98980576619472
+				],
+				[
+					-156.75973804802052,
+					-9.27073719638831
+				],
+				[
+					-157.32160090840776,
+					-9.832600056775476
+				],
+				[
+					-157.32160090840776,
+					-10.113531486969066
+				],
+				[
+					-157.88346376879488,
+					-10.394462917162642
+				],
+				[
+					-157.88346376879488,
+					-10.675394347356232
+				],
+				[
+					-158.1643951989885,
+					-10.956325777549822
+				],
+				[
+					-158.44532662918206,
+					-11.518188637936987
+				],
+				[
+					-158.44532662918206,
+					-11.799120068130577
+				],
+				[
+					-158.44532662918206,
+					-12.080051498324153
+				],
+				[
+					-158.44532662918206,
+					-12.360982928517743
+				],
+				[
+					-158.72625805937562,
+					-12.360982928517743
+				],
+				[
+					-158.72625805937562,
+					-12.641914358711333
+				],
+				[
+					-158.72625805937562,
+					-12.922845788904908
+				],
+				[
+					-158.72625805937562,
+					-12.922845788904908
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
 		}
 	],
 	"appState": {
@@ -73679,10 +79845,10 @@ a2f414178185f01af6a940f166fd92b0229e0375: [[Хальт.png]]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 282.83465919993245,
-		"scrollY": 212.4199592148804,
+		"scrollX": 410.98427861370317,
+		"scrollY": 253.29544236174704,
 		"zoom": {
-			"value": 2
+			"value": 1.75
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

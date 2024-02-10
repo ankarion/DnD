@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"f3b3d373f9447152","type":"text","text":"Стать профессором в топ университете мира","x":540,"y":-643,"width":250,"height":108,"color":"1"},
+		{"id":"ced955d81762d44b","type":"text","text":"Стать вольным профессором философии","x":540,"y":-535,"width":250,"height":100,"color":"3"},
+		{"id":"49bcfac958d29b94","type":"text","text":"Коллекционировать знания на священном свитке, отправлять Огме","x":540,"y":-774,"width":250,"height":131,"color":"3"},
+		{"id":"9bffedc9201aca2d","type":"text","text":"Не останавливаясь истреблять несправедливость","x":540,"y":-435,"width":250,"height":108,"color":"3"},
+		{"id":"62cb02cddb705d68","type":"text","text":" Двигать философию праведности в массы","x":180,"y":-500,"width":250,"height":60},
+		{"id":"bbaaef52a64d5f17","type":"text","text":"Становиться более ярким примером, засиять на весь мир громкой историей чтобы эта легенда передавалась из уст в уста","x":180,"y":-439,"width":250,"height":224},
+		{"id":"4e9c718aae0aff3a","type":"text","text":"Со временем, понял что один Хроб за свой век много не сделает и нужно двигаться в нескольких направлениях","x":-200,"y":-504,"width":282,"height":177},
+		{"id":"8499f748785156a6","type":"text","text":"Матушка поручила набраться уму разуму","x":-600,"y":-568,"width":260,"height":83,"color":"4"},
+		{"id":"43fde5f7cc2124db","type":"text","text":" Подав правильный пример и залечив раны мира, нужно вернуть мир на праведный путь.","x":-600,"y":-483,"width":260,"height":130,"color":"2"},
+		{"id":"821758e91ad00e31","type":"text","text":"# Цели странствия","x":-920,"y":-531,"width":238,"height":113},
+		{"id":"8e372ebe460376d7","type":"text","text":"Стать бессмертным?","x":840,"y":-257,"width":250,"height":60},
+		{"id":"966e4298c457c418","type":"text","text":"[[19.Мини Приключение Жоржа]]","x":880,"y":-119,"width":250,"height":60},
+		{"id":"ea64aee17b233c28","type":"text","text":"[[22.Приключение Гуся]]","x":880,"y":-59,"width":250,"height":60},
+		{"id":"b4fdc92d4e6a9805","type":"text","text":"Типа прям личом???","x":1160,"y":-257,"width":250,"height":60},
+		{"id":"a79014e69cf3ca22","type":"text","text":"Надо стать сильным и неубиваемым приключенцем, чтобы история лилась из всех уст и легенду было не возможно убить","x":540,"y":-327,"width":250,"height":200,"color":"3"},
+		{"id":"dd2d24b0eceec3d9","type":"text","text":"Показать что любые жители могут добиваться огромных высот и вклад каждого будет ощутимой помощью для мира","x":540,"y":-127,"width":250,"height":195,"color":"3"}
+	],
+	"edges":[
+		{"id":"d7986ca04f8c3601","fromNode":"821758e91ad00e31","fromSide":"right","toNode":"8499f748785156a6","toSide":"left"},
+		{"id":"223751cd4926c4de","fromNode":"821758e91ad00e31","fromSide":"right","toNode":"43fde5f7cc2124db","toSide":"left"},
+		{"id":"ac5b17232bb4b98c","fromNode":"43fde5f7cc2124db","fromSide":"right","toNode":"4e9c718aae0aff3a","toSide":"left"},
+		{"id":"9bce6eb528034996","fromNode":"4e9c718aae0aff3a","fromSide":"right","toNode":"62cb02cddb705d68","toSide":"left"},
+		{"id":"49d40eac3a0d5555","fromNode":"4e9c718aae0aff3a","fromSide":"right","toNode":"bbaaef52a64d5f17","toSide":"left"},
+		{"id":"9bd9e4936bd8dffb","fromNode":"62cb02cddb705d68","fromSide":"right","toNode":"ced955d81762d44b","toSide":"left"},
+		{"id":"69a1edb97f439a31","fromNode":"62cb02cddb705d68","fromSide":"right","toNode":"f3b3d373f9447152","toSide":"left"},
+		{"id":"cddaee8284bb1384","fromNode":"8499f748785156a6","fromSide":"right","toNode":"49bcfac958d29b94","toSide":"left"},
+		{"id":"0007468ee6673a72","fromNode":"a79014e69cf3ca22","fromSide":"right","toNode":"8e372ebe460376d7","toSide":"left"},
+		{"id":"2803d4411e3e4263","fromNode":"8e372ebe460376d7","fromSide":"right","toNode":"b4fdc92d4e6a9805","toSide":"left"},
+		{"id":"bc6b49b5b7d97771","fromNode":"bbaaef52a64d5f17","fromSide":"bottom","toNode":"dd2d24b0eceec3d9","toSide":"left"},
+		{"id":"f6b6e838fb49825a","fromNode":"bbaaef52a64d5f17","fromSide":"right","toNode":"9bffedc9201aca2d","toSide":"left"},
+		{"id":"5d2fac115a51f519","fromNode":"bbaaef52a64d5f17","fromSide":"right","toNode":"a79014e69cf3ca22","toSide":"left"},
+		{"id":"a3f5fa8e9381da02","fromNode":"dd2d24b0eceec3d9","fromSide":"right","toNode":"ea64aee17b233c28","toSide":"left"},
+		{"id":"3812c07142471227","fromNode":"dd2d24b0eceec3d9","fromSide":"right","toNode":"966e4298c457c418","toSide":"left"}
+	]
+}
