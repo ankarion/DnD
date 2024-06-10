@@ -1,5 +1,8 @@
-
-![[Хроб.png|500]]
+---
+type: character
+tags:
+  - character
+---
 
 ```dataviewjs
 let lvlUpRules = [200, 400, 700, 1000, 1300, 1800, 2300, 2800, 3500, 4200, 4900, 5600, 6500, 7400, 8300, 9200, 10300, 11400, 12500, 13600];
@@ -48,7 +51,7 @@ dv.span(
         + parseInt((exp / lvlUpRules[lvl-1]) * 100)
         + "/)"
     )
-dv.paragraph("**Золото:** "+gp+" зм")
+dv.paragraph("**Доход🪙:** "+gp+" зм")
 dv.paragraph("**Еда🍖:** "+food+" сухпай")
 ```
 
@@ -56,11 +59,11 @@ dv.paragraph("**Еда🍖:** "+food+" сухпай")
 > 
 > | Fraction | Репутация | ✉️ |
 > | ---- | ---- | ---- |
-> | Археологи | `$= dv.pages().where(page => page.fraction && page.fraction=="археологи"&& (page.file.folder==dv.current().file.folder)).length` | ✅ |
+> | Археологи | `$= dv.pages().where(page => page.fraction==["[[археологи]]",]&& (page.file.folder==dv.current().file.folder)).length` |  |
 > | Маги | `$= dv.pages().where(page => page.fraction=="маги"&& (page.file.folder==dv.current().file.folder)).length` |  |
 > | Наемники | `$= dv.pages().where(page => page.fraction=="наемники"&& (page.file.folder==dv.current().file.folder)).length` |  |
 > | Судостроители | `$= dv.pages().where(page => page.fraction=="судостроители"&& (page.file.folder==dv.current().file.folder)).length` |  |
-> | Плотники | `$= dv.pages().where(page => page.fraction=="плотники"&& (page.file.folder==dv.current().file.folder)).length` | ✅ |
+> | Плотники | `$= dv.pages().where(page => page.fraction=="плотники"&& (page.file.folder==dv.current().file.folder)).length` |  |
 > | Металлурги | `$= dv.pages().where(page => page.fraction=="металлурги"&& (page.file.folder==dv.current().file.folder)).length` |  |
 
 > [!warning]- 📖Приключения
@@ -69,35 +72,28 @@ dv.paragraph("**Еда🍖:** "+food+" сухпай")
 > file.link as source,
 > sum(number(filter(rewards, (t)=>contains(t, "оп")))) as оп,
 > sum(number(filter(rewards, (t)=>contains(t, "зм")))) as зм
-> from "02.Ervindell/01.Notes"
+> from "/"
 > where rewards and this.file.folder=file.folder
 > sort file.link desc
 > ```
 
-> [!quote]- 🎒Предметы
-> ```dataviewjs
-> // This regex will find the contents of a specifically formatted callout
-> const regex = />\s\[\!inventory\]-\s(.+?)((\n>\s.*?)*)\n/
-> let adventures = dv.pages().where(note=>note.file.folder==dv.current().file.folder);
-> let rows = []
-> for (const page of adventures){
-> 	const file = app.vault.getAbstractFileByPath(page.file.path)
-> 	// Read the file contents
-> 	const contents = await app.vault.read(file)	
-> 	for (const callout of contents.match(new RegExp(regex, 'sg')) || []) {
-> 		const match = callout.match(new RegExp(regex, 's')) 
-> 		rows.push([match[1], match[2], page.file.link])
-> 	}
-> }
-> dv.table(['Term', 'Definition', 'Source'], rows)
+> [!quote]+ 🎒Предметы
+> ```dataview
+> table without id
+> rewards as inventory,
+> file.link as source
+> from "/"
+> where rewards and this.file.folder=file.folder
+> flatten rewards
+> where 
+> 	!contains(rewards, "зм") and
+> 	!contains(rewards, "оп") and
+> 	!contains(rewards, "сухпай") and
+> 	!contains(rewards, "рекомендательное письмо")
+> sort inventory
 > ```
 
 > [!about] 🪞 Внешность
-> 2х метровая широкоплечая огромная фигура, но при этом закутанная в мантию скрывающую носителя. На голове шляпа волшебника, но когда ходит - звенит тяжелым доспехом. А на плече при этом сидит сова. Из оружия только один посох.
-> > [!info]- ...
-> > Высокий и мускулистый, с ярко выраженными орочьими чертами лица. Его кожа имеет светло-серый оттенок, а его волосы - темные и коротко подстриженные. На его лице выделяются ясные серые глаза, которые смотрят на мир с любопытством и добротой. Его одежда представляет собой немного нелепую смесь свеженькой брони пластинчатой и шляпы волшебника.
+> описание
 
-# Активные квесты:
-```dataview
-task from "02.Ervindell/01.Notes/Hrob" where !completed
-```
+
