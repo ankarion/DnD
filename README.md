@@ -1,3 +1,4 @@
+Welcome to my D&D notes database. This whole repository is WIP so there are a lot of POC of ways to order and reorder notes.
 # Filesystem convention:
 Directories is built on 2 digits.
 1st digit stands for:
