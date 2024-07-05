@@ -2,13 +2,13 @@
 date: "{{date}}" 
 character: 
 type: JournalEntry
-rewards: 
 tags:
   - JournalEntry
 master:
 ---
-# Важно:
+# Состав:
 
-## Квест:
+# Квест:
 
 # Заметки:
+
