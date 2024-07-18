@@ -1,6 +1,6 @@
 ---
 date: 2024-07-13
-character: "[[Даг]]"
+character: 
 type: JournalEntry
 tags:
   - JournalEntry
