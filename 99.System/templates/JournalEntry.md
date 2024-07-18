@@ -1,10 +1,11 @@
 ---
 date: "{{date}}" 
-character: 
 type: JournalEntry
 tags:
   - JournalEntry
+character: 
 master:
+subs:
 ---
 # Состав:
 
