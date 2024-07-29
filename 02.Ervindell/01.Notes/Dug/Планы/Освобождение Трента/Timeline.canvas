@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"93685f2514099188","x":-1160,"y":440,"width":746,"height":1020,"type":"group","label":"Финал"},
+		{"id":"762773062cc29415","x":-2500,"y":144,"width":299,"height":1316,"type":"group","label":"Подготовка"},
+		{"id":"aa581aa8bb8f8315","type":"text","text":"Заставить мафию начать защищать город","x":-1480,"y":909,"width":250,"height":202},
+		{"id":"cc2793b874a515b4","type":"text","text":"Одновременное уничтожение центров управления мафии пока силы все сосредоточены на обороне","x":-1120,"y":833,"width":306,"height":140},
+		{"id":"44d98e501e6433d0","type":"text","text":"Контр атака на нежить, пока часть сил нападает на город","x":-1120,"y":1090,"width":306,"height":101},
+		{"id":"05a98d89668b1380","x":-740,"y":1027,"width":306,"height":60,"type":"text","text":"Восстановление повреждений города"},
+		{"id":"6b8fb6772d608cd1","type":"text","text":"Возвращение контроля над городом","x":-740,"y":970,"width":306,"height":60},
+		{"id":"04d5a2e1c5c0e8c9","type":"text","text":"Разведать где находятся центры управления","x":-2480,"y":702,"width":259,"height":79,"color":"2"},
+		{"id":"a0afc091383d3e10","type":"text","text":"Попросить Лекса Кира:\n- выследить всех глав\n- нанять себе отряд\n- устранить/завербовать найденых мафиозников","x":-2480,"y":433,"width":259,"height":269,"color":"4"},
+		{"id":"b3145e093a06ac8e","type":"text","text":"Попросить Агату провести расследование и опубликовать в газете все негативные аспекты жизни под гнетом мафии... Ну или пропаганду придумать","x":-2480,"y":164,"width":259,"height":269,"color":"4"},
+		{"id":"23cd72da75439cba","type":"text","text":"Разведать где находятся некроманты","x":-2471,"y":1380,"width":250,"height":60,"color":"2"},
+		{"id":"7b89b4f4a0ac023f","type":"text","text":"Увести паладинов с постов охраны","x":-1820,"y":1090,"width":250,"height":60},
+		{"id":"ed2b7932c60d15a5","type":"text","text":"Увести мирных жителей вглубь защищенного района","x":-2180,"y":1069,"width":259,"height":102},
+		{"id":"93df7b961b2d0887","type":"text","text":"Передать ложную информацию об ордах зомби и павший паладинский охран пост","x":-2180,"y":1240,"width":259,"height":148},
+		{"id":"2ff5a4050715ae66","type":"text","text":"Спровоцировать нежить на атаку","x":-1820,"y":980,"width":250,"height":60},
+		{"id":"7d4a3e8e7f6a8e17","type":"text","text":"Устранить (или подчинить) некоторых командиров нежити","x":-2180,"y":780,"width":259,"height":100},
+		{"id":"2a6b262de3e937ca","type":"text","text":"Ослабить нежить чтобы она не нанесла крупный ущерб","x":-2180,"y":960,"width":259,"height":100}
+	],
+	"edges":[
+		{"id":"ad99bc9c21f851d6","fromNode":"2a6b262de3e937ca","fromSide":"right","toNode":"2ff5a4050715ae66","toSide":"left"},
+		{"id":"0cdb6e61d8ea4022","fromNode":"ed2b7932c60d15a5","fromSide":"right","toNode":"7b89b4f4a0ac023f","toSide":"left"},
+		{"id":"920d4ee071ce2ac2","fromNode":"2ff5a4050715ae66","fromSide":"right","toNode":"aa581aa8bb8f8315","toSide":"left"},
+		{"id":"a0cdd47cc305ed5d","fromNode":"7b89b4f4a0ac023f","fromSide":"right","toNode":"aa581aa8bb8f8315","toSide":"left"},
+		{"id":"2272b12dd0f3618a","fromNode":"aa581aa8bb8f8315","fromSide":"right","toNode":"cc2793b874a515b4","toSide":"left"},
+		{"id":"1bcfaac82e00cb39","fromNode":"7d4a3e8e7f6a8e17","fromSide":"bottom","toNode":"2a6b262de3e937ca","toSide":"top","fromEnd":"arrow","label":"ИЛИ"},
+		{"id":"835d952d912c12d5","fromNode":"7d4a3e8e7f6a8e17","fromSide":"right","toNode":"2ff5a4050715ae66","toSide":"left"},
+		{"id":"9010408940fa6966","fromNode":"a0afc091383d3e10","fromSide":"right","toNode":"cc2793b874a515b4","toSide":"top"},
+		{"id":"96be8b0eab964e26","fromNode":"b3145e093a06ac8e","fromSide":"right","toNode":"6b8fb6772d608cd1","toSide":"top"},
+		{"id":"ef2ee45c5733eb24","fromNode":"93df7b961b2d0887","fromSide":"right","toNode":"aa581aa8bb8f8315","toSide":"bottom"},
+		{"id":"216c5ad3674516c2","fromNode":"93df7b961b2d0887","fromSide":"top","toNode":"ed2b7932c60d15a5","toSide":"bottom"},
+		{"id":"8f365e332811df02","fromNode":"93df7b961b2d0887","fromSide":"right","toNode":"7b89b4f4a0ac023f","toSide":"bottom"},
+		{"id":"86e86552785b53a1","fromNode":"04d5a2e1c5c0e8c9","fromSide":"right","toNode":"cc2793b874a515b4","toSide":"top"},
+		{"id":"68daefb41dc593c8","fromNode":"23cd72da75439cba","fromSide":"top","toNode":"2a6b262de3e937ca","toSide":"left"},
+		{"id":"c8da124e1ea06077","fromNode":"23cd72da75439cba","fromSide":"top","toNode":"7d4a3e8e7f6a8e17","toSide":"left"},
+		{"id":"3bcedfaafa8b8d59","fromNode":"23cd72da75439cba","fromSide":"right","toNode":"44d98e501e6433d0","toSide":"bottom"},
+		{"id":"6e4d2a4e4cbcbeaa","fromNode":"aa581aa8bb8f8315","fromSide":"right","toNode":"44d98e501e6433d0","toSide":"left"},
+		{"id":"a8963dc7e8fd1a3c","fromNode":"cc2793b874a515b4","fromSide":"right","toNode":"6b8fb6772d608cd1","toSide":"left"},
+		{"id":"a2dcd64ca4886173","fromNode":"44d98e501e6433d0","fromSide":"right","toNode":"05a98d89668b1380","toSide":"left"}
+	]
+}
