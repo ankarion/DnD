@@ -5,4 +5,13 @@ tags:
 date: "{{date}}"
 size:
 ---
-
+# Игры
+```dataview
+table without id 
+    inlink as имяФайла,
+    inlink.file.day as датыИгр
+from "02.Ervindell/03.WorldInfo/Subs"
+where file.name="{{title}}"
+flatten file.inlinks as inlink
+sort inlink.file.name
+```
