@@ -10,7 +10,7 @@ size:
 table without id 
     inlink as имяФайла,
     inlink.file.day as датыИгр
-from "02.Ervindell/03.WorldInfo/Subs"
+from "02.Ervindell/99.System/Subs"
 where file.name="{{title}}"
 flatten file.inlinks as inlink
 sort inlink.file.name
