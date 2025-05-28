@@ -30,7 +30,7 @@ jobs:
         uses: actions/checkout@v4
       - name: Copy Ervindell dir
         run:
-            cp ./02.Ervindell ./_site/02.Ervindell
+            cp ./02.Ervindell ./99.System/99.WebSite/02.Ervindell
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
