@@ -31,6 +31,9 @@ jobs:
       - name: Copy Ervindell dir
         run:
             cp -r ./02.Ervindell ./99.System/99.WebSite/02.Ervindell
+      - name: Rempve Ervindell Templates dir
+        run:
+            rm -rf ./02.Ervindell/99.System/templates
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
