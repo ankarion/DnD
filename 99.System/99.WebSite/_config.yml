@@ -1,0 +1,21 @@
+# _config.yml
+
+title: D&D Chronicles
+email: ankarion@gmail.com
+description: >- # this means ignore newlines until "theme:"
+  A living chronicle of our D&D campaigns across multiple worlds.
+
+baseurl: "" # the subpath of the blog, e.g. /world-aerathor
+url: "https://ankarion.github.io/dnd-chronicles" # GitHub Pages URL
+author: Ankarion
+
+# Themes & Markdown
+theme: jekyll-theme-minimal
+markdown: GFM
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+collections:
+  world:
+    output: true

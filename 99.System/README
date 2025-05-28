@@ -1,0 +1,13 @@
+# 🛠️ System Tools
+
+Centralized tools, assets, and utilities used across all D&D worlds.
+
+## 📁 Contents
+
+| Subfolder | Description |
+|----------|-------------|
+| `00.Core/` | Shared templates, snippets, settings, and tools |
+| `01.World-Rules/` | Shared game mechanics and lore |
+| `02.Website/` | Website template and layouts |
+| `03.Scripts/` | Automation scripts (e.g., createNewWorld) |
+| `04.Media/` | Maps, portraits, icons, and other media |

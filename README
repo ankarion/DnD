@@ -1,0 +1,17 @@
+# 🧭 D&D Chronicles
+
+A modular system for tracking multiple D&D worlds with shared tools, documentation, and automation.
+
+> Designed for rotating-player campaigns with isolated worlds and consistent tooling.
+
+## 📁 Structure Overview
+
+| Folder | Purpose |
+|--------|---------|
+| `00./` | First world – includes notes and website scaffold |
+| `01.Ervindell/` | Second world – same structure, isolated content |
+| `99.System/` | System-wide tools, scripts, media, and rules |
+| `.git/hooks/` | Git automation like `pre-commit` and `post-checkout` |
+
+Each world dir is an obsidian dir, use it to explore and edit notes.  
+Use GitHub Pages to publish a wiki/blog per world.
