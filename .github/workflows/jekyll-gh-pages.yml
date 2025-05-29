@@ -30,7 +30,7 @@ jobs:
         uses: actions/checkout@v4
       - name: Copy Ervindell dir
         run: |
-            grep -l '^date: *[^{].*' ./02.Ervindell/*/*.md | xargs cp -t ./99.System/99.WebSite/02.Ervindel"
+            grep -l '^date: *[^{].*' ./02.Ervindell/*/*.md | xargs cp -t ./99.System/99.WebSite/02.Ervindel
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
