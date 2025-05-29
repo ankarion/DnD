@@ -35,8 +35,9 @@ jobs:
       - name: Copy Ervindell dir
         run: |
           find . -type f -path "./02.Ervindell/*/*/*.md" \
-              -exec grep -l '^date: *[^{].*' {} \\; \
-              -print0 | xargs -0 cp -t ./99.System/99.WebSite/02.Ervindell
+              -exec grep -l '^date: *[^{].*' {} \; \
+              -print0 | xargs -0 cp -t ./99.System/99.WebSite/02.Ervindell \; \
+              #grep -l '^date: *[^{].*' ./02.Ervindell/*/*/*.md | xargs cp -t ./99.System/99.WebSite/02.Ervindell
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
