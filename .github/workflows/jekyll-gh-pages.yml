@@ -29,9 +29,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Copy Ervindell dir
-        uses: rethab/bash-action@v1
-        with:
-            command: "grep -l 'date: [0-9]{4}-[0-9]{2}-[0-9]{2}' ./02.Ervindell/*/*.md | xargs cp -t ./99.System/99.WebSite/02.Ervindel"
+        run: |
+            grep -l '^date: *[^{].*' ./02.Ervindell/*/*.md | xargs cp -t ./99.System/99.WebSite/02.Ervindel"
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
