@@ -28,9 +28,13 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Clean world dir
+        run: |
+          rm -rf ./99.System/99.WebSite/02.Ervindell;
+          mkdir ./99.System/99.WebSite/02.Ervindell;
       - name: Copy Ervindell dir
         run: |
-            grep -l '^date: *[^{].*' ./02.Ervindell/*/*/*.md | xargs cp -t ./99.System/99.WebSite/02.Ervindel
+            grep -l '^date: *[^{].*' ./02.Ervindell/*/*/*.md | xargs cp -t ./99.System/99.WebSite/02.Ervindell
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
