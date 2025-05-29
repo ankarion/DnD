@@ -35,7 +35,7 @@ jobs:
       - name: Copy valid markdown files safely
         run: |
           find "./02.Ervindell" -type f -name "*.md" \
-          -exec grep -l '^date: *[^{].*' {} \; \
+          -exec grep -qE '^date: *[0-9]{4}-[0-9]{2}-[0-9]{2}' {} \; \
           | sort -u \
           | xargs -I{} cp {} "./99.System/99.WebSite/02.Ervindell"
         shell: bash
