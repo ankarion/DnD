@@ -34,10 +34,7 @@ jobs:
           mkdir ./99.System/99.WebSite/02.Ervindell;
       - name: Copy valid markdown files safely
         run: |
-          find "./02.Ervindell" -type f -name "*.md" \
-          -exec grep -qE '^date: *[0-9]{4}-[0-9]{2}-[0-9]{2}' {} \; \
-          | sort -u \
-          | xargs -I{} cp {} "./99.System/99.WebSite/02.Ervindell"
+          grep -rEl "^date: *[0-9]{4}-[0-9]{2}-[0-9]{2}" 02.Ervindell/ | xargs -I{} cp {} ./99.System/99.WebSite/02.Ervindell/
         shell: bash
       - name: Setup Pages
         uses: actions/configure-pages@v5
