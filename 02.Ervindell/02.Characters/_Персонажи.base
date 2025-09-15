@@ -1,10 +1,16 @@
 filters:
-  and:
-    - file.inFolder("02.Ervindell/02.Characters")
-    - file.ext == "md"
+  or:
+    - and:
+        - file.inFolder("02.Characters")
+        - file.ext == "md"
+    - and:
+        - file.inFolder("02.Ervindell/02.Characters") and file.ext == "md"
 views:
   - type: table
     name: Table
     order:
       - file.name
     cardSize: 250
+  - type: cards
+    name: Cards
+    image: note.image
