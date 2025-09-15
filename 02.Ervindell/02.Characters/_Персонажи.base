@@ -1,0 +1,10 @@
+filters:
+  and:
+    - file.inFolder("02.Ervindell/02.Characters")
+    - file.ext == "md"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+    cardSize: 250
