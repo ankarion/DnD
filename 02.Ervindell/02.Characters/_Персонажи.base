@@ -4,7 +4,8 @@ filters:
         - file.inFolder("02.Characters")
         - file.ext == "md"
     - and:
-        - file.inFolder("02.Ervindell/02.Characters") and file.ext == "md"
+        - file.inFolder("02.Ervindell/02.Characters")
+        - file.ext == "md"
 views:
   - type: table
     name: Table
