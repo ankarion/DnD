@@ -6,12 +6,35 @@ filters:
     - and:
         - file.inFolder("02.Ervindell/02.Characters")
         - file.ext == "md"
+formulas:
+  Untitled: |-
+    (
+    file.backlinks.map(file(value))
+    .filter(value.properties.type=="JournalEntry")
+    .filter(value.properties.rewards!=null)
+    .map(value.properties.rewards.flat())
+    .map(value.toString().split(",").flat().map(value.split(" ")).flat().filter(value.contains("оп"))).flat().map(value.split("оп").flat()).flat()
+  journeys: file.backlinks.map(file(value))
+  rewards: formula.journeys.map(value.properties.rewards).flat()
+  gold: formula.rewards.filter(value.contains("зм")).map(value.split("зм")[0]).map(number(value))
+  test: ""
+properties:
+  formula.Untitled:
+    displayName: xp
 views:
   - type: table
     name: Table
     order:
       - file.name
+      - formula.gold
+      - formula.test
     cardSize: 250
   - type: cards
     name: Cards
+    filters:
+      and:
+        - file.backlinks.contains(this.file.asLink())
+    order:
+      - file.name
+      - formula.Untitled
     image: note.image
