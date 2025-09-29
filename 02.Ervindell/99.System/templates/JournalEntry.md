@@ -8,7 +8,7 @@ master:
 subs:
 ---
 # Состав:
-![[_Персонажи.base#Cards]]
+![[_Персонажи.base#AdventureView]]
 
 # Квест:
 

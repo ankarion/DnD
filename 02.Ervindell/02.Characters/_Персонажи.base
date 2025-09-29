@@ -17,23 +17,30 @@ formulas:
   journeys: file.backlinks.map(file(value))
   rewards: formula.journeys.map(value.properties.rewards).flat()
   gold: formula.rewards.filter(value.contains("зм")).map(value.split("зм")[0]).map(number(value))
-  test: ""
+  level: file.properties.keys()
 properties:
   formula.Untitled:
     displayName: xp
+  formula.level:
+    displayName: level
 views:
   - type: table
     name: Table
     order:
       - file.name
-      - formula.gold
-      - formula.test
+      - formula.level
     cardSize: 250
   - type: cards
-    name: Cards
+    name: AdventureView
     filters:
       and:
         - file.backlinks.contains(this.file.asLink())
+    order:
+      - file.name
+      - formula.Untitled
+    image: note.image
+  - type: cards
+    name: Everyone
     order:
       - file.name
       - formula.Untitled
