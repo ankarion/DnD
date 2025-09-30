@@ -8,12 +8,11 @@ filters:
         - file.ext == "md"
 formulas:
   Untitled: |-
-    (
     file.backlinks.map(file(value))
     .filter(value.properties.type=="JournalEntry")
     .filter(value.properties.rewards!=null)
     .map(value.properties.rewards.flat())
-    .map(value.toString().split(",").flat().map(value.split(" ")).flat().filter(value.contains("оп"))).flat().map(value.split("оп").flat()).flat()
+    .map(value.toString().split(",").flat().map(value.split(" ")).flat().filter(value.contains("оп"))).flat().map(value.split("оп").flat()).flat().join("")
   journeys: file.backlinks.map(file(value))
   rewards: formula.journeys.map(value.properties.rewards).flat()
   gold: formula.rewards.filter(value.contains("зм")).map(value.split("зм")[0]).map(number(value))
@@ -29,6 +28,7 @@ views:
     order:
       - file.name
       - formula.level
+      - formula.Untitled
     cardSize: 250
   - type: cards
     name: AdventureView
