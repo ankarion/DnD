@@ -1,7 +1,5 @@
 ---
 type: character
-tags:
-  - character
 character:
 ---
 

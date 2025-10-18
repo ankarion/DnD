@@ -1,11 +1,13 @@
 ---
-date: "{{date}}" 
+date: "{{date}}"
 type: JournalEntry
 tags:
   - JournalEntry
 character: 
-master:
-subs:
+master: 
+subs: 
+title: "{{title}}"
+draft:
 ---
 # Состав:
 ![[_Персонажи.base#AdventureView]]

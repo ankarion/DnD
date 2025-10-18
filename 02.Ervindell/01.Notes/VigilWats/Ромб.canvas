@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"f3f0a404c30a5604","type":"text","text":"![[00.концепт#Концепт]]","x":-120,"y":-368,"width":436,"height":348},
+		{"id":"23eff45d49dff787","type":"text","text":"![[00.концепт#Статы]]","x":-499,"y":180,"width":379,"height":218},
+		{"id":"36d347e04fa7af75","type":"text","text":"![[00.концепт#Характер]]","x":316,"y":180,"width":379,"height":218},
+		{"id":"45f4f2df245cfa80","type":"text","text":"![[00.концепт#Семья]]","x":-91,"y":620,"width":379,"height":218},
+		{"id":"049db820d18b5d94","type":"text","text":"![[00.концепт#Окружение]]","x":695,"y":620,"width":379,"height":218},
+		{"id":"68142018b88928e9","type":"text","text":"![[00.концепт#Привычки]]","x":-499,"y":1120,"width":379,"height":218},
+		{"id":"f78308b3a26a444a","type":"text","text":"![[00.концепт#Отыгрыш]]","x":316,"y":1120,"width":379,"height":218},
+		{"id":"43dcdb48be4fd00c","type":"text","text":"![[00.концепт#Внешность]]","x":-91,"y":1560,"width":379,"height":218},
+		{"id":"62a235e8c1a60410","type":"text","text":"![[00.концепт#Работа]]","x":-878,"y":620,"width":379,"height":218},
+		{"id":"3ba3d1a15fcac120","x":-878,"y":-437,"width":418,"height":69,"type":"text","text":"# Виджил Ватс(Vigil Watts)"}
+	],
+	"edges":[
+		{"id":"01e4debfa0fd430c","fromNode":"f3f0a404c30a5604","fromSide":"bottom","toNode":"23eff45d49dff787","toSide":"top"},
+		{"id":"62da9ab1444159a1","fromNode":"f3f0a404c30a5604","fromSide":"bottom","toNode":"36d347e04fa7af75","toSide":"top"},
+		{"id":"273c02a8158f6f52","fromNode":"36d347e04fa7af75","fromSide":"bottom","toNode":"049db820d18b5d94","toSide":"top"},
+		{"id":"db86c3a387689642","fromNode":"36d347e04fa7af75","fromSide":"bottom","toNode":"45f4f2df245cfa80","toSide":"top"},
+		{"id":"9d73cfefcf1da8b2","fromNode":"23eff45d49dff787","fromSide":"bottom","toNode":"45f4f2df245cfa80","toSide":"top"},
+		{"id":"3a38d583c321b994","fromNode":"23eff45d49dff787","fromSide":"bottom","toNode":"62a235e8c1a60410","toSide":"top"},
+		{"id":"edc25ffc8856f420","fromNode":"62a235e8c1a60410","fromSide":"bottom","toNode":"68142018b88928e9","toSide":"top"},
+		{"id":"38f20c140e1bd8d9","fromNode":"45f4f2df245cfa80","fromSide":"bottom","toNode":"68142018b88928e9","toSide":"top"},
+		{"id":"6c8720739cd23e96","fromNode":"45f4f2df245cfa80","fromSide":"bottom","toNode":"f78308b3a26a444a","toSide":"top"},
+		{"id":"50a0761c17bd0632","fromNode":"049db820d18b5d94","fromSide":"bottom","toNode":"f78308b3a26a444a","toSide":"top"},
+		{"id":"ba28fc8a9e9240b5","fromNode":"68142018b88928e9","fromSide":"bottom","toNode":"43dcdb48be4fd00c","toSide":"top"},
+		{"id":"5b140c91421d38ce","fromNode":"f78308b3a26a444a","fromSide":"bottom","toNode":"43dcdb48be4fd00c","toSide":"top"},
+		{"id":"0e0a50d106ca032e","fromNode":"45f4f2df245cfa80","fromSide":"right","toNode":"049db820d18b5d94","toSide":"left"},
+		{"id":"7b9197df20eb01f4","fromNode":"45f4f2df245cfa80","fromSide":"left","toNode":"62a235e8c1a60410","toSide":"right"}
+	]
+}
