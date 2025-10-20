@@ -1,0 +1,12 @@
+filters:
+  and:
+    - type == "item"
+views:
+  - type: table
+    name: Table
+  - type: cards
+    name: Inventory
+    filters:
+      and:
+        - file.backlinks.contains(this.file.asLink())
+    image: note.image
