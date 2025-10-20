@@ -1,12 +1,23 @@
 filters:
   and:
     - type == "item"
+formulas:
+  owners: file.backlinks.map(file(value).properties.character)
+  contains?: file.backlinks.map(file(value).properties.character).contains(this.file.properties.character)
 views:
   - type: table
     name: Table
+    order:
+      - file.name
+      - formula.owners
   - type: cards
     name: Inventory
     filters:
       and:
-        - file.backlinks.contains(this.file.asLink())
+        - file.backlinks.map(file(value).properties.character).contains(this.file.properties.character)
+    order:
+      - file.name
+    sort:
+      - property: formula.contains?
+        direction: DESC
     image: note.image

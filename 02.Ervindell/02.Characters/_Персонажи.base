@@ -8,11 +8,10 @@ filters:
         - file.ext == "md"
 formulas:
   Untitled: |-
-    file.backlinks.map(file(value))
-    .filter(value.properties.type=="JournalEntry")
+    file.backlinks.map(file(value)) .filter(value.properties.type=="JournalEntry")
     .filter(value.properties.rewards!=null)
     .map(value.properties.rewards.flat())
-    .map(value.toString().split(",").flat().map(value.split(" ")).flat().filter(value.contains("оп"))).flat().map(value.split("оп").flat()).flat().join("")
+    .map(value.toString().split(",").flat().map(value.split(" ")).flat().filter(value.contains("оп"))).flat().map(value.split("оп").flat())
   journeys: file.backlinks.map(file(value))
   rewards: formula.journeys.map(value.properties.rewards).flat()
   gold: formula.rewards.filter(value.contains("зм")).map(value.split("зм")[0]).map(number(value))
@@ -29,6 +28,9 @@ views:
       - file.name
       - formula.level
       - formula.Untitled
+    sort:
+      - property: formula.Untitled
+        direction: DESC
     cardSize: 250
   - type: cards
     name: AdventureView
@@ -44,4 +46,10 @@ views:
     order:
       - file.name
       - formula.Untitled
+    image: note.image
+  - type: cards
+    name: PersonalView
+    filters:
+      and:
+        - file.properties.character==this.file.properties.character
     image: note.image
