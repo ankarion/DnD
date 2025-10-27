@@ -1,15 +1,15 @@
 {
 	"nodes":[
-		{"id":"f3f0a404c30a5604","type":"text","text":"![[00.концепт#Концепт]]","x":-120,"y":-368,"width":436,"height":348},
-		{"id":"23eff45d49dff787","type":"text","text":"![[00.концепт#Статы]]","x":-499,"y":180,"width":379,"height":218},
-		{"id":"36d347e04fa7af75","type":"text","text":"![[00.концепт#Характер]]","x":316,"y":180,"width":379,"height":218},
-		{"id":"45f4f2df245cfa80","type":"text","text":"![[00.концепт#Семья]]","x":-91,"y":620,"width":379,"height":218},
-		{"id":"049db820d18b5d94","type":"text","text":"![[00.концепт#Окружение]]","x":695,"y":620,"width":379,"height":218},
-		{"id":"68142018b88928e9","type":"text","text":"![[00.концепт#Привычки]]","x":-499,"y":1120,"width":379,"height":218},
-		{"id":"f78308b3a26a444a","type":"text","text":"![[00.концепт#Отыгрыш]]","x":316,"y":1120,"width":379,"height":218},
-		{"id":"43dcdb48be4fd00c","type":"text","text":"![[00.концепт#Внешность]]","x":-91,"y":1560,"width":379,"height":218},
-		{"id":"62a235e8c1a60410","type":"text","text":"![[00.концепт#Работа]]","x":-878,"y":620,"width":379,"height":218},
-		{"id":"3ba3d1a15fcac120","x":-878,"y":-437,"width":418,"height":69,"type":"text","text":"# Виджил Ватс(Vigil Watts)"}
+		{"id":"3ba3d1a15fcac120","type":"text","text":"# Виджил Ватс(Vigil Watts)","x":-878,"y":-437,"width":418,"height":69},
+		{"id":"f3f0a404c30a5604","type":"text","text":"![[00.концепт#Концепт]]","x":-400,"y":-437,"width":436,"height":348},
+		{"id":"23eff45d49dff787","type":"text","text":"![[00.концепт#Статы]]","x":-589,"y":40,"width":379,"height":218},
+		{"id":"36d347e04fa7af75","type":"text","text":"![[00.концепт#Характер]]","x":-153,"y":40,"width":379,"height":218},
+		{"id":"62a235e8c1a60410","type":"text","text":"![[00.концепт#Работа]]","x":-968,"y":402,"width":379,"height":218},
+		{"id":"45f4f2df245cfa80","type":"text","text":"![[00.концепт#Семья]]","x":-371,"y":402,"width":379,"height":218},
+		{"id":"049db820d18b5d94","type":"text","text":"![[00.концепт#Окружение]]","x":226,"y":402,"width":379,"height":218},
+		{"id":"68142018b88928e9","type":"text","text":"![[00.концепт#Привычки]]","x":-589,"y":760,"width":379,"height":218},
+		{"id":"f78308b3a26a444a","type":"text","text":"![[00.концепт#Отыгрыш]]","x":-153,"y":760,"width":379,"height":218},
+		{"id":"43dcdb48be4fd00c","type":"text","text":"![[00.концепт#Внешность]]","x":-371,"y":1120,"width":379,"height":218}
 	],
 	"edges":[
 		{"id":"01e4debfa0fd430c","fromNode":"f3f0a404c30a5604","fromSide":"bottom","toNode":"23eff45d49dff787","toSide":"top"},

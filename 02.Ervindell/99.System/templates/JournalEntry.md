@@ -3,11 +3,9 @@ date: "{{date}}"
 type: JournalEntry
 tags:
   - JournalEntry
-character: 
-master: 
-subs: 
+character:
+master:
 title: "{{title}}"
-draft:
 ---
 # Состав:
 ![[_Персонажи.base#AdventureView]]
@@ -15,4 +13,3 @@ draft:
 # Квест:
 
 # Заметки:
-- встретились в тавене [[Фонт]]
