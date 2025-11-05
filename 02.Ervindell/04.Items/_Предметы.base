@@ -4,12 +4,15 @@ filters:
 formulas:
   owners: file.backlinks.map(file(value).properties.character)
   contains?: file.backlinks.map(file(value).properties.character).contains(this.file.properties.character)
+  Source: list(file.backlinks.map(file(value)))
 views:
   - type: table
     name: Table
     order:
       - file.name
       - formula.owners
+      - formula.Source
+    sort: []
   - type: cards
     name: Inventory
     filters:
@@ -17,6 +20,7 @@ views:
         - file.backlinks.map(file(value).properties.character).contains(this.file.properties.character)
     order:
       - file.name
+      - formula.Source
     sort:
       - property: formula.contains?
         direction: DESC
